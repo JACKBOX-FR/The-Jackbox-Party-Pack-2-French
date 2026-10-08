@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pas d'auberge sur le toit ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Le No Roof Inn - moins cher car il n'y a pas de frais généraux ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un nom pour un hôtel vraiment bon marché ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378609_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378607_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

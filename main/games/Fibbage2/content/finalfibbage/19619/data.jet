@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chemises des Eagles de Philadelphie, chaînes de portefeuille, peignes à cran d'arrêt, tatouages temporaires, sous-vêtements, gel pour cheveux, lits de bronzage, machines de casino, plaques d'immatriculation, coups de poing américains, jeep wranglers, spanx, huile d'olive, DVD de Jersey Shore, soupe au poulet pour les livres d'âme, semelles intérieures de chaussures, mini-réfrigérateurs, barils vides ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Maillot ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eau de Cologne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon eBay, l'objet eBay le plus populaire vendu dans le New Jersey. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Colone, parfum pour hommes, parfum pour hommes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390239_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

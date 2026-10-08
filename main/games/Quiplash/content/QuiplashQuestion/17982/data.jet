@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "nettoyer la grotte|nettoyage de la grotte ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, tu sais à quel point il est difficile d'éliminer la merde de chauve-souris (sfx : bip) des choses ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La chose la plus difficile dans le fait d'être Batman",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374397_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374395_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

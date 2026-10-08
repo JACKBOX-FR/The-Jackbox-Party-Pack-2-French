@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les maîtresses, les Dalaï Lamas réincarnés, les voyageurs dans le temps, les chiens d'aveugle, les morts, les maîtres de la flûte de pan, les ours polaires, les reines d'Angleterre à la retraite, les gens qui détestent la coriandre, les mamans avec un appareil dentaire, les personnes avec des prénoms d'insectes, les stagiaires, les sans-abri attirants, les gars avec une barbe, les gens avec des scores SAT parfaits, les ennemis de son ex-femme, les vieux jardiniers, les gens qui avaient besoin de faire la lessive ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "fête ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hommes avec de petits pénis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La fête organisée par Ant Smith, un poète anglais, en 2015, avait une liste d'invités très précise. C'était uniquement pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hommes avec de petites bites,hommes avec un petit pénis,hommes avec de petits pénis,hommes avec de petites bites ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "380900_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380897_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gary Busey",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Hé, même si Gary Busey te voyait nue, il penserait simplement que tu es une licorne qui parle. Alors ne soyez pas trop modeste. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La pire personne à qui recevoir un bain à l'éponge ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375750_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375748_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

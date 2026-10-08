@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "examens de conduite, préservatifs, petits orteils, vaccins contre la grippe, caleçons, draps assouplissants, désinfectants pour les mains, brosses à dents, bières légères, professeurs de français, vacances, pensées heureuses, cuillères-fourchettes, serveurs, chats, coupes de cheveux, déodorants, études ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sciences ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "soutiens-gorge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, après quinze longues années, une étude unique du professeur français Jean-Denis Rouillon est parvenue à la conclusion que les <BLANK> sont totalement inutiles. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "soutiens-gorge ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397304_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "cloche ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oh, ouais, je parie que tu veux plus de cloches ! Tu sais ce que je veux ? Plus de références SNL actuelles ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La musique d’aujourd’hui a besoin de plus <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377058_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377056_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rodéo, Magicien, Fabrication de fudge, Observation des oiseaux, Travail du bois, Spleunking, Courses de chevaux, Réparation automobile, Ski nautique, Poterie, Boire, Gravure de livres, Magasin d'antiquités, Pêche à la mouche, Décathlon, Montgolfière, Château de sable, Travail caritatif ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "samedi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jardinage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Waouh!!!! Le premier samedi de mai est officiellement la « Journée mondiale du nu <BLANK> ! ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Horticulture ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "406116_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406113_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

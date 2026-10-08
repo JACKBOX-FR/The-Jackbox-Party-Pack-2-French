@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "machines à compter les espèces, gommes, lunettes de lecture, marqueurs, café, coffres-forts, papier, timbres, sacs polochons, bâtons, supports, enveloppes, vérification des bordereaux de dépôt, pansements, cotons-tiges, lotions, fermetures éclair, sacs en plastique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "baron de la drogue",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "élastiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le baron de la drogue colombien Pablo Escobar avait tellement d'argent qu'il dépensait 2 500 $ par mois rien que pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "élastiques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "384149_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384146_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

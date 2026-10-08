@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Buckingham Poolace|Buckingham Poo-dentelle ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Buckingham Poolace! Bon ! HAAAAA ! Buckingham Poolace. (peut-être un peu plus en riant) ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d'un papier toilette spécialement conçu pour la reine d'Angleterre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375483_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375481_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

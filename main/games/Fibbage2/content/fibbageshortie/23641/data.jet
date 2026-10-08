@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "serrer la main, pleurer, mâcher du chewing-gum, twerk, jurer, chuchoter, manger une chauve-souris morte, envoyer des SMS, s'embrasser, lire, faire du roller, yodeler, faire des pompes, se moucher, parler avec des phrases incomplètes, donner des high-fives, harmoniser, jouer à la marelle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "protestation ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "étreindre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2006, la police de Shanghai a étrangement arrêté 11 personnes pour <BLANK> en public dans le cadre d'une manifestation. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "faire des câlins,s'embrasser,s'embrasser,s'embrasser,se faire des câlins,faire des câlins,faire des câlins,faire des câlins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415787_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

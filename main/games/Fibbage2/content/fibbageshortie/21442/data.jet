@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chiens boinking, sexe de cheval, avaler des tétons, Nixon nu, tirer le pénis, le cul de Cher, sauter des chiens, nuit d'érection, Vampire 69, tout le monde saute, jongler avec les seins, l'orgie de Shakespeare, chatouiller les testicules, vulves électriques, frotter les organes génitaux, massage anal, croquer les fesses, coït de clown ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "peinture ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hitler se masturbe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d’un tableau de Salvador Dali de 1973 ne contient que deux mots décrivant une situation sexuelle surprenante. Le titre en deux mots de la pièce est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hitler se branle, Hitler lui donne une fessée, Hitler se masturbe, Hitler se branle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "405531_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405528_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "flamants roses avec des seins|flamants roses avec des seins|flamants roses avec des seins|flamants roses avec des seins|flamants roses avec des seins|flamants roses avec des seins|flamants roses à gros seins|flamants roses à gros seins ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, ces flamants roses sexy rendraient vos voisins fous de JALOUSIE ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une décoration de pelouse qui rendra les voisins fous à coup sûr ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375633_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375631_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

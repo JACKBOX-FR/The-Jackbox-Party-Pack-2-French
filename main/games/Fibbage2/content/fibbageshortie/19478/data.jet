@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "perruques,poils de poitrine,nouilles,hamburger,comptables,baguettes,le président,sachets de thé,neveux,morve,porcs-épics,alcooliques,cordons,poils de narine,prisonniers,gerbilles,sénateurs,enfermés ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tricoter ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poils de chien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kendall Corlius est l'auteur d'un livre d'artisanat bizarre intitulé <i>Knitting With <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "386912_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386909_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

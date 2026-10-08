@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'était un connard|c'était un connard|c'était un connard|c'était un connard ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, les traiter de connards (sfx : bip) est probablement une meilleure façon de conclure. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Les pires mots à dire pour l’ouverture d’un éloge funèbre lors d’un enterrement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374679_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374677_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

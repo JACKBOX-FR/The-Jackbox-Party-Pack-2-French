@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "avec un câlin ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, un simple câlin qui montre non seulement de l'amour et de la compassion, mais vérifie également la présence d'armes sur sa personne. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La meilleure façon de vaincre le terrorisme est... ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378870_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378868_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

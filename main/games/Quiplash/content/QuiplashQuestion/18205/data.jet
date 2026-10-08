@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi à la fontaine|pipi dans une fontaine|pipi dans les fontaines|pipi à la fontaine ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ne faites pas pipi dans la fontaine ! Je dois y mettre la main pour voler des pièces ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Chose amusante à faire si on est enfermé dans le centre commercial pendant la nuit ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375744_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375742_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

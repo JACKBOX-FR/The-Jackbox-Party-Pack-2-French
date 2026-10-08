@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "ils sont paresseux|trop paresseux ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Trop paresseux ! Pas surprenant. Si vous êtes déjà né en smoking, pourquoi travailler ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La raison n°1 pour laquelle les pingouins ne peuvent pas voler ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374385_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374383_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

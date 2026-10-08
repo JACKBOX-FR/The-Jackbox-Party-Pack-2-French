@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a pris des photos avec le corps, est entré dans le cercueil, a conduit jusqu'en Géorgie, a vendu le corps, s'est assis dessus, a volé les vêtements du corps, a fait des beignets dans le parking, a habillé le corps avec des costumes, est allé à la pêche, s'est fait laver la voiture, s'est fait couper les cheveux, est allé à un match de baseball, a diffusé de la musique rap, a vendu des billets pour voir le corps, a mis des feux d'artifice dans le cercueil, est allé chez Applebee, a changé les corps, a reconstitué le week-end à Bernie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "funérailles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "arrêté pour des beignets ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En Floride, quelques conducteurs de corbillard ont été licenciés parce que, alors qu'ils transportaient un corps à un enterrement, ils <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "J'ai eu des beignets, j'ai eu un service au volant, j'ai pris le petit-déjeuner, je me suis penché pour le petit-déjeuner ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "409161_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "409158_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

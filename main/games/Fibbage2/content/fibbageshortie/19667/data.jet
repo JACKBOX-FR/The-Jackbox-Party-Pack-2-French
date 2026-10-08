@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des chenilles, une tombe, des chiots mignons, des enfants qui pleurent, des bandes dessinées, des caca, des gens qui éternuent, des animaux habillés en personnes, leur propre reflet, des gens grossiers, des ovnis, des sous-vêtements, des gens qui se font couper les cheveux, leur facture de téléphone portable, des oiseaux qui volent, de la neige qui tombe, un rat, un spectacle d'humour ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "syndrôme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "de superbes œuvres d'art ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les personnes souffrant du syndrome de Stendhal peuvent avoir des vertiges et même s'évanouir lorsqu'elles voient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bel art, grand art, bon art, art, chefs-d'œuvre d'art, un chef-d'œuvre d'art ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "414224_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "391391_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

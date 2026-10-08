@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "céréales, tétons, films d'horreur, papier peint, habitudes d'accouplement des pandas, café, habitudes de téléphone portable, carottes, podcasts, poissons disparus, personnages fictifs, jeux vidéo, défilés, regarder la télévision, le coude, pingouins, macaronis, jeux d'argent ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "études ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cercles de culture ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce qu'étudie un « céréologue ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cercles de terrain, atterrissages d'OVNIS ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396227_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396224_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

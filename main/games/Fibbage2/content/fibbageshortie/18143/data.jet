@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Prostituée, nue, fasciste, alcoolique, pottymouth, cigarette, voyeur, surdose, éducation sexuelle, chômeur, dominatrice, tante ivre, anti-vaccin, rééducation, vacances de printemps, lupus, triple X, Dingleberry ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vermont ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cinquante nuances de Grey ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le produit KK0015958 du catalogue Vermont Teddy Bear est un ours qui semble inapproprié pour les enfants, appelé <BLANK> Bear. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cinquante nuances de Grey, 50 nuances de Grey, 50 nuances de Grey ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375326_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ville de Tittie|Ville de Titie|Ville de Tit|Boob City|Ville de Boob|ville de boobie|ville de boobie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, et vous savez, non seulement la Nouvelle-Orléans devrait avoir un surnom lié au sein, mais toute l'aréole environnante devrait aussi. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un surnom peu connu pour la Nouvelle-Orléans ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377193_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377191_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

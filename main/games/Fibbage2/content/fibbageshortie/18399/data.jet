@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "essence, éthanol, engrais, or, bière, eau, acier, aluminium, pluies acides, médicaments contre la toux, whisky, WD-40, colle, monoxyde de carbone, méthamphétamine, peinture, gouttes pour les yeux, cocaïne ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "téquila ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "diamants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2008, des scientifiques de l'Université nationale autonome du Mexique ont réussi à transformer la tequila en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un diamant, des diamants, un diamant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377060_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

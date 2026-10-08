@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "salamandres, Norvégiens, police des frontières, pianos, digues dentaires, têtards, fans de Lady Gaga, tailleurs-pantalons, Oreos, sacs banane, soutiens-gorge de sport, Snuggies, coupe-ongles, lamas, ours polaires, Legos Simpsons, costumes de Batman, boîtes vides ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "faire de la contrebande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "couches ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Fin 2014, la police des frontières du nord de la Suède a arrêté deux criminels inhabituels qui tentaient de faire entrer clandestinement plus de 25 000 <BLANK> dans le pays. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "couches, couches pour bébés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "372356_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372353_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

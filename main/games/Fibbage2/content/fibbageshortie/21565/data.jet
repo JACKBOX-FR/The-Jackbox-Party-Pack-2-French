@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lui poser des questions, faire pipi dans son pantalon, danser, se curer le nez, parler de Pokémon, rots, faire des bruits de pet, jouer à des jeux vidéo, manger, dormir, envoyer des SMS à des amis, demander des bonbons, vomir, cracher par terre, jouer de la batterie, jouer de la mauvaise musique, courir partout, citer Borat ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "ravisseur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chanter une chanson gospel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans un geste qui semble tout droit sorti d'une comédie loufoque, un ravisseur a relâché un garçon d'Atlanta de 10 ans parce qu'il ne voulait pas s'arrêter <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chanter, chanter une chanson, chanter du gospel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408256_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

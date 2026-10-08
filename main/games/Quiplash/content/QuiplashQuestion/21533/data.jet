@@ -1,0 +1,43 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Paul et Mark Cook ",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un très mauvais pouvoir de super-héros ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Surrey ensoleillé, Royaume-Uni ",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "407707_0f",
+      "n": "PromptAudio"
+    }
+  ]
+}

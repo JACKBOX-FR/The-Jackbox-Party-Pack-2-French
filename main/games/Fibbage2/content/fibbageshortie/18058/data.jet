@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hooey, les genoux d'abeille, gonfler, astucieux, couverture mouillée, baloney, slammin', cowabunga, booya, très bien alors, dope, poêle à la maison, pyjama de chat, duh, se faire jiggy avec, berceau, playa, schwing ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Larry ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sandwich aux jarrets ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "00h02 - 5 janvier 2015 Larry King, alias @kingsthings, a tweeté : « Est-ce que quelqu'un utilise encore le terme <BLANK> ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sandwich aux jarrets, knucklesandwich, sandwichs aux jarrets ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419705_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374876_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

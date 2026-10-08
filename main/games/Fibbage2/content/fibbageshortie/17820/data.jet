@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "disques, momies, boomerangs, crottes de kangourou, ongles de pieds, wallabies, têtes de Barbie, météorites, dents humaines, œufs de dinosaures, New Coke, crottes de nez, os de poulet, téléphones à clapet, petits pots, doigts coupés, fil dentaire usagé, larmes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Aboyeur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "peluches de nombril ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Graham Barker d'Australie a été reconnu par le <i>Le Livre Guinness des records du monde</i> pour posséder la plus grande collection de <BLANK>, qu'il stocke dans des bocaux. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "peluches de nombril, peluches de nombril, peluches ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372593_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

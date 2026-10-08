@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Seulement deux tétons ?|juste deux tétons|seulement 2 tétons|juste 2 tétons|si peu de tétons ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui. Vous voyez, les chiens ne comprennent pas que ce n’est pas la quantité de tétines, c’est le diamètre. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ce que pensent les chiens quand ils voient des gens nus ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "381570_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "381568_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

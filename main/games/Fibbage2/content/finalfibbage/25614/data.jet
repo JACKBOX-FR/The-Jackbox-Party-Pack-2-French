@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "10000 Maniacs!,Flashdance,Maniac Island,Man of La Mancha,Manic Monday,10000 Crazies,A Bunch of Maniacs,Maniac City,10000 Days of Horror,A Thousand Zombies,7 Maniacs,Courez, Dummy, Run!,Mani-Pedis for Maniacs,A Million Maniacs,Mac et moi,One Flight Over the Cuckoo's Nid, Manzilla, Folie sans fin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "les maniaques",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Deux mille maniaques ! ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom du film qui a donné son nom au groupe 10,000 Maniacs. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "2 000 maniaques, 2 000 maniaques, 2 000 maniaques !, 2 000 maniaques ! ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "430111_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430108_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

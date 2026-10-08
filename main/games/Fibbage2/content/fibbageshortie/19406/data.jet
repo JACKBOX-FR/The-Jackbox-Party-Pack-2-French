@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sexe, respiration, folie, pieds, fesses, marcher, cheveux en arrière, se parler, être roux, vieillir, l'été, des enfants moches, chanter, rire, être une femme, perdre des dents, l'air, le mot « pet » ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Romain ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "urine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous pensez que vos impôts sont trop élevés ? Au moins, vous n'avez pas vécu sous l'empereur romain Vespasien, qui a réussi à imposer une taxe sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pipi, pisse, urée ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "385064_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385061_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

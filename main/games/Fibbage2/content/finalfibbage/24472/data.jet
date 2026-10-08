@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Facteur, chauffeur, serveur, agriculteur, représentant du service clientèle, livreur, cuisinier de fruits de mer, musicien de jazz, prostituée, professeur de danse, bijoutier, boulanger, guide touristique, pêcheur, météorologue, vendeur de hot-dogs, promeneur de chiens, peintre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "licence ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fleuriste ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La Louisiane est le seul État des États-Unis qui exige une licence délivrée par le gouvernement pour exercer cette profession. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un fleuriste ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "423885_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

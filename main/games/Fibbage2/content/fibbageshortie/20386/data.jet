@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des missiles nucléaires, un cheval, un essaim d'abeilles, de la dynamite, un chariot, 100 personnes, un poêle, un boa constrictor, des feux d'artifice, un éléphant, une femme en travail, les Knicks de New York, des cigares cubains, une fanfare, un cracheur de feu, une mine vivante, un porc-épic, un fusil automatique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Castro ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poulets vivants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Fidel Castro a été expulsé de l'hôtel Waldorf Astoria à New York pour avoir tenté d'introduire <BLANK> dans sa chambre. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "des poules, une bande de poules ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396296_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

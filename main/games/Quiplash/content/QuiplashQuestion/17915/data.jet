@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "sarcasme ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, les singes détestent le sarcasme. Je vais vous montrer. (sfx : bruits calmes de singe) (sarcastique) Oh, tout le monde adore la façon dont vous vous toilettez les uns les autres et jetez vos excréments. (sfx : bruits de singe en colère) Ah ! Ils me mordent ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Tout le monde sait que les singes détestent <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374133_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374131_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

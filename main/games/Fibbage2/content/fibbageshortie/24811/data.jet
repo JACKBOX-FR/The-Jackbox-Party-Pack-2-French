@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jeter, nager avec, repeindre, vomir, renverser du jus, trébucher, lécher, pirater, super coller, perdre, aller dans un club de danse, scier, nommer, utiliser Facebook avec, tweeter, crier dessus, dormir sans, courir un marathon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cheville ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "éblouissant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, une femme au Royaume-Uni a été condamnée à une amende pour <BLANK> son moniteur de cheville ordonné par le tribunal. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mettre des diamants ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "425641_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

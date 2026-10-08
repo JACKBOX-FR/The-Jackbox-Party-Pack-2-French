@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un mini-cheeseburger, une aile de poulet, des Doritos au fromage nacho, un bar Snickers, des nouilles ramen, une queue de homard, une balle de baseball dédicacée, des oursons gommeux, un œuf au plat, des billets pour le prochain match, des macaronis au fromage, des Pop Tarts, un burrito Taco Bell, des frites, des bâtonnets de mozzarella, des Cheerios, de la purée de pommes de terre, un sandwich PB&J ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cocktail ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une part de pizza ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Target Field, domicile des Twins du Minnesota, propose un cocktail tout à fait unique : le College Daze Bloody Mary. Dans votre boisson, vous trouverez des olives, du céleri et surtout <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399227_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

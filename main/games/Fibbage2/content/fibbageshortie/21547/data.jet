@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mouches humaines, laveurs de vitres, chutes de gens, chauves-souris enragées, voyeurs, amateurs de feux d'artifice, fans de louveteaux, grues blanches, Wisconsinites, nuages d'égouts, foudre en boule, raids de culottes, aurores boréales, poissons volants, chutes de pièces d'avion, tempêtes de grêle, nuages d'acide, balles perdues ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "magnifique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "araignées volantes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'hôtel Hilton Chicago Magnificent Mile a demandé à ses clients au printemps et à l'été 2015 de garder leurs fenêtres fermées. Ils étaient préoccupés par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "araignées volantes de grande hauteur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "407803_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407800_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

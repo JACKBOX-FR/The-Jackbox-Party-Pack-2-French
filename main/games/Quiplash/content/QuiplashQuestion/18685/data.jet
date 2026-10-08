@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "ruban adhésif ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Cela fait mal, mais vous pouvez ensuite utiliser le ruban adhésif recouvert de poils pour couper vos fenêtres. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La pire façon d'épiler les poils pubiens ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378822_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378820_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "lisseur de cheveux arrière|lisseur de cheveux arrière ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Je pourrais utiliser un fer à lisser pour le dos. On dirait que je me fais pousser une perruque de clown là-bas ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une invention de Thomas Edison qui n'a jamais fait son chemin ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376173_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376171_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

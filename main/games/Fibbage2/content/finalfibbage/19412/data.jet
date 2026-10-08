@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sang, crachats, intestins, souris mortes, larmes, ADN de baleine, graisse de vache, corps chauds, acide sulfurique, feuilles pourries, bandes dessinées, bourbon, huile moteur, sauce barbecue, azote liquide, soda light, baisers, fumier de vache ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fromage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "asticots ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le dernier ingrédient inhabituel du fromage « casu marzu ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "larves, vers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "385208_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385205_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "J'aime les talons hauts !,Peignez-moi en jaune !,Le coton est bon sur la peau !,Le nez est l'ennemi !,Le chien aboie à minuit !,Papa était menuisier !,Mange des pâtisseries !,Les sols sont brillants !,Les loups chassent en meute !,Ta faiblesse me rend plus fort !,C'est l'œuvre du diable !,Avale un oreiller !,Mon pantalon est très serré !,Allez directement au sous-sol !,Je suis un grand lapin !,Les arbres connaissent nos secrets !,Rentre chez toi et pleure !,Tu es une sorcière ! ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "éternuer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Il fera beau demain ! ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'étrange phrase que les Néerlandais prononcent lorsqu'ils entendent quelqu'un éternuer pour la troisième fois. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Il fera beau demain,Il fera beau demain. ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430208_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ne pas l'arrêter, le laisser appeler ses parents, le laisser tranquille, ne le dire à personne, lui donner 10 $, l'emmener chez McDonalds, le reconduire à la maison, faire des courses pour lui, l'appeler Shirley, fermer les yeux, enlever sa chemise, faire ses devoirs, lui donner des billets pour un match de baseball, lui acheter un pepsi light, ne pas lui tirer dessus, arrêter de parler dans le mégaphone, acheter une Xbox, faire une sieste pendant qu'il s'échappe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "impasse ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "donne-lui un burrito ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après une impasse de 14 heures, la police a finalement convaincu un homme de San Jose de descendre d'une grue. Pour qu'il descende, ils devaient simplement promettre de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "donne-lui un burrito, laisse-le manger un burrito, donne-lui un burito, donne-lui un burrito ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "426913_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

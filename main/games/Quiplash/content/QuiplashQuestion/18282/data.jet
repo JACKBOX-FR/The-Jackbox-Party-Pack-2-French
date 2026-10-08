@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "c'est ce qu'elle a dit | c'est ce qu'elle a dit ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, le seul moment où il est acceptable de crier « C’est ce qu’elle a dit », c’est lorsque le prêtre dit « S’il vous plaît, levez-vous ». ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "C'est une mauvaise chose de crier à l'église ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376227_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376225_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

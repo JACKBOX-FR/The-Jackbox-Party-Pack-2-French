@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "gratte-fesses automatique|gratte-fesses automatique ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous devenu si paresseux que vous ne dépenserez plus d’énergie pour vous gratter les fesses ? Moi aussi. Bienvenue au club. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une nouvelle invention géniale qui commence par « Automatique » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374448_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374446_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

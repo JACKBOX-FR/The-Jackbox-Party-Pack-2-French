@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "montrer ses seins, deviner correctement leur âge, les battre au bras de fer, rouler la langue, faire le Funky Chicken, prédire leur avenir, faire une imitation de Christopher Walken, complimenter leurs coupes de cheveux, nommer trois films de Kevin Bacon, écraser une canette de bière sur sa tête, donner une mèche de ses cheveux, nommer les sept nains, faire le grand écart, embrasser un chat, résoudre une énigme, devinez l'heure, manger un piment fort, boire une bouteille de vin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Snooker ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gagner une partie de pierre-feuille-ciseaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Trois agents de sécurité ont eu des ennuis lors du Chilifest 2015 à Snook, au Texas, pour avoir conclu un marché inhabituel avec un buveur mineur. Les agents lui ont dit que tout ce qu'elle avait à faire pour éviter une citation était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gagner aux ciseaux à papier-pierre, les battre aux ciseaux à papier-pierre, gagner une partie de ciseaux à papier-pierre, gagner une partie de ciseaux à papier-pierre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "401663_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "401660_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

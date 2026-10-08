@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pitbull ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "N'oubliez pas que les pitbulls ne sont pas des créatures naturellement nuisibles. Pour cela, il faut qu’ils soient formés au rap. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "C'est mauvais d'être enterré vivant. C'est pire d'être enterré vivant avec <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375864_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375862_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

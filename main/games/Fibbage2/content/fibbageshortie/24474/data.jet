@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tousser dessus, lui mettre un serre-tête, danser, chanter, faire le mort, lui donner le vertige, le bercer, éternuer, exploser, loucher, vomir, s'endormir, manger, se casser les doigts, lui raconter une longue histoire, le gifler, établir la confiance pendant des mois, le manger avec des « ustensiles » grossiers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "termite ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "péter dessus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’insecte connu sous le nom de chrysope perlée attaque sa proie, le termite, d’une manière très inhabituelle. La chrysope perlée le fait par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "péter dessus, péter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "423935_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

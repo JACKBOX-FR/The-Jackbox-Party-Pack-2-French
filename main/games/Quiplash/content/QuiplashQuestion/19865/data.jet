@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Huile moteur ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Eh... l'huile moteur n'est pas le pire choix. Contrairement à d’autres vinaigrettes, elle pourrait aider votre salade à éviter la viscosité et la dégradation thermique. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le liquide qui ferait la pire vinaigrette ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "394104_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "394102_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hacky Sack, bâtons du diable, marche sur corde raide, sacs, promesse de fraternité, golf miniature, regarder la peinture sécher, tasse flippy, les colons de Catane, corde à sauter, pleurs, yoga, envoyer des SMS, quidditch, combats d'oreillers, faire pousser la barbe, twerk, mathématiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "officiel ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jeux vidéo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, l'Université de Pikeville, une petite université d'arts libéraux du Kentucky, a annoncé qu'elle ferait de <BLANK> un sport officiel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jeux, jeux vidéo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "374564_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374561_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

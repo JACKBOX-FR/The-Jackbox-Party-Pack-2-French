@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pizza ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Pizza Butt. Ouais. Évitez surtout la croûte farcie de Pizza Butt. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d'une pizzeria où vous ne devriez jamais commander ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374313_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374311_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "slurve, waverly, coller la diapositive, mooter, coozy, fard, furebelow, snool, turdiform, quean, Skulldaggery, mugwump, pamby, furphy, snollygoster, aspirateur, panjadrum, mollycoddle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dentifrice ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nurdle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le mot officiel désignant la goutte de dentifrice parfaite en forme de vague qui se trouve sur une brosse à dents dans les publicités de dentifrice. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un nourrisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "386864_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386861_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

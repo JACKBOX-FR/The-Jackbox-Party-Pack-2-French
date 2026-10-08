@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lacets, tubes de dentifrice vides, corde à sauter, fil à coudre, écriture en cuivre, mouchoirs, ses propres cheveux, cache-oreilles, serviettes, gants, savon sur une corde, uniformes de prison, caleçons sales, foulards, chaussettes, cravates, gâteau, journaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "corde ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fil dentaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1994, un suspect de vol s'est évadé d'une prison de Virginie occidentale en escaladant une clôture de 18 pieds avec une corde qu'il avait fabriquée avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fil dentaire, fil dentaire, fil dentaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415512_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

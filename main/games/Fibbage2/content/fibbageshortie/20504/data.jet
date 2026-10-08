@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "taches de salive, sang, graisse, cérumen, « tu sais quoi », chocolat, chapelure, peinture, sueur, cola, salade de thon, crayons, marqueurs, eau de Javel, taches de café, saleté, mucus, huile ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "WD-40 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gomme ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’un des éléments de la liste des plus de 2 000 utilisations du WD-40 est qu’il « supprime <BLANK> des draps ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399203_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

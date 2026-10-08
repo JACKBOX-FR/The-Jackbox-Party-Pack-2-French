@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "il pleut du chocolat, les préquelles de Star Wars n'existent pas, Dieu est un poulet géant, les Beatles ne se sont jamais séparés, les gophers sont l'espèce dominante, c'est un chanteur d'opéra, l'Amérique est dirigée par des seigneurs robots, les planètes sont en forme de cube, le Père Noël est réel, les gens vieillissent à l'envers, tout le monde s'appelle Stephen, les voitures conduisent les gens, l'Australie a la forme d'un chat, le noyau de la Terre est fait de caramel, tout le monde a des super pouvoirs, le président est un pingouin, le klingon est la langue internationale, les étoiles sont faites de boules de gomme ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stephen Hawking ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zayn est toujours dans One Direction ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors d'une conférence à l'Opéra de Sydney, le physicien Stephen Hawking a proposé la théorie plutôt étrange selon laquelle il pourrait exister quelque part un univers alternatif et, dans cet univers, <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zayn Malik est toujours dans les One Direction ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405235_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ted Danson, Albert Einstein, un éclair, un t-rex, les arches dorées de McDonald's, Steve Buscemi, Waldo de Where's Waldo, le visage de son père, une main, le swoosh Nike, un chien, un robot, le Sphinx, le logo NBA, la Joconde, pi, son nom, Bart Simpson ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tache de naissance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le chiffre douze ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 11 novembre 2014, un bébé spécial à Johannesburg, en Afrique du Sud, est né avec une étrange tache de naissance qui ressemblait à <BLANK> au milieu de son front. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "12, le nombre 12, douze, un douze, un 12 ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396176_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

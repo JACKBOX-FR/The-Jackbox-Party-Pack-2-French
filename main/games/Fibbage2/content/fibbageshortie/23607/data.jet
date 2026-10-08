@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Little Britain, Basil Fawlty, Nigel Crumpet, Dr. Dent, Dr. Racaille, M. Conehead, Austin Powers, Twit Lamp, Harold Goodhead, Dust Buster, Monty Python, Frank Beans, Charles Prince, Bruise, M. Zephyr,Shaver Cummings,Akhdjkhasjklh fseklufklhdasfj,Junior Junior, Jr. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tomber ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "M. Poulet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le dernier citoyen privé qui vivait au 10 Downing Street, l’actuel bureau et résidence du Premier ministre britannique, était un homme au nom étrange de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "M. poulet, m. chicen, monsieur, poulet, monsieur, poulet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "414937_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

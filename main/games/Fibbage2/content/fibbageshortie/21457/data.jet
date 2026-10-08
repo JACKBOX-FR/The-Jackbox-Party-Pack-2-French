@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "survivre dans les Andes, nourrir un cerf, tapisser la maison, parler bébé, apprendre l'allemand, regarder des films amateurs, réparer une voiture, aller au camp spatial, élever un bébé chimpanzé, piloter un avion, jouer au Monopoly, utiliser du ruban adhésif, dire seulement le mot bleu, participer à une pièce de théâtre, passer un week-end en Nouvelle-Écosse, participer à un camp d'entraînement militaire, préparer un dîner de Thanksgiving, construire un robot ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "thérapeute ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "assembler des meubles IKEA ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le thérapeute révolutionnaire Dr Ramani Durvasula aide les couples à améliorer leurs compétences en communication en les rendant <BLANK> ensemble. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fabriquer des meubles IKEA ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405892_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

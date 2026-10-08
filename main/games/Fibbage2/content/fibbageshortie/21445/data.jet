@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sa grand-mère, son chien, un aspirateur, son iPad, rien dessus, sa copine, une épée longue, des patins à glace, un furet, son portrait officiel, l'urne de son grand-père, une grenade réelle, des plans militaires, un rhume, un cheval, son chat, un enfant, une guitare ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "parachutisme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "son poisson de compagnie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un soldat américain de la 82e division aéroportée a été sanctionné après s'être documenté en train de parachuter avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "son poisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405600_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

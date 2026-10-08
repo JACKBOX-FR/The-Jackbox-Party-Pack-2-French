@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "en sous-vêtements, dans une gondole, dans un zoo, un artiste te peint, c'est en feu, Dracula vole au-dessus de toi, sous une vraie cascade, suspendu la tête en bas, dans un cercueil, ils prétendent qu'il est 1492, par temps sous zéro, tu fais du yoga, sur un tapis roulant, en regardant un Dalaï Lama animatronique, tout ça est télévisé, dans une cage, dans une réplique de navette spatiale, tu dors ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "faim ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dans le noir ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez faim ? Envisagez peut-être de réserver un dîner chez O.Noir à Toronto, au Canada, où vous pourrez prendre votre repas tout en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "aveugle,sans lumière,complètement dans le noir,dans le noir complet,les lumières sont éteintes,les lumières sont éteintes,il fait sombre,il fait sombre à l'intérieur,il fait complètement noir,il fait complètement noir dans le restaurant,il fait sombre dans le restaurant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398603_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

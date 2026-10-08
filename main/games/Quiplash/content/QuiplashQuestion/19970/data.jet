@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ringo ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ha... non, je suis désolé, la réponse était Peter. Pierre Meilleur. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom du 13ème apôtre de Jésus ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "394419_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "394417_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

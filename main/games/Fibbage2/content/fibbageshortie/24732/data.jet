@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "masseur de pieds, chien qui parle, power ranger, robot géant, masseuse sensuelle, elfe des arbres, fantôme riche, dauphin coquet, jongleur nu, imitateur de Channing Tatum, canard bien doté, maman de 4 000 ans, fabricant de soutiens-gorge personnalisés, médium puissant, obstétricien/gynécologue renommé, maître de la flûte de pan, expert en chocolat, grand auditeur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "flocage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "très beau gorille ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au Japon, les femmes affluent pour voir Shabani. Qui est Shabani ? Pourquoi il est juste un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gorille, beau gorille, gorille attrayant, beau gorille ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "425001_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

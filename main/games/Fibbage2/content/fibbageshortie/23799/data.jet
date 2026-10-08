@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Applications Android, abonnés Twitter, télévision de fin de soirée, cache-cache, publicités Geico, Walmart, Seinfeld, Game of Thrones, votre mère, Justin Bieber, Kim et Kanye, Candy Crush, Couch Surfing, Twister, World of Warcraft, bain de soleil, Applebee's, promenade de chien ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "sociologie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Miley Cyrus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour la session d'été 2014, la professeure Carolyn Chernoff du Skidmore College a proposé un cours inhabituel : La sociologie de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Miley Cyrus : race, classe, sexe et médias,Mily Cyrus,Milly Cyrus ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "418823_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

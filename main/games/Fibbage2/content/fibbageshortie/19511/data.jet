@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bébé,berger allemand,coccinelle VW,nazi,iPhone,bouteille de schnaps,peinture d'une knockwurst,homme,tortue,accordéon,pot de choucroute,paire de culottes en cuir,télévision,voiture,télévision,planche à roulettes,rouleau de papier toilette,bol de céréales ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "archéologues ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bretzel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des archéologues de Ratisbonne, en Allemagne, ont récemment découvert quelque chose qu'ils considèrent comme le plus ancien du genre : un <BLANK> âgé de 250 ans. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bretzel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387662_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387659_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

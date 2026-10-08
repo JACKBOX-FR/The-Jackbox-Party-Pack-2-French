@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jus de pruneau, chips et trempette, un oignon, des sushis, de l'aspirine, du Red Bull, des punchs aux intestins, du spray au poivre, du soda, du jus de carotte, des insultes, un bain de bouche, une cacahuète, des conseils santé, une glace molle, une cigarette allumée, une crème pour la peau, des câlins ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "sac à dos ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une tomate ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La société japonaise Kagome a inventé un sac à dos mécanique plutôt inhabituel qui, d'une simple pression sur un levier, distribuera <BLANK> au porteur. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tomates, tamates ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379544_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379541_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

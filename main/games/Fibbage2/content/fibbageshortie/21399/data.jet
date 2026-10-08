@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hot-dogs, caleçons, jeux vidéo, bonbons, Adderall, gerbilles, nœuds papillons, espèces, poupées, pommes de terre au four, pansements, lunettes de soleil, manteaux d'hiver, casques, lasagnes, tentes, bâtons de hockey, chaises berçantes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "canon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tacos ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous n'étiez pas déjà enthousiaste à l'idée d'assister à des matchs de hockey à l'Université du Nebraska-Omaha, ils ont annoncé en 2015 qu'ils utiliseraient un canon révolutionnaire qui tire <BLANK> dans la foule. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un taco, des dizaines de tacos, un tas de tacos ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404515_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

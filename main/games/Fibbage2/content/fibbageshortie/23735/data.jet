@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "morceau d'ivoire, collection de quartz, jeu d'échecs, morceau de charbon, portion de beurre, tige de tabac, sac de sel gemme, récolte de marijuana, lingot d'or, barre de savon, boîte d'argent, bouteille de parfum, boîte de cuivre, boîte de poudre de perruque, chêne, silex de cheminée, caniche, ananas ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "1 230 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "morceau de fromage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1801, le président Thomas Jefferson reçut un cadeau inhabituellement important de John Leland de Cheshire, Massachusetts : un <BLANK> qui pesait 1 230 livres. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fromage, fromage,échecs,chesse,cheessee,chesee,chessee,morceau de fromage,morceau de fromage,morceau d'échecs,morceau de fromage,morceau de fromage,morceau de fromage,morceau de fromage,coin de fromage,coin de fromage,coin d'échecs,coin de fromage,coin de fromage,coin de fromage, quartier de fromage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "418045_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

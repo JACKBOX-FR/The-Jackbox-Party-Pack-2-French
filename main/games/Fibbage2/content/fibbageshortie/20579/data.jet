@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bourbon,golf,cheval,hôpital,herbe,cabinet de comptabilité,bureau,maison de retraite,travail du bois,goth,usine de crackers,YMCA,grec,météo,désert,kaki,tapis,amish ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "balle ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bible ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous traversez Lexington, Kentucky, assurez-vous de vous arrêter au centre de glace et de loisirs de Lexington et de vous amuser en jouant au mini-golf sur le thème <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "422606_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400625_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

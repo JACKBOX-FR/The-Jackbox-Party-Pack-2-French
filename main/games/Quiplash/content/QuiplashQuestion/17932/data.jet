@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "elle ne porte pas de pantalon | elle ne porte pas de pantalon ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, elle ne porte pas de pantalon. Vous savez quoi? Moi non plus. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi la Joconde sourit-elle ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374184_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374182_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

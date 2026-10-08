@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "toilettes, poupée, Nintendo 64, homme des cavernes, bain à remous, argenterie, guillotine, table de billard, niche pour chien, portemanteau, balançoire, boîte de repos, chauffe-eau, tricycles, train, portrait de famille, cheminée, placard à balais ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "manoir ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "robe de mariée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Altoona, en Pennsylvanie, passez par là et visitez le Baker Mansion, réputé pour son <BLANK> hanté qui se déplace tout seul, en particulier pendant les pleines lunes. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "robe de mariée, robe de mariée, robe de mariée ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "418699_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396851_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396848_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

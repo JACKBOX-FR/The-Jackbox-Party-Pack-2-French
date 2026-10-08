@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cotons-tiges, barbe à papa, cérumen, gouttes pour les yeux, pattes de singe, leurs sourcils, lait, aspirines, guimauves, beurre de cacahuète, autres papiers, crottes de chien, poils humains, plumes, soupe, glaçons, bacon, pneus de vélo en caoutchouc ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "caoutchouc ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chapelure ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant l’invention de la gomme en caoutchouc, les gens se débarrassaient de leurs marques accidentelles au crayon en les frottant avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "miettes de pain,pain,morceaux de pain,morceaux de pain,croûtes de pain,croûte de pain ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431571_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

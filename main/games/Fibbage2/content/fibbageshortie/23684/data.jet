@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "odorat, QI, papilles gustatives, cheveux, pieds, perception de la profondeur, audition, capacité de rêver, capacité d'avaler, capacité de dormir, langue, vitesse de frappe, reins, carte de crédit Home Depot, imagination, yeux louches, clés de voiture, attractivité ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tomber ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pouvoirs psychiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une femme de Miramar, en Floride, a poursuivi Home Depot en justice en 1991, affirmant qu'une planche tombante qui l'avait frappée à la tête lui avait fait perdre son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "capacités psychiques, capacités psykick, pouvoirs psykick, capacités psychiques, pouvoirs psychiques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "416865_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416862_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Douze|12|Douze singes ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais. Parce qu'une fois qu'on a 12 singes, il faut remonter le temps et parler au fou Brad Pitt. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Combien de singes font trop de singes ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375012_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375010_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

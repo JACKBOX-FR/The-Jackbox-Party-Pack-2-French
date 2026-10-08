@@ -1,0 +1,43 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pour récupérer le poulet mort|pour récupérer le poulet mort|pour ramasser le poulet mort ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "(rires bruyamment) Haaaa ! Bon ! (s'arrête) Poulet mort... ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi l'entrepreneur de pompes funèbres a-t-il traversé la route ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "395551_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

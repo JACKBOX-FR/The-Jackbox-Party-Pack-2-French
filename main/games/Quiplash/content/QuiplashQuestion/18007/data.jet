@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Capoochino|ca-poo-chino ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Eh bien, si un Capoochino vous dégoûte, je ne vous dirai pas comment il fait mousser cette mousse. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un café Starbucks qui ne devrait jamais exister ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374661_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374659_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

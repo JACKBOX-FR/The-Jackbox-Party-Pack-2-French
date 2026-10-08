@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Débattre pour les nuls,Comment devenir riche,Comment accepter des pots-de-vin,Power Moves 101,Les 7 habitudes des bons débatteurs,Comment arrêter les gens sur votre chemin,Il n'est tout simplement pas très intéressé par vous,Le secret,Comment mentir efficacement,La semaine de travail de 4 heures,18 façons de courtiser beaucoup d'argent,La magie de la pensée,Les meilleures façons d'écraser les pauvres,Oh les endroits où vous irez !,Les 33 stratégies de guerre, Astuces pour élever un boa constrictor, Comment faire des pâtes, Six habitudes de salaud ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "débat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sexe après soixante ans ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le représentant de l'État de l'Iowa, Ross Paustian, a fait beaucoup de bruit après avoir été surpris en train de lire un livre d'auto-assistance intitulé <BLANK> lors d'un débat à la Chambre. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sexe après 60 ans",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396059_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396056_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

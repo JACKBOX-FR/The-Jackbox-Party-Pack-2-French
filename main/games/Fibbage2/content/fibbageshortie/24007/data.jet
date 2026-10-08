@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "abandonner leur siège d'autobus, accueillir des chiens errants, donner des pourboires au restaurant, se baigner, faire du vélo, porter des vêtements, éteindre leurs propres incendies, arrêter des criminels, paver des routes, aller à l'église, rejoindre des gymnases, tondre leur pelouse, avoir des enfants, ouvrir une entreprise, nettoyer les détritus, chanter en public, siffler, écraser les mouches ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "roupie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "utiliser les toilettes publiques",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ahmedabad, en Inde, a mis en place un système de récompense inhabituel qui verse aux résidents une roupie pour simplement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "utiliser les toilettes publiques,utiliser les toilettes publiques,utiliser les toilettes publiques,utiliser les toilettes publiques,utiliser les toilettes publiques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "421086_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

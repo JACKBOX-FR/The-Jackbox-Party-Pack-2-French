@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Liam Neeson ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ces potes n’ont pas d’argent. Mais ce qu’ils possèdent, c’est un ensemble de compétences très particulières. Des compétences qu'ils ont acquises au cours d'une très longue carrière. Des compétences qui font de ces Peeps un cauchemar pour des gens comme vous. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une forme rejetée pour les Marshmallow Peeps ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "379275_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "379273_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

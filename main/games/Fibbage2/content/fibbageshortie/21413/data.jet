@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un caquelon à fondue, une tasse de café, un bol de pudding, une poche de chemise, une pochette kangourou, de la mayonnaise, de la litière pour chat, un trou d'autruche, des sables mouvants, du ciment humide, de la sauce aux canneberges, un petit pain à hot dog, une grosse gorgée, un bol de bonbons, un casque de football, une pinte de bière, un bol de ragoût, des flocons d'avoine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "scandale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un verre de vin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un ancien membre du Parlement australien s'est retrouvé impliqué dans un scandale après qu'il a été révélé qu'il avait envoyé à sa maîtresse une photo de lui mettant son pénis dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un verre de vin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404851_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

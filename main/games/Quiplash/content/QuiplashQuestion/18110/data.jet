@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jésus ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Jésus ? Est-ce que vous plaisantez? Il peut transformer l'eau en vin... qu'est-ce que tu ne comprends pas à ça ?! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La dernière personne que vous envisageriez d'inviter à votre fête d'anniversaire ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375075_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375073_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

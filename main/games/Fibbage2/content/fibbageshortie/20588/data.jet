@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "quinoa, espace, ISIS, bonheur, Coachella, Scientologie, Snapchat, Spam, Xanax, chou frisé, lutte jello, Pâques, Tinder, bae, robot, amour, bitcoin, radio ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Google ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tofu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon une recherche menée par Estately.com, Georgia recherche sur Google la question « Qu'est-ce que <BLANK> ? » plus que tout autre État. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400841_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bébé,oreiller,sandwich au jambon,bombe,chat,femme,botte de foin,pingouin,personne courte,silencieux,cheval,gnome,jockey,phoque,pistolet,machine,bonhomme de neige,paquet ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bunyan ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hot-dog ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant votre séjour à Atlanta, dans l'Illinois, vous devez absolument admirer l'étrange statue de Paul Bunyan tenant un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "saucisse ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419731_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "383189_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383186_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

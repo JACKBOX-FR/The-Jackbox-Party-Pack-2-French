@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "peloté par une statue de Madone, transformé en momie, donné un wedgie, séduit par Ayn Rand, habillé en travesti, forcé de regarder la petite orpheline Annie, baigné par sa mère, monté comme un cheval, giflé par Ronald Reagan, mordu par un chien enragé, abattu par Joseph Staline, excité par Marilyn Monrose, piétiné par un défilé, chatouillé, mangé par une paire de lèvres géantes, poursuivi sexuellement par des ânes, criés dessus par sa femme, les yeux bandés par une femme de chambre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Poutine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "léché par un ours ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour célébrer la Journée internationale de la femme, le magazine russe <i>Moct</i> a publié une image de couverture de Vladimir Poutine <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "léché par un grizzly, léché par un grizzly ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "385520_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385517_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

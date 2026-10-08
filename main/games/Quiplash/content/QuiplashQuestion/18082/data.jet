@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "son pénis|sa bite|sa bite ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oh, vraiment sympa, vraiment sympa. C'est totalement sexiste ! Vous pourriez tout aussi bien trouver le vagin d’un dentiste dans votre bouche ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ce que vous seriez très surpris qu'un dentiste trouve dans votre bouche ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374991_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374989_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

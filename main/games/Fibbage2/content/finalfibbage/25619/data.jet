@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "orgelet, je, brebis, zig-zag, bortsch, langue, lynx, antidisestablishmentarianism, blog, fjord, plaisanterie, kayak, fiz, sh, bisque, fronde, brin, agog ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "abeille ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "luge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le mot gagnant le plus court de l’histoire du Scripps National Spelling Bee. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "430236_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430233_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

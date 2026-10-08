@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Abraham Lincoln est vivant|Abraham Lincoln vit|lincoln est vivant|lincoln vit|abe lincoln est vivant|abe lincoln vit|abe lincoln est vivant|abraham lincoln est vivant|lincoln est vivant|lincoln est toujours en vie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, John Wilkes Booth n'a pas utilisé de balle ARGENT ! Hein ? Hein ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le plus grand secret que garde le gouvernement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378888_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378886_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "épaulard, camionnette, bonhomme de neige, alligator, arbre de Noël, ours en peluche, fusil de chasse, triton, loup-garou, homme mort, homme invisible, piston de toilette, dinosaure, martien, mannequin, homme des cavernes gelé, éléphant, tas de fumier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mariage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grande roue ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2012, une femme de Gibsonton, en Floride, a officialisé sa relation unique en épousant un <BLANK> nommé Bruce. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "grande roue ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387128_2f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387125_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

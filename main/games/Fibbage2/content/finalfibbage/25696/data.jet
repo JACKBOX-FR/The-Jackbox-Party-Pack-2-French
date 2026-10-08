@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Funky Boys, Candy Cuties, Sour Mouth Girls, Sweetie Guys, Sugar People, Suggies, Candy Crushes, Sweet Truths, Créatures mystérieuses, Ours factices, Lil' Dandies, Mouth Gold, Anneaux de dentition, Beautés de bébé, Darlins', Hooligans, Tinkles, Berceuses ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sour Patch Enfants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hommes de Mars ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de marque original de Sour Patch Kids. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431198_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "roter, embrasser un inconnu, lui dire bonjour, lui curer le nez, courir un kilomètre, lécher l'écran, le renverser, attraper un voleur de sac à main, raconter une histoire embarrassante, allaiter, avoir un drôle de chapeau, prêter allégeance, changer de nom, faire un tour sur le dos, ressembler à Vladimir Poutine, être ivre, faire un test de grossesse, savoir dire un virelangue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Trucs gratuits ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire trente squats ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un distributeur spécial de tickets de métro situé à la station Vystavochnaya de Moscou donnera un ticket gratuit à un passager s'il <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fente, faire des squats, faire 30 squats ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397787_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "sperme|sperme|sperme ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Enfin, il existe une utilisation pratique du sperme. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une façon peu connue d’enlever le chewing-gum de vos cheveux ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375825_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375823_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

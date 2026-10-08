@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des pluies acides, de la poussière de Jupiter, une météorite radioactive, une lune qui tombe de Vénus, un morceau de la navette spatiale Discovery, la vache qui a sauté par-dessus la lune, une étoile entrant sur l'orbite terrestre, le Père Noël, un satellite qui tombe, un trou dans la couche d'ozone, un OVNI, une explosion de la Station spatiale, un missile nucléaire, l'étoile de la mort, des abeilles, de la neige radioactive, un ballon météo, un cadavre d'astronaute ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "brillant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "urine d'astronaute ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les astronomes ont rapporté avoir vu une étrange traînée de lumière rougeoyante dans le ciel nocturne le 9 septembre 2009. La NASA a rapporté qu'il s'agissait en fait de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pipi d'astronaute,l'urine des astronautes,le pipi des astronautes,pipi d'astronaute déversé,urine d'astronaute déversée,urine de la navette spatiale,urine d'astronaute de la navette spatiale,déchets d'astronaute,pipi d'astronaute de la navette spatiale ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417487_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

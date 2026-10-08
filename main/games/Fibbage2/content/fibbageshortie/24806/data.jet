@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "de vraies oreilles de souris, têtes coupées, crottes de nez, ovnis, Afrique, John F Kennedy, Bob l'éponge, Jésus, arbres, Adam Sandler, Zeus, araignées, bébés, cerveaux, pitbulls, défenses d'éléphant en ivoire, nez de Dingo, une jeune fille chinoise ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bonbons ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "caca d'animaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant une courte période en 2015 (avant leur interruption), un magasin du règne animal de Walt Disney World a vendu des bonbons conçus pour ressembler à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "caca, caca, merde, merde, excréments, caca d'animal, merde d'animal, merde d'animal, excréments d'animaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "425516_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

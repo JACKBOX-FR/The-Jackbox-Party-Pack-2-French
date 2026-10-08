@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "caca, chiens qui sautent, opérations chirurgicales bâclées, échographies, chiens jouant au poker, vos parents ayant des relations sexuelles, catastrophes naturelles, Bea Arthur, bus, Gary Busey, chats en smoking, fans de football ivres, saucisses, leiderhosen, célébrités mortes, monstres de contes de fées, observations de Bigfoot, jonglerie avec des ours ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Allemand ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour gagner le jeu de mémoire allemand « Busen Memo », vous devez réussir à faire correspondre les images de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "seins, seins, seins, deux seins, deux seins, deux seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385949_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

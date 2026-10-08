@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poubelle, ballon dégonflé, sifflet de train, une banshee, un sac de verre, un mourant, une perceuse électrique, un bébé qui pleure, des freins qui grincent, des clous sur un tableau, une fourchette sur un verre, un couteau sur une bouteille, une sorcière, un chien qui se noie, le Titanic, une tondeuse à gazon, trente chameaux mourants, la tristesse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Shakira ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une chèvre",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce à quoi le professeur de musique de l’école catholique de Shakira a dit qu’elle ressemblait. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chèvres, chèvre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "420612_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

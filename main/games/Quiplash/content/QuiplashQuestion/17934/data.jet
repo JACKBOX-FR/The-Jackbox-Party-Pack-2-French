@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bateau d’amour des animaux|Le bateau d’amour des animaux ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, montez à bord du Animal Love Boat. Nous nous attendons à ce que vous soyez arrêté dès votre arrivée. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un nom terrible pour un bateau de croisière ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374190_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374188_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

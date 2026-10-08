@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les yuppies, les joueurs de jeux vidéo, les joueurs, les gens qui pètent, les parachutistes, les fans de Seinfeld, les gens qui font du cosplay, les snowboarders, les nudistes, les végétaliens, les chasseurs de gros gibier, les commis des postes, les employés des animaleries, les jockeys, les sténographes, les gens qui possèdent des cages de frappeurs, des caddies, des fleuristes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "psychologie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les métalleux des années 80 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon une étude étrange réalisée par un professeur de psychologie de l'Université d'État de Humboldt, <BLANK>, en tant que groupe de personnes, est extrêmement heureux de sa vie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fans de heavy metal, métalleux, hard rock, musique rock ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "431085_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431082_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

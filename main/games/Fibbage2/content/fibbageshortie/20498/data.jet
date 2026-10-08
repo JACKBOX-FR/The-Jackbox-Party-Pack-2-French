@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "encens, voitures hybrides, chariots, fabrication de Rice-a-Roni, circulation sur le Golden Gate Bridge, événements sportifs, lions de mer, rots de dauphins, fabrication de chocolat, Google, flatulences, feux de forêt, combustion d'ordures, avions militaires, touristes, volcans, Los Angeles, l'océan ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "air ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Chine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étude de 2010 de l'Université de Californie à Berkeley publiée dans <i>Environmental Science & Technology</i> a conclu que, de manière surprenante, 29 % de la pollution atmosphérique de San Francisco provient de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "399062_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399059_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

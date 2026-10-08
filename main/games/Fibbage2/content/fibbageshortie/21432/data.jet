@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kim Kardashian, Sam Elliott, La Fée des Dents, Honey Boo Boo, Miley Cyrus, Snooki, Barbie, une poupée Bratz, La Statue de la Liberté, Lassie, Lisa Simpson, Paris Hilton, Mme. Butterworth, Betty Crocker, Selena Gomez, Kristen Stewart, une petite fille, Kate Upton ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brooklyn ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mademoiselle Piggy ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Sackler Center First Award du Brooklyn Museum est un honneur prestigieux décerné uniquement aux femmes les plus exceptionnelles. En 2015, le prix a été étonnamment attribué à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mme Piggy, Miss Piggie, Miss Piggey ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405309_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gomme, âne, manuel, pomme, dirigeable, tortue, météore, tête humaine, casque de sécurité, sac d'argent, bloc de glace, boulette de viande, boule de bowling, routeur, chaussure, enclume, avion de combat F-16, tour de téléphone portable ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "blessures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "maquereau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2012, une enseignante du lycée de Naples, en Floride, a été légèrement blessée lorsque, alors qu'elle se trouvait à l'extérieur de l'école, un <BLANK> lui est tombé sur la tête. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "maquereau, poisson, maquereau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "372764_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372761_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

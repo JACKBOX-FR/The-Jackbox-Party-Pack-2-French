@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "danser sur de la musique pop, vomir, manger des tacos, s'accoupler avec des girafes, faire du patin à glace, jouer au football, se déguiser en beauté, faire du tricycle, boire de la bière, porter des bikinis, embrasser des souris, peindre un lion, se déguiser en bébé, se battre à l'épée, chanter des chansons de Madonna, mettre du rouge à lèvres, faire du roller, jouer au basket ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "les éléphants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire des pédicures ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une émission de télé-réalité chinoise intitulée <i>Wonderful Friends</i> a reçu des réactions négatives pour une cascade bizarre dans laquelle ils faisaient des éléphants <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "se faire faire une pédicure, se faire faire une pédicure, se faire faire une pédicure, se faire peindre les ongles, se faire peindre les ongles, se faire peindre les ongles des pieds, se peindre les ongles des pieds ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386117_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

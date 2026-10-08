@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "explosion d'une usine de feux d'artifice ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, si vous étiez dans l’explosion d’une usine de feux d’artifice, les médecins vous déclareraient probablement mort, mais vous les surprendriez ensuite en ayant encore quelques minutes de vie. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La façon la plus cool de mourir ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377175_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377173_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

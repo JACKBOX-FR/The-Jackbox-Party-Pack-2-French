@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tour de taille, odeur corporelle, arthrite, caries, calvitie, colère, perte de mémoire, solitude, flatulences, perte de vision, croissance des poils, sautes d'humeur, cauchemars, maux de tête, stress, désir de siestes, daltonisme, gaz ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Cambridge ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rides ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les scientifiques d’un laboratoire dérivé de l’Université de Cambridge ont créé une barre de chocolat révolutionnaire dont il a été prouvé qu’elle aide à améliorer le <BLANK> des gens. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "relâchement cutané ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "382667_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "382664_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

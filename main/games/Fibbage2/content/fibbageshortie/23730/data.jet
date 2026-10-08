@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nous sommes numéro un, à bas la vulgarité, ouvert tard, vaut 2 cents, voici Satan, là où il y a de la fumée, il y a du feu, premier en génial, buvez et soyez joyeux, faites attention au mal, pas à la consommation, l'amour conquiert tout, gardez hors de portée des enfants, vous pouvez le faire, ne brûlez pas, les Britanniques puent, croyez en vous, recherchez !, MDR. TTYL ! ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pièces de monnaie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Occupez-vous de vos affaires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les premières pièces d'un cent fabriquées en 1793 par la Monnaie américaine portaient en fait l'expression « <BLANK> » avant que l'expression ne soit remplacée par « In God We Trust ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "occupe-toi de tes affaires, occupe-toi de tes affaires ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417920_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

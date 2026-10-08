@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "maisons, chapeaux haut de forme, lunettes, pipes, chaussures, cercueils, parapluies, traîneaux, bâtons de hockey, montres, vélos, couches, boomerangs, cannes, lits, toilettes, lunettes de soleil, marcheurs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "minuscule ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pulls pingouin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Alfie Date, un Australien de 109 ans, passe son temps libre à fabriquer des petits <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vêtements de pingouin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376520_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

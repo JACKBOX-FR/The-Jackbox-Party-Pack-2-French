@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "David Bowie, une cravate, un voyage dans le temps, à l'intérieur d'une boule à neige, un poisson, un ange, un athlète professionnel, un cochon, un zombie, un banquier, un extraterrestre, un programme informatique, un cow-boy, un robot, encore un enfant, pare-balles, un marin, un canard ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "crois",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une vache ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les personnes qui souffrent de l’étrange condition de « boanthropie » en viennent à croire qu’elles sont en réalité <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un bœuf, un bovin, un taureau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "418706_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "397235_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397232_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

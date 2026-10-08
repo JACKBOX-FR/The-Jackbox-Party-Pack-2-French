@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "pantalon de bacon ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Pantalon bacon. Voici ma question, le bacon est-il cuit ou pas ? Je pose la question parce que je veux investir, mais je ne suis pas sûr que l’un ou l’autre soit adapté à mon style de vie.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": " Une idée commerciale tellement folle que géniale à proposer sur <i>Shark Tank</i> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377496_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377494_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

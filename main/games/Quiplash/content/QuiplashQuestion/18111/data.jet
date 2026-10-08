@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "mon propre pénis|mon pénis ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Wow, tu peux mettre ton propre pénis dans ta bouche ? Qui a besoin d'argent ?! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La chose la plus dégoûtante que vous mettriez dans votre bouche pour 18 $ ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375078_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375076_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

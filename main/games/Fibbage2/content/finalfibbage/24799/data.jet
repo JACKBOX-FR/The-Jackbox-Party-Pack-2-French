@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nachos au poivre Fieri, nachos de maman Nacho, gars, nachos chee-z, chips et garso, regret, nachos macho, nach 5, 'cho ouais, hanches et chips, Nacho way man, lunettes de soleil à l'envers spéciales, chips givrées, seau à slop, nachos guy-fi hors de ce monde, miam miam nachos, chips de Cheesin, les 'chos de ma mère ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mec ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nachos Guy-Talian ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom des nachos servis au restaurant du célèbre chef Guy Fieri à New York. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nachos guytaliens,guytaliens,guy-taliens ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "425364_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

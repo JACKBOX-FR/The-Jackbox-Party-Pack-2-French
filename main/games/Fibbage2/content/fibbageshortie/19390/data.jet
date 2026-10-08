@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dans votre cerveau, sur les sièges de toilettes, dans les églises, dans les écoles maternelles, dans la chambre, sur un autre panneau publicitaire, sur les animaux de zoo, dans les doublures de cercueils, dans les salles d'opération, au paradis, dans les fesses des chiens, sur les lunettes de soleil, sur les pare-brise, sur le sommet de l'Everest, dans les salles de bain de la Maison Blanche, sur les gâteaux d'urinoir, dans les autobus scolaires, sur les sacs à intraveineuse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Publicité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sur les cuisses des femmes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une société de relations publiques japonaise, Absolute Territory, porte la publicité à un nouveau niveau en plaçant des panneaux d'affichage dans un endroit improbable. Les panneaux d'affichage sont situés <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sur les cuisses des femmes, sur les jambes des femmes, sur les jambes des femmes, sur les cuisses des filles, sur les cuisses des filles, sur les jambes des filles, sur les jambes des filles, sur les cuisses des femmes, sur les jambes des femmes, sur les cuisses des femmes, sur les jambes des femmes, sur les cuisses des femmes, sur les jambes des femmes, sur les cuisses des femmes, sur les cuisses des femmes, sur les jambes des femmes, sur les jambes des femmes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "384413_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384410_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

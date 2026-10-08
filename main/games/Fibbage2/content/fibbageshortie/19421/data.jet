@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une thérapie, une sucette, une RCR, une thérapie par électrochocs, un high five, une césarienne, des cours de lecture, cinquante dollars, un massage des pieds, des conseils relationnels, un petit monocle, un tatouage Popeye, une carte-cadeau Applebee, une alliance, des cours de boxe, un avis d'expulsion, une communion, une amygdalectomie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rocheux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un lavement ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Discutez avec la propriétaire de Just Frogs, Toads Too : Foundation and Amphibian Center et vous aurez peut-être la chance d'entendre parler de la fois où elle a donné <BLANK> à un crapaud du Texas nommé Rocky. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lavements, un enama ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385421_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

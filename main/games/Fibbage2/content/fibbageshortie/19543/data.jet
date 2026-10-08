@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "L'île, Les tropiques, Île fantastique, La plage, La misère de l'avion, Quoi ?, Mysterioso, Les autres, Tropique du Capricorne, ?, Devinez-moi ceci, Cela vient d'arriver, Amis de l'île, Méfiance, Sexe sur la plage, Mouvement dans l'océan, Naufragé, Échoué ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "PERDU ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nulle part ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'émission à succès <i>LOST</i> s'appelait presque <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388430_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

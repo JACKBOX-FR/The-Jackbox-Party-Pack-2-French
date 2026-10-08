@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "New Jersey, glace au beurre et aux pacanes, la bibliothèque, la guerre, le whisky, la natation, ta poitrine, le baseball, sept heures sur dix, monter à dos de chameau, le zoo, fumer, ce bain, l'Arabie Saoudite, ce hamburger, mercredi 16h20, ma voix, DDT ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sinatra ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Uranus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La chanson bizarre et largement oubliée de Frank Sinatra « À quelle heure part le prochain miracle » comprend les paroles « <BLANK> est le paradis ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396467_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396464_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

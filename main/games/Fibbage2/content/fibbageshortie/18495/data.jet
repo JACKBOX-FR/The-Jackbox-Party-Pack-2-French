@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pousser un gros rocher, parler elfique, promener des chiens, jongler avec des canettes, faire du yoga, faire du skinnydip, être dans IKEA, jouer à Call of Duty, roter, embrasser un chien, jouer à Candy Crush Saga, monter un taureau mécanique, vivre dans les égouts, être un Kardashian, faire du skateboard, dormir, poser des cloisons sèches, manger du pudding ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "charité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "écoutez Nickelback ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une tentative courageuse de collecter des fonds pour une œuvre caritative, le podcasteur américain Jesse Carey a accepté <BLANK> pendant 168 heures d'affilée. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "écoutez Nickel Back, écoutez uniquement Nickel Back, écoutez uniquement Nickelback, écoutez uniquement Nickelback, écoutez uniquement Nickel Back, écoutez les chansons de Nickelback, écoutez la musique de Nickelback ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377771_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377768_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

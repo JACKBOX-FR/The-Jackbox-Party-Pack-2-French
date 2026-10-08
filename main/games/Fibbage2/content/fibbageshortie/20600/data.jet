@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un four facile à cuire, une ampoule, son sèche-cheveux, un burrito, une oie, un katana, une tranche de pizza, une statue de cire, un volcan, du fromage fondu, un feu de camp, une machette, un écureuil, une fausse balustrade, Matthew McConaughey, un fer à friser, une chaise sans bras, une fille de fer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Orthographe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un grill à Benihana ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tori Spelling a vécu un accident assez embarrassant en 2015 lorsqu'elle s'est blessée en posant son bras sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un grill hibachi,un grill hibache,un grill chez Benehana,un grill Benihana,un grill Benihana,un grill Benihana,un grill ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "401129_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "monocle, pistolet, corne, canne, couteau, pochette, lunette, cache-œil, tatouage, poing américain, pagne, coffre au trésor, gant de boxe, chapeau inférieur, griffe, grenade, pitbull, smoking ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Finlande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "épée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous envisagez de poursuivre un doctorat, allez en Finlande car leurs étudiants diplômés reçoivent non seulement un chapeau haut de forme sophistiqué, mais la plupart obtiennent également un doctorat <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386669_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

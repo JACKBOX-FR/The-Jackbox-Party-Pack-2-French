@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un élan en liberté, un enfant avec un pistolet-jouet, trop de tristesse, un fantôme, des rapports sur Bigfoot, une mauvaise odeur de pieds, un bruit strident sans fin, le match de football de l'État de l'Iowa, un atterrissage en parachute sur le bâtiment, des singes, internet était bloqué sur un site russe, un froid extrême, un manque d'oxygène, des centaines d'abeilles, une nouvelle fête appelée \"Iowaday\", des cafards, une installation de tapis d'urgence, une mauvaise haleine. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "évacuation ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "macaroni au fromage brûlé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Comme si l'Iowa avait besoin de plus d'excitation, une évacuation a eu lieu dans la capitale de l'État de l'Iowa en avril 2015 en raison de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, macaroni au fromage brûlé, un feu de macaroni au fromage, un feu de macaroni au fromage, un feu de macaroni au fromage brûlé, un feu de macaroni au fromage brûlé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405381_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

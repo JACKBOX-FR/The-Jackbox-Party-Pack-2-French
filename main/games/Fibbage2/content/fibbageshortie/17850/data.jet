@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "robots, nourriture en cire, chair humaine, sous-vêtements comestibles, fumier de cheval, seulement des bonbons, opossum, air, créatures imaginaires, terre, asticots, verre, uranium, fossiles de dinosaures, carton, yeux de poisson, bois, plumes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "recettes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "préservatifs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un étrange livre de cuisine japonais publié en 2014 présente entièrement des recettes réalisées avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un préservatif, des préservatifs, des caoutchoucs, un caoutchouc ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "373412_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "373409_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

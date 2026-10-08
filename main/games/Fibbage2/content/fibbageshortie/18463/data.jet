@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vagins, cœurs, ruches, flèches, doigts, chats, têtes humaines, sphères parfaites, poules, bonhommes de neige, cheminées, Mickey Mouse, épées, cages thoraciques, mégots, lèvres plissées, croix, crânes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dinde ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pénis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous vous trouvez dans la région de la Cappadoce en Turquie, assurez-vous de visiter la célèbre Love Valley et émerveillez-vous devant ses nombreuses formations rocheuses incroyables en forme de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pénis, un tas de pénis, des bites, des bites, un tas de bites, un tas de bites ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419723_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377465_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377462_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

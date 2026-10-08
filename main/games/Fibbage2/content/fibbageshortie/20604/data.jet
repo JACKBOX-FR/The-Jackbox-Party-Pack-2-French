@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Appel à domicile, Jour du Jugement, Enlèvement, Saison des amours, Guerre sur Terre, Jour de l'Indépendance, Le Quickening, Le sondage, Fête à la maison, Autopsie extraterrestre, Invasion !, Champions volants à vélo, Temps de vengeance, Basé sur le roman Push de Sapphire, Vacances géniales, Même extra-er, Terre Mère, Boogaloo électrique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "suite ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Peurs nocturnes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Steven Spielberg a failli faire une suite à son méga-hit <i>E.T.</i> intitulé <i>E.T. II : <BLANK>.</i> ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "401225_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

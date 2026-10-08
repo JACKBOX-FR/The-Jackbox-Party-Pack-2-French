@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "mort ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Des avocats morts. Ouais, ça pourrait s'appeler Un bon départ. C'est comme ça que se déroule cette blague ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "CBS devrait diffuser une émission télévisée sur les avocats qui sont également <VIERGE> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377565_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377563_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "plus de tacos | tu n'as plus de tacos | je n'ai plus de tacos | besoin de tacos | j'ai besoin de tacos | tu as besoin de tacos | tu as besoin de tacos | j'ai besoin de tacos | besoin de tacos ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "(sfx : tonalité) \nRÉPARTITEUR : 9-1-1, quelle est votre urgence ?\nSCHMITTY : Envoyez la police ! J'ai une urgence tacos !!! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une mauvaise raison d'appeler le 911 ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "381417_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "381415_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

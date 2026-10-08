@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lui faire un massage, lui donner un laxatif, mettre son doigt dans ses fesses, le bercer d'avant en arrière, lui chanter, lui donner un bain, lui chatouiller le ventre, lui frotter les pieds, lui faire une intervention chirurgicale, le faire s'accoupler, allumer des bougies pour lui, lui mettre un tube dans les fesses, essayer de le faire rire, lui faire faire du yoga, lui murmurer à l'oreille, jouer de la harpe, l'embrasser, l'habiller. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "constipé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lécher ses fesses ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un gardien de zoo chinois est allé au-delà de l'appel de son devoir lorsqu'il a aidé un singe constipé à faire passer une cacahuète près de <BLANK> pendant une heure. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lécher son cul, lécher les fesses du singe, lécher le cul du singe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "405996_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405993_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

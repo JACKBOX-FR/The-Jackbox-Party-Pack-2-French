@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voler, avoir faim, devoir boire de l'eau, s'effondrer, mourir, s'accoupler, faire caca, vomir, se transformer en fantôme, allumer le propriétaire, péter, dormir, devenir fou, tuer quelque chose, glisser, avoir mal à la tête, devenir agressif, disparaître ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "renne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les Finlandais ont un terme appelé « poronkusema », qui désigne approximativement la distance que les rennes peuvent parcourir avant de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "uriner, pisser ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400388_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire des munchkins|faire des munchkin|faire des munchkin|faire un munchkin|faire des munchkins|faire des munchkin ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Faire des munchkins ! Oui! Un mouvement particulièrement important est appelé Lollipop Guild. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ce qu'on appelle faire caca au pays d'Oz",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378750_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378748_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gomme, livre, cerveau, sac, petite amie, pistolet, ceinture, lunettes, sang, nourriture, bonbons, cheveux, casque, bonnet, soeur, portefeuille, pain, voiture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "échange ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chaussure ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un numéro de 1947 du magazine <i>Life</i> présentait un article sur l'échange de <BLANK>, une mode qui balayait les lycées à travers le pays. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chaussures, échange de chaussures, échange de chaussures ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "376829_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376826_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

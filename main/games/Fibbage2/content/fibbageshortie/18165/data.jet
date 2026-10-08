@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "livres de mots croisés, trampolines, viande pour le déjeuner, paniers, futons, ordinateurs, ceintures, médicaments contre les allergies, pneus, crème glacée, chapeaux de cowboy, ballons, chiens, papier toilette, clarinettes, poudre pour les pieds, chou frisé, bandes dessinées ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "récessions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "produits de beauté ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étude approfondie de 2012 publiée dans le <i>Journal of Personality and Social Psychology</i> a révélé que la vente de <BLANK> augmente en réalité à chaque récession économique aux États-Unis. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "maquillage, maquillage, rouge à lèvres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375455_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

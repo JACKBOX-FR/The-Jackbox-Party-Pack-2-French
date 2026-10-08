@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "placard à balais, voilier, Walmart, boîte de réfrigérateur, mât de drapeau, voiture de police, vidéo à succès, club de strip-tease, montgolfière, cirque, bâtiment abandonné, prison, grotte, cabane dans les arbres, collège, avion, arrêt de bus, égouts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "gare ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cabine téléphonique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous traversez Carrabelle, en Floride, jetez un œil à leur poste de police unique situé à l'intérieur d'un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cabine téléphonique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "413989_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390671_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

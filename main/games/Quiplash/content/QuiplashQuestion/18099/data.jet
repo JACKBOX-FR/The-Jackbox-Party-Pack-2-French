@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "venir travailler nu|aller travailler nu|aller travailler nu|venir travailler nu|aller nu|aller nu|se mettre nu ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne devriez aller travailler nu que si vous êtes une strip-teaseuse ou un animateur de jeux vidéo. Vous m'avez entendu. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un bon moyen de se faire virer ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375042_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375040_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

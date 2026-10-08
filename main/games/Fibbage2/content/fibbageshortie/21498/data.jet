@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis un voleur, j'habite au 4441 N. Wolcott, Salut les flics, je sais que vous me regardez, je suis juste derrière vous, Voler, c'est mal, J'espère que vous m'attraperez, La poursuite est lancée, Images de surveillance, Rembobinez la cassette, Je vole ce magasin, Regardez bien mon visage, Je reviens pour cambrioler cet endroit, Je vole pour m'amuser, Le jeu du chat et de la souris, Je suis bien devant la caméra, La caméra ajoute 10 livres, arrête-moi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ne sera pas attrapé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des images de surveillance d'un voleur à Tampa, en Floride, ont attiré l'attention des enquêteurs alors qu'elle portait un T-shirt qui disait : « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406887_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

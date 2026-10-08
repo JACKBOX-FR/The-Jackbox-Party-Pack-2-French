@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "John McClane|Bruce Willis ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais. Cela signifie que vous êtes dans un film de Die Hard, mais au moins vous êtes dans le bon film de Die Hard. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La dernière chose que vous voudriez trouver dans vos conduits d’air ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "403128_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "403126_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

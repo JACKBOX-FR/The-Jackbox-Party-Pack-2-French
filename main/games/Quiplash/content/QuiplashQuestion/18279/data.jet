@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "cercueil|un cercueil ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Un cercueil ? je ne sais pas, je pense qu'un cercueil est un super cadeau. De cette façon, elle pourra commencer à décorer avec des bibelots avant de partir. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un cadeau d'anniversaire que vous ne devriez pas offrir à votre grand-mère ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376218_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376216_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

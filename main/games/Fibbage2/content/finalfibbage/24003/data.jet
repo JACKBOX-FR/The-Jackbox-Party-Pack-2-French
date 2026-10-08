@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "son cerveau, son âme, Narnia, le paradis, le Saint Graal, l'Antarctique, le cadavre de Robin des Bois, le monstre du Loch Ness, le rocher de Gibraltar, le faucon millenium, la guerre contre le terrorisme, la cape de Superman, la comète de Haley, son sens de l'humour, un dragon, son ongle incarné, son furoncle, ses cheveux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "eBay ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le soleil ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce dont Maria Angeles Duran, d'Espagne, essayait de vendre des pièces sur eBay, avant qu'ils ne l'arrêtent. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "propriété solaire, atterrir sur le soleil, solaire, soleil ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "420986_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

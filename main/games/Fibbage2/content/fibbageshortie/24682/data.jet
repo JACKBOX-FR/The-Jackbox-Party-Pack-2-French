@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'amour, les mathématiques, la musique, du ruban adhésif, les amis et la famille, un marteau, un bain chaud, un bon sandwich, un tournevis, une visite au magasin, regarder Family Feud, la paix, chanter, Netflix, une ceinture à outils, la compréhension, la thérapie, la médecine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Clarkson ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un super massage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "10:49 23 juin 2015 @Kelly_clarkson a tweeté : « Je suis certain que la plupart des choses dans le monde peuvent être réparées avec <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un massage, un bon massage, un massage, des massages, de bons massages, de bons massages ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "424519_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424514_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

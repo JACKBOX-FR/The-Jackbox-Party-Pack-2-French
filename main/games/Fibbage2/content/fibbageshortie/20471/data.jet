@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jongler, tricoter, servir des hors d'œuvres, faire un discours, faire voler un cerf-volant, serrer la main, chanter une chanson, promener un chien, faire des tours de cartes, jouer de la harpe, peindre un portrait, faire des bulles, tirer avec un pistolet, se maquiller, faire des baisers, nourrir un âne, verser du champagne, tailler ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mascarade ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouer du violon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1760, l'homme qui a inventé les patins à roulettes a fait une entrée spectaculaire dans une soirée masquée à Londres en patinant simultanément et <BLANK>. Malheureusement, il s'est écrasé contre un grand miroir. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jouer du violon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398315_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

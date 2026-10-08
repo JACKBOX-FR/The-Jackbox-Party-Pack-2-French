@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "clôture, bateau de croisière, étagère d'épicerie, nénuphar, sous-marin, pierre tombale, ours en peluche, papillon, statue de gargouille, corde à linge, couvercle de toilette, panneau d'arrêt, main de mort, miche de pain, bus, cheveux, égout, doigt de poupée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "miraculeusement ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "carotte dans son jardin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "16 ans après sa disparition, Lena Paahlsson a miraculeusement retrouvé son alliance cachée sur un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "carotte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "380198_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380195_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boire, s'endormir, jurer, dessiner des chats, vomir, jouer avec des jouets, porter des sandales, frapper les professeurs, se curer le nez, jeter des ordures, porter des lunettes de soleil, se tenir debout sur un bureau, casser des chaises, manger des œufs, pleurer, se donner des coups de pied, enlever leurs chaussures, passer des notes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "enseignants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En juin 2015, les enseignants d'une école située au Ghana ont menacé de boycotter les cours si les élèves n'arrêtaient pas <BLANK> en classe. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "déféquer, chier, chier, faire caca, faire de la merde, faire caca, faire caca ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424589_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "panneaux « pas de chiens », fils électriques anti-écureuils, noix vraiment minuscules, feuilles artificielles, fontaines d'eau intégrées, tours de téléphonie cellulaire, sève qui brille dans le noir, nez, personnes qui y vivent, pointes venimeuses, membres parfaitement symétriques, écorce qui sent la menthe poivrée, yeux de bœuf, centres gluants, odorat, racines de néon, graines explosives, écorce rose ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "arbres ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "adresses e-mail ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La chose unique que possèdent tous les arbres de Melbourne, en Australie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "courrier électronique, courrier électronique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "429911_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "429908_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

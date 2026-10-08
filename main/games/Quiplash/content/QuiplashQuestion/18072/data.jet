@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "philosophie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Je crois que c'est le grand philosophe Platon qui a dit un jour : « Tu es plein de merde (sfx : bip). » ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "D'accord... très bien ! De quoi veux-tu parler alors ?!!! ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374940_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374938_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

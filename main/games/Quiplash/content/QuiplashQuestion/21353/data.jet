@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pas encore ! ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Exactement! Comment cela continue-t-il à se produire ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La première pensée qui vous traverse l’esprit lorsqu’un homard s’agrippe à vos parties génitales ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "403641_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "403639_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

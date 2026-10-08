@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chats, télécommandes, ordinateurs portables, stylos, ordinateurs portables, téléviseurs, oreillers, tasses à café, ordinateurs, draps-housses, lunettes, modems Internet, vases, sacs à main, chiens, chaussures, portefeuilles, ceintures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Finlande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "téléphones portables",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si, pour une raison quelconque, vous êtes doué pour lancer <BLANK>, alors vous devriez vous entraîner pour participer aux championnats du monde annuels à Savonlinna, en Finlande, et voir si vous pouvez en lancer un le plus loin. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "téléphones portables, téléphones portables, téléphones ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399683_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

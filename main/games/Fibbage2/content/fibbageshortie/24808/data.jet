@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une croix gammée, une tête, un pénis, un sein, une crotte, une croix, une banane, Pokémon, des toilettes, un mégot, une grenade, un hamburger, un strudel grille-pain, un chat, un pied, un doigt, du feu, une cigarette ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "petit déjeuner ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une arme à feu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un garçon de 7 ans du Maryland a été suspendu de l'école pendant deux jours après avoir mordu sa pâtisserie en forme de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "une arme à feu, une arme de poing, une arme de poing, un pistolet, un pistolet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "425566_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

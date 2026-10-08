@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "téléphones portables, porte-documents, bouteilles de soda, gilets de sauvetage, nœuds papillons, drones, lunettes de soleil, sacs à main, passeports, chatons, manuels scolaires, appareils photo, machines à café, protecteurs de poche, brosses à cheveux, cadres photo, bras cassés, canettes Red Bull ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "flacons ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les bébés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Simon Philion a lancé un Kickstarter demandant 70 000 $ pour financer son rêve de créer des flacons d'alcool minutieusement déguisés en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un bébé,un porte-bébé,des porte-bébés,un porte-bébé,des porte-bébés,un nourrisson,des nourrissons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378392_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

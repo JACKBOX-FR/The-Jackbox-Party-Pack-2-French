@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des abeilles tueuses, des nains, le maire, des avances amoureuses, un rhume, des bousiers en colère, des ninjas, des fantômes, des écoliers enragés, des croyants, des oies, des touristes, des chauves-souris, 10 assassins, des rumeurs vicieuses, des tanks, une addiction aux jeux vidéo, des Schtroumpfs imaginaires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "maire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "singes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2007, l'adjoint au maire de New Delhi, en Inde, est décédé des suites de blessures qu'il avait subies alors qu'il tentait de combattre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un singe, des primates, des singes rhésus, une bande de singes, une bande de singes, un essaim de singes, un essaim de singes, une bande de singes, une bande de singes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372977_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sacs en plastique, têtes de serpent, plaques d'immatriculation, étuis à CD, coupe-ongles, T-shirts de groupes de garçons, chaussettes tubulaires, carapaces de tortues, Sharpies, téléphones à clapet, jeux Atari, Tootsie Roll Pops, livres de coloriage, Beanie Babies, cols roulés, pinces à queue de cheval, Crocs, sacs banane ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bonne chance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un billet de 2 $ ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les gens qui vivent en Équateur ont un porte-bonheur inhabituel. Ils pensent que, pour porter chance, il est très important d’avoir <BLANK> à tout moment. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Billet de 2 dollars, un billet de deux dollars, un billet de deux dollars, des billets de 2 dollars, un billet de 2 dollars, des billets de 2 dollars, deux billets de dollars, des billets de 2 dollars, des billets de 2 dollars, un billet de 2 dollars américains, un billet de deux dollars américains, un billet de deux dollars, un billet de deux dollars ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "408475_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408472_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

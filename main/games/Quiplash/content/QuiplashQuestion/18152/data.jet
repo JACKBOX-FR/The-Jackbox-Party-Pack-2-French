@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le chanteur de sperme",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "The Jizz (sfx: bip) Singer a été l’un des premiers pornos « parlants », vous savez, si vous aimez ce qu’ils ont à dire. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Inventez un nom pour un film porno muet des années 1920 ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375375_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375373_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

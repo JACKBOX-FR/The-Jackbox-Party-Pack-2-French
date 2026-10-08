@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "chair humaine ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Chair humaine ! Ouais, il n’y a rien de plus dégueulasse que de trouver de la chair humaine dans ses dents, surtout si on n’a pas mangé de gens depuis la semaine dernière ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La pire chose à trouver coincée entre tes dents ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374058_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374056_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

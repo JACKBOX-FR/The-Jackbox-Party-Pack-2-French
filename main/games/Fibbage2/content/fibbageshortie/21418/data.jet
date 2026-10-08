@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chanter, vomir, s'étouffer, roter, transpirer, uriner, pleurer, se briser les os, être en état de choc, mourir, perdre des dents, se donner la main, cracher, tousser, rire, devenir sourd, devenir aveugle, perdre le contrôle de ses intestins ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "excité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "éternuer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Dr Mahmood Bhutta et le Dr Harold Maxwell ont été les pionniers d'une étude sur une maladie rare dans laquelle les personnes <BLANK> lorsqu'elles sont sexuellement excitées. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "425116_2",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404974_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404971_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

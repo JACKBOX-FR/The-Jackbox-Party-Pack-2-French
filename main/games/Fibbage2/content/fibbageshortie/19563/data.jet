@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "écouter Coldplay, chasser des fantômes, jouer à faire tourner la bouteille, tricoter des pulls, lire Mark Twain, échanger des recettes, jouer au hackey sack, organiser un concours de regards, enseigner la jonglerie, tirer sur les pigeons, parler de la météo, regarder <i>The Good Wife</i>, manger des choux de Bruxelles, apprendre le klingon, inventer un problème de mathématiques, relire les encyclopédies, tondre la pelouse, couper leurs ongles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Michigan ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nourrir les écureuils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Deux fois par semaine, un club composé de plus de 400 étudiants de l'Université du Michigan se réunit à la bibliothèque de l'école pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nourrir les écureuils, jouer avec les écureuils, aider les écureuils ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388910_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

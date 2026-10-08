@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ebola contre Ebola, Caca Tetris, Diarrhea Kong, Boner Time, Super Incest Bros., Baseball stéroïde, Fête de circoncision, Homme d'éjaculation précoce, Attrapez vos parents en train de faire l'amour, Roe V. Wade : Le jeu, Chasse au foie gras, Trouvez les poux, Stealth Pooper, Religion : Le jeu !, Fête de la puberté, Orgasm City, Hémorroïdes !, Ms. Homme de crack ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "inconfortable ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Course de tampons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "C'est le nom du jeu vidéo de 2014 développé par deux lycéens de New York, qui aborde un sujet inconfortable. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "408859_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408856_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

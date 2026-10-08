@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'appelant « Sally », vomissant, jetant des bouteilles de ketchup, rotant bruyamment, utilisant un porte-voix, sortant un pistolet, faisant semblant de s'étouffer, faisant un « Eeeeeee ! » son, lancer de l'argent, siffler, crier son propre nom, enlever sa chemise, donner des coups de pied dans un ballon de football, utiliser un pistolet lance-fusée, se tenir debout sur sa table, jouer de la musique forte, frapper des poings sur la table, faire des bruits d'âne ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "excuses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lui tirer les cheveux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Premier ministre néo-zélandais, John Key, a été contraint de présenter d'étranges excuses à une serveuse d'Auckland. La serveuse a révélé que, lors d'une visite dans son restaurant, le Premier ministre ne s'arrêterait pas <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tirant sa queue de cheval, tirant sa queue de cheval, tirant ses cheveux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405696_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

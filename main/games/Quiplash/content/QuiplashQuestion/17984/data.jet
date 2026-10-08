@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "travailler|travailler ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Travailler est un excellent moyen de perdre du temps au travail ! Pourquoi n’y ai-je pas encore pensé ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une excellente façon de perdre du temps au travail ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374403_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374401_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

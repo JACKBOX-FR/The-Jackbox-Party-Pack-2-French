@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boire de la bière, jouer à des jeux vidéo, prendre un bain moussant, faire du yoga, aller au spa, peindre des paysages, faire des pâtes, regarder des comédies romantiques, faire des puzzles, faire voler un cerf-volant, faire le ménage, prendre un verre de vin, lire le journal, chanter de l'opéra, lire des romans, tricoter, jouer à des jeux de société, jouer du violon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "se détendre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fumer la pipe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le chien de Padraic Sirr, Jasper, est une célébrité locale à Glinsk, en Irlande, car, comme son propriétaire, il aime se détendre près de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fumer la pipe, fumer la pipe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400496_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quel goût a le chat ?|Quel goût a le chat ?|quel est le goût du chat ?|quel est le goût d'un chat ? ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Je vais vous dire quel goût a le chat. Il y a un soupçon d'impertinence et d'indifférence même si vous passez la moitié de votre temps libre à pelleter sa merde (sfx : bip) Désolé, mon chat et moi traversons quelque chose. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La pire chose à dire lorsqu’on essaie d’adopter un animal de compagnie ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375678_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375676_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

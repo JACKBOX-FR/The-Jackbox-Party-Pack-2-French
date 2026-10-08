@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger des saucisses, sentir vos aisselles, porter des couches, épiler tous les poils du corps, toucher vos yeux, chanter au karaoké, porter trop de vêtements, lécher les toilettes, vous brosser constamment les dents, insulter les autres, vivre dans une grotte, faire des câlins, parler à des inconnus, donner votre argent, vous choquer, toucher le visage de quelqu'un, vous mâcher les cheveux, porter du cuir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "état ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "raconter de mauvaises blagues",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous souffrez de la condition « witzelsucht », vous pourriez vous retrouver obligé de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mauvaises blagues, mauvais jeux de mots, blagues horribles, jeux de mots horribles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "425966_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "406338_1f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406335_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

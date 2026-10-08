@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "courses de scooters|courses de scooters",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Les courses de scooters sont tellement amusantes à Wal Mart - soyez juste conscient du changement d'articles de camping - c'est une course brusque. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose que vous ne pouvez faire dans un Walmart que si personne ne regarde ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378606_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378604_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

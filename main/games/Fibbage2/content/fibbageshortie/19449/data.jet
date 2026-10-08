@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rots, soupirs, mouvements des jambes, clins d'œil, craquements des jointures, toux, pets, danse, clignements des yeux, chant, claquement des lèvres, combats, respiration, mouvements du corps, vomissements, peinture, charabia, remuements des orteils ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Canari ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "siffler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sur la petite île canarienne de La Gomera, une ancienne langue indigène fait son retour. La langue est inhabituelle car elle est entièrement communiquée via <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "des sifflets, des sifflements, des sifflements, un sifflet, des sifflets, des bruits de sifflet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "386168_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386165_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

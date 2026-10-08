@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pas de balles ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "D'accord, oui, No Balls serait embarrassant pour un chien mâle, mais ce n'est vraiment pas un nom embarrassant pour une chienne. C'est un nom *terrible* pour une chienne, mais pas embarrassant. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom le plus embarrassant pour un chien ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375093_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375091_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

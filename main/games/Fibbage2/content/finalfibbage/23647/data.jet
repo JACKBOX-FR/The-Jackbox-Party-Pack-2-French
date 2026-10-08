@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ding Dong Many Legs, Ventouse de noix tanzanienne, Wiener rampant, Bratwurst coulissante, Viande d'homme fier, Concombre rasé, Ver effrayant, Ver Dingle, Ron Jeremy, Larry chauve, Monstre de viande phallique, Bête à doigts désincarnée, Mille-pattes suggestif, Carotte dure, Hot-dog flexible, Centipède dressé, Centipède humain, Muncher de fesses tropicales ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mille-pattes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Saucisse de jambe errante ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom commun quelque peu suggestif du Crurifarcimen vagans, un grand mille-pattes trouvé en Tanzanie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "saucisse de jambe errante, sasage de jambe errante, sasage de jambe errante ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415937_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

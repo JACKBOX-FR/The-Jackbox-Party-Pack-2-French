@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chasser à l'arc, courir dix miles, manger du Crisco, s'enterrer dans le sable, construire des maisons de cartes, jouer à Battleship, se couper les cheveux, écouter Garth Brooks, monter à cheval, renifler les mégots de chien, jouer, faire du skinnydipping, danser en ligne, manger un barbecue, sauter en parachute, faire du shopping chez Wal-Mart, se suspendre la tête en bas, trier des chaussettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "104 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire du Dr Pepper ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une femme de 104 ans de Fort Worth, au Texas, a fait la une des journaux lorsqu'elle a attribué sa longévité à <BLANK> trois fois par jour. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "avoir le Dr Pepper, boire du Docteur Pepper, boire du Dr Pepper, avoir du Dr Pepper ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390311_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

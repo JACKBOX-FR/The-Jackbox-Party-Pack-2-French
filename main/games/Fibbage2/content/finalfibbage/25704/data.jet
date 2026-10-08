@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "armpitysaurus, bellysaurus, buttosaurus, eye-ceratops, mamelonsaurus, chevilleosaure, Charliehorseasaurus, nombrilceratops, vaginaraptor, rectalsaurus, ongleceratops, adamsappleosaurus, earceratops, vulvaceratops, vésicule biliaire, spléenosaure, fémuraptor, amygdalesatops ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dinosaure ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Scrotum humain ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le dinosaure aujourd’hui appelé « Mégalosaure » s’appelait à l’origine ainsi, du nom d’une partie du corps humain. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431330_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

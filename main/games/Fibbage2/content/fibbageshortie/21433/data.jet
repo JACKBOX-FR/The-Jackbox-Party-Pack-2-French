@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se déguiser en geishas, composer une chanson de jazz, manger un pot de chou frisé, danser ensemble, se frapper le visage, porter des tongs, écrire un roman d'amour, regarder The Notebook, écouter des adultes contemporains, se raser les jambes, tuer un cheval, attraper des papillons, patiner sur du ciment, tricoter des chaussettes, se peindre les ongles, lire Dan Brown, boire du lait chaud au lieu de l'eau, lui acheter une voiture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "football ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cracher dessus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un entraîneur de football d'un lycée de Caroline du Nord a été suspendu début 2015 pour avoir rendu ses joueurs <BLANK> en guise de punition pour avoir manqué l'entraînement. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lui cracher au visage, lui cracher au visage, lui cracher au visage, lui cracher au visage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405333_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "William Howard Shaft|William H. Shaft|William Shaft|Président Shaft ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Shaft, je veux dire que Taft a été suivi par Woodrow Wilson et... et je ne vois rien d'inapproprié pour Woodrow. Pourquoi Woodrow est-il si dur ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Prenez le nom de n’importe quel président américain et transformez-le en quelque chose d’inapproprié ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376881_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376879_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

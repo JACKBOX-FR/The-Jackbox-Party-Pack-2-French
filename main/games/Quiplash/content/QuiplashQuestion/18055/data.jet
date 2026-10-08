@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mormons ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Écoute, les mormons sous ton lit veulent juste te parler pendant cinq minutes. C'est ça. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce qui se cache sous votre lit lorsque vous dormez ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374868_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374866_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

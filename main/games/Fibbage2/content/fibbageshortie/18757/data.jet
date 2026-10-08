@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire du felattio, pointer un pistolet sur sa tempe, prier le diable, ramasser de l'argent, nettoyer le sang, donner le majeur, vomir dans les toilettes, se faire pénétrer, nettoyer le sol, tenir un couteau, à côté d'un trou de gloire, donner deux pouces vers le bas, frapper des munchkins, se masturber, lui arracher les yeux, étouffer un chien, serrer des extraterrestres dans ses bras, tirer sur des critiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "à genoux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "renifler de la cocaïne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant les Oscars 2015, un artiste de rue nommé Plastic Jesus a dévoilé une statue provocante des Oscars grandeur nature sur Hollywood Boulevard. La statue était agenouillée et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "prendre de la cocaïne, renifler de la coke, prendre de la coke ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379319_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "suspendu la tête en bas, fuyant un taureau, nageant avec des crocodiles, brandissant un fusil chargé, sautant d'un toit, en feu, courant sur des charbons ardents, boxant, s'allongeant sur un lit de clous, se prenant un coup de pied à l'aine, marchant sur une corde raide, jonglant avec des tronçonneuses, portant un bol de soupe chaude, se rasant, tenant un serpent venimeux, se battant à l'épée, les yeux bandés, conduisant une voiture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "boire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "recevoir des chocs électriques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous êtes à Mexico et que vous vous sentez aventureux, rendez-vous dans un bar où l'on joue au jeu à boire inhabituel « toques », dans lequel le joueur boit en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "se faire électrocuter,recevoir des décharges électriques,recevoir des volts électriques,recevoir des décharges électriques,une électrocution se produit,électrocuté,être électrocuté,être choqué ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397883_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

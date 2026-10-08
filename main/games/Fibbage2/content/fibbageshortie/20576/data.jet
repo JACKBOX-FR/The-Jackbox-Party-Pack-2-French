@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "clown, lutin, devin, fée, plombier, cowboy, cannibale, boogie man, tyran, tueur de démons, maître des bêtes, robot, génie, démoniste, sugar daddy, hobnobber, vampire, chasseur de loups-garous ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "poste ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Assistant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1990, le Premier ministre de Nouvelle-Zélande a nommé un homme nommé Ian Brackenbury Channell au poste très étrange de fonctionnaire néo-zélandais <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "400577_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400574_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

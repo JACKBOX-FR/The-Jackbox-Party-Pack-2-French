@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "téléphones muraux, trottoirs, nappes, boîtes aux lettres autoportantes, climatisation, toits, fenêtres, tapis, sous-sols, adresses numériques, causeuses, niches extérieures, crachoirs, escaliers en colimaçon, fontaines à eau, lave-vaisselle, peinture rose, aquariums ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vancouver ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poignées de porte rondes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans un geste très étrange, la ville de Vancouver, en Colombie-Britannique, a désormais interdit aux nouvelles maisons et immeubles d'habitation d'avoir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "boutons de porte ronds ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "397718_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397715_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chasseur, président, rappeur, secrétaire, tatoueur, obstétricien/gynécologue, pasteur, femme au foyer, nonne, serveuse, astronaute, chef des scouts, dompteur de lion, carnie, développeur de jeux vidéo, femme de ménage, gitane, scientifique en alimentation ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Barbie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "matador ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'occupation de la Barbie a été libérée en 1999 et interrompue un an plus tard, suite à des plaintes. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "barbie matador",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431355_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lancer de fromage, nage dans les eaux usées, gonfler la barbe, se moucher sur de longues distances, crotte de nez, pose de tapis, vomissements de compétition, lutte à l'avoine, course d'escargots, manger du verre, éternuements de compétition, construction de cornichons, fléchettes aveugles, pleurs de compétition, chasse au dragon, compter jusqu'à un million, jonglerie de grenades, anecdotes bibliques. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fenny ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lutte avec les orteils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un sport très étrange qui organise chaque année son championnat du monde à Fenny Bentley, en Angleterre. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "420662_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

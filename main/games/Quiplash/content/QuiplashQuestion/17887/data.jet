@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "super calligraphie|supercalligraphie|super écriture|super calligraphie|super écriture manuscrite|super écrivain|super écriture ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Et pourtant, c’est le meilleur « S » qu’il puisse trouver. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le pouvoir spécial de Superman dont il ne parle à personne ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374049_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374047_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

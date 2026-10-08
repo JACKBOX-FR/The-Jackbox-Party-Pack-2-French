@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fetch.Com, Doggy Hags, Ok Dog Cupidon, Dog Days of Summer, Doggy Styles, Wag Offs, Tails of Love, Spay You Love Me, Hot Under Collar, Paws For A Kiss, Ruff Stuff, Museler Me, Classy Lassie, Good Boy, Kennel Of Love, Libérez votre amour, aboyez une fois pour l'amour, Bone-Seekers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vacances ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tindog ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de l'application créée par Holidog qui aide les chiens à trouver d'autres chiens. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "423810_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sucer|Sucer intentionnellement ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Si la succion intentionnelle était une chose, les Raiders totaliseraient encore plus de pénalités. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Imaginez une très mauvaise pénalité de football qui commence par « Intentionnel » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374481_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374479_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

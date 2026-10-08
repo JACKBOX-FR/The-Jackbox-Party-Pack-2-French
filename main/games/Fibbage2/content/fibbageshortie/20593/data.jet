@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger des côtes, dormir, se couper les ongles, caresser un chat, porter une perruque, se brosser les dents, jouer du trombone, tailler, porter des collants blancs, se raser, se maquiller, jouer avec une corde à sauter, faire des bulles, jouer avec des jouets, faire une sculpture sur glace, marcher sur des échasses, pleurer, faire des bisous ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pères ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sauter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre d'une série de photos très étranges mais populaires, Yuki Aoyama avait des pères japonais <BLANK> à côté de leurs filles. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sauter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400961_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

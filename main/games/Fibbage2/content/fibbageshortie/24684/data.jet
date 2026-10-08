@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boire de l'alcool, porter du bleu, aller aux toilettes, enfants, fumer, fruits, applaudir, s'asseoir, thé, éternuer, hommes, plantes, viande, parler, courir, étudier, chiens, lunettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "minuit ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "danser ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À partir de 2016, une interdiction vieille de 67 ans sur <BLANK> dans les boîtes de nuit après minuit au Japon sera levée. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "danse ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424564_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

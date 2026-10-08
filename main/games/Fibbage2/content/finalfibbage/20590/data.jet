@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lobby Boy, Hilton Hereos, Hotel Adventures, Bag Man, Grand Theft Hotel, Call of Hotel Duty, Super Concierges, Bell Boy 7, Procédure pas à pas du service en chambre, Hilton Shooters, Plaintes des clients, Serveur invité, Travailler ensemble, Action avec des sourires, Gestionnaire de nuit, Jeu du personnel de l'hôtel, Couloirs déchirants, L'ascenseur effrayant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "hôtels ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jeu d'équipe ultime ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre du jeu vidéo super cool Sony PSP créé par les hôtels Hilton pour former leurs employés. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "400892_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400889_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "danse classique, théâtre shakespearien, karaté, télépathie mentale, lecture de la paume, barman, jardinage, yodel, guitare classique, breakdance, guerre, échecs, quilting, travail du bois, conversation, préparation de sushi, pliage de serviettes, dentisterie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "poulpe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "photographie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'aquarium Sea Life de Kelly Tarlton à Auckland, en Nouvelle-Zélande, abrite une pieuvre très spéciale nommée Rambo qui a été formée à l'art de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "prendre des photos, prendre des photos, utiliser un appareil photo, photographie, photographie, photographie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "401339_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "401336_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ne mange pas de neige jaune | ne mange pas de neige jaune | ne mange pas de neige jaune ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, ne mange pas de neige jaune. Toutes les autres couleurs de neige vont bien. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une courte devise selon laquelle tout le monde devrait vivre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376221_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376219_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

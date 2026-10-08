@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un tigre, un bain à remous, un bar à pommes de terre, un jeu de palets, une dépendance, un carcajou, un fusil de chasse, une table de billard, une machine à pâtes, une machine elliptique, un pouf, un four facile à cuire, une maison de poupée, un mannequin de lui-même, une lampe à lave, une piscine pour enfants remplie de spaghetti, des ânes, un Père Noël gonflable sur la pelouse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "jazz ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un pot de gombo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La chose inhabituelle que le musicien de jazz Bill Wharton est connu pour avoir sur scène lors de ses concerts. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gumbo, pot de gumbo, bol de gumbo, un bol de gumbo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "423860_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

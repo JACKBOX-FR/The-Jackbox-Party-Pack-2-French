@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alcool, or, essence, uranium, miel, sucre, bois, méthane, imagination, caramel, électricité, neige, vase, perles, acide sulfurique, unobtanium, strass, os ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "30% ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "diamant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les scientifiques pensent que plus de 30 % de la lointaine planète 55 Cancri e est constituée de <BLANK> pur. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "diamants ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387173_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

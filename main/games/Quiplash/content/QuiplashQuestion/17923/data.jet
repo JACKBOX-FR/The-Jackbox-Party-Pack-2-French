@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "acheter plus de billets|acheter des billets de loterie|acheter plus de billets de loterie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Achetez plus de billets, oui ! Écoutez, si vous avez gagné un million de dollars sur UN billet, pensez à combien vous gagnerez en achetant un MILLION de billets ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La première chose que vous feriez après avoir gagné à la loterie ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374157_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374155_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

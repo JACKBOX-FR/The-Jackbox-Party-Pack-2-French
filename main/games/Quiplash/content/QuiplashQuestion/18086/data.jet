@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "orphelins|orphelins non adoptés|orphelins non réclamés ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Orphelins. Cela a du sens. Mais n’oubliez pas que, selon la pyramide alimentaire, vous ne devriez consommer qu’une à deux portions d’orphelins par jour. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ce que vous pensez être un ingrédient non annoncé dans la plupart des hot-dogs ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375003_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375001_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "déchets, charbon, affiches de spectacle, fers à cheval, dents desserrées, rats morts, corps, tabac usagé, lapins, chapeaux abandonnés, emballages de bonbons, orphelins, cannes cassées, argent, ramoneurs, briques, timbres, serpents ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "collecte ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "caca de chien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À l’époque victorienne de l’Angleterre, il existait un métier appelé « chercheur pur », qui consistait à se promener et à collecter des <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "excréments de chien, excréments, caca, merde ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "380792_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380789_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire des sauts d'obstacles, marcher sur deux jambes, chanter, faire des pompes, épeler des choses avec du foin, vomir des diamants, monter une autre vache à cru, s'asseoir comme un humain, faire pousser des dents en or, siffler, patiner sur glace, sauter, agiter les jambes, dormir sur le dos, émettre un parfum, protéger une souris, construire une maison, sauter ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kenya ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger un mouton ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Charles Mamoleo, un agriculteur au Kenya, savait qu'il avait une vache étrange entre les mains lorsqu'il l'a vue <BLANK> ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "manger un mouton ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404731_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

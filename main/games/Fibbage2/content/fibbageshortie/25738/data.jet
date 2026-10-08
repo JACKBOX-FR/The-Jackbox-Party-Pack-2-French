@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "laver son ventre, lui couper les poils des oreilles, faire des impressions, lui faire roter, capturer des chats, faire des châteaux de sable, mâcher sa nourriture, lui laver le dos, lui écrire des notes d'amour, lui tenir la main, être un punching-ball, le flatter, être une chaise humaine, tuer des mouches, tester la nourriture pour le poison, le déshabiller, porter une couche, frotter ses chats ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Roi Tut ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se curer le nez ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour le prix raisonnable de trois têtes de bétail et du logement et de la nourriture gratuits, le roi Tut a embauché un assistant spécialisé dont la tâche principale, assez étrangement, était de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431796_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

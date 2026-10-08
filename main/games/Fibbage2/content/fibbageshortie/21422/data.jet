@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un iPod, un petit chapeau, une boule magique de huit, un chien, un bébé, un frisbee, un collier, un toupet, une boucle de ceinture, une montre de poche, une balle de baseball, un pilulier, un DVD de Predator, un gâteau, un stimulateur cardiaque, une paire d'écouteurs, un livre d'auto-assistance, un yo-yo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "faire de la contrebande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un hamburger ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, un voyageur chinois à l'aéroport international de Guangzhou Baiyun a tenté de faire entrer clandestinement sa tortue de compagnie à bord de son vol en la déguisant en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "burger,hamburger,un burger,un cheeseburger ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405067_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

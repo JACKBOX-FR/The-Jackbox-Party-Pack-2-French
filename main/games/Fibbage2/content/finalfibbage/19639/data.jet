@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un crâne enflammé, une mouffette en colère, deux femmes qui s'embrassent, un lutin, une carte de l'Iowa, le symbole atomique du sodium, un champignon Mario, une licorne, son numéro de sécurité sociale, un poing, une momie faisant du skateboard, Mickey Mouse, pi à douze décimales, le système solaire, la formule secrète de Coca-Cola, son nom complet, le mot chinois pour intelligent, Marilyn Monroe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tatoué ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un chat triste ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce que Miley Cyrus a tatoué à l'intérieur de sa lèvre inférieure. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chat triste, chat triste, un chat triste, un chat bouleversé, un chat bouleversé, un chat triste, un chat triste, un chat bouleversé, un chat bouleversé, un chat qui pleure, un chat qui pleure, un chaton qui pleure, un chaton qui pleure ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390719_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

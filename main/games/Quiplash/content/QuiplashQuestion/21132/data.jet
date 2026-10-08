@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "mange-le ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ok, question complémentaire : que devrions-nous faire de tout ce plastique qui ne passe pas par notre système digestif ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Que faire de tout ce plastique qui ne se désintègre pas ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "402936_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "402934_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

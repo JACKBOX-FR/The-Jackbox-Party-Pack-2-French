@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "yeux verts, une queue résiduelle, daté, exactement le même QI, le même arrière-arrière-grand-parent, a mangé un canard, intolérance au lactose, rencontré auparavant, le même groupe sanguin, le même numéro d'identification automatique, a rencontré le président, a rencontré Kevin Bacon, un jumeau, a embrassé la même personne, est mort et est revenu à la vie, la même voix, le même nom, le même chien ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "aléatoire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le même anniversaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Voici une étrange probabilité mathématique pour vous. Si vous rassemblez 70 personnes aléatoires, il y a 99,9 % de chances que deux d’entre elles aient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "même anniversaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "424894_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424891_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

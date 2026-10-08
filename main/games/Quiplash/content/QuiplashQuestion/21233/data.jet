@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peur de coasser|j'ai peur de coasser|j'ai peur de croasser|J'ai peur de coasser ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "(phisophiquement) Oui, qui n'a *pas* peur de coasser ? Qui, je demande ? Profond. Réflexion profonde, ici même dans une partie de Quiplash. C’est quelque chose auquel nous sommes tous confrontés. (un temps) Bref, prochaine question stupide ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ce que dirait une grenouille à son psychiatre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "403260_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "403258_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

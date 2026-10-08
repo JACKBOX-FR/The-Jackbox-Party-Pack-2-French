@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chien, antenne parabolique, nain de jardin, unité de climatisation, jockey de pelouse, râteau, tuyau d'arrosage, hangar, arroseur de pelouse, clôture inutilisée, trampoline, serpent, voiture abandonnée, criminel, parapluie, tondeuse à gazon, trou de lapin, tuba ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cour ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "table de pique-nique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La police a arrêté Art Price Jr. de Bellevue, Ohio après que des voisins l'aient surpris en train d'avoir des relations sexuelles avec un <BLANK> qu'il gardait dans son jardin. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "table de pique-nique, table de pique-nique, table de pique-nique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "414576_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "414573_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

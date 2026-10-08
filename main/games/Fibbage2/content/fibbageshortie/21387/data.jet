@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger leur propre confiture d'orteils, sentir ses aisselles, lui lécher la main, s'essuyer les fesses, vomir, se curer le nez, faire pipi sur sa propre nourriture, manger son cérumen, péter, avoir une érection, couper la tête d'un poulet, boire du sang de pigeon, manger par terre, tresser ses cheveux, passer la soie dentaire devant eux, se faire sauter les boutons, roter, laisser tomber leur pantalon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "soumission ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sucer ses tétons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aussi grossier que cela puisse paraître, les habitants de l'Irlande ancienne montraient leur soumission au roi par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sucer ses tétons,sucer son téton,sucer son téton ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404207_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404204_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

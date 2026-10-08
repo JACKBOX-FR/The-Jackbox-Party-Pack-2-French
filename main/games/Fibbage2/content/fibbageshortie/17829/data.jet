@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "conduire à travers la fenêtre, se faufiler à travers la cheminée, la brûler, s'habiller avec un costume d'ours, traverser le mur, faire semblant d'être un fantôme, sauter à travers la lucarne, enfoncer la porte avec sa tête, se cacher dans un paquet, grimper par les toilettes, grimper sur l'antenne, faire semblant d'être un bébé abandonné, sauter par une fenêtre, entrer dans le sous-sol, nager dans la fosse septique, mordre le poignée de porte, faire exploser la porte d'entrée, percer dans la chambre d'amis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Floride ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se faufiler par la chatière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après avoir été expulsé de la maison par sa petite amie, un homme de Floride est mort en tentant de rentrer dans la maison par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ramper à travers la chatière, ramper à travers la chatière, ramper à travers la chatière, se faufiler à travers la chatière, se faufiler à travers la chatière, grimper à travers la chatière, grimper à travers la chatière, grimper à travers la chatière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "372836_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372833_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

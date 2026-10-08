@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "porc vers le bas ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, j'ai entendu dire que le porc descendant est dur. Vous devez prendre 200 livres, puis faire le chien descendant. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Trouvez un nom pour la pose de yoga la plus difficile connue de l'humanité ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374859_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374857_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

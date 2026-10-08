@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hache, meurtre d'ours, poils de poitrine, coups de poing, saumon, musc, barbe, baïonnette, crêpe, tête de cerf, fusil, baignoire, mangeur d'opossum, toilettes extérieures, favoris, patchouli, jardin d'herbes aromatiques, barbe au cou ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "campagne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cidre dur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le slogan de William Henry Harrison pour sa campagne présidentielle de 1840 indiquait avec audace qu'il était le candidat « cabane en rondins et <BLANK>». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379010_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379007_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

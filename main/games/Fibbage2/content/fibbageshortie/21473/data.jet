@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "accoucher, faire du hula hoop, faire un bonhomme de neige, jouer du saxophone, prendre un selfie, utiliser un téléphone portable, raser un chat, tricoter un pull, regarder la trilogie Star Wars, tirer un bazooka, écrire un roman, pratiquer une intervention chirurgicale, fumer, utiliser une friteuse, célébrer Noël, faire des études supérieures, se marier, se faire baptiser ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "espace ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire un expresso ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'astronaute Samantha Cristoforetti, première femme italienne dans l'espace, a également la distinction d'être la première personne à <BLANK> dans l'espace. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "boire un expresso, préparer un expresso, préparer un expresso, utiliser une machine à expresso, utiliser une machine à expresso ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "406290_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406287_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

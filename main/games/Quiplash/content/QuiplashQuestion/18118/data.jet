@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "mourir ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, essayez d'éviter de mourir jusqu'au troisième rendez-vous environ, après avoir au moins atteint la deuxième base. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une chose à ne jamais faire lors d'un premier rendez-vous ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375099_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375097_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

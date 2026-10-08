@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "de l'or, une maison, un coq, une climatisation, une femme, de la bière, des diamants, un assistant personnel, une voiture, un massage, des bijoux, des chaussures, de l'argent, des billets pour un concert, leur propre émission de radio, une télévision, un téléphone portable, un cheval ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "vasectomie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un permis d'armes à feu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2008, à Shivpuri, en Inde, une mesure incitative a été introduite pour inciter les hommes à subir une vasectomie. En échange d'être coupé, un homme recevrait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un permis d'arme à feu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387542_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387539_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

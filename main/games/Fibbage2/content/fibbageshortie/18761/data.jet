@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "SIDA, Ronald Raegan, le zombie Hitler, les tyrans du lycée, Ayn Rand, un météorologue, Jésus, des cafards géants, des comédies musicales, le Père Noël, une école de truites, un groupe de heavy metal, un drame en ligne, des mormons, des éclaireuses, des joueurs de tennis, la maladie de la vache folle, la fée des dents. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Batman ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ébola ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le numéro 48 de <i>Batman : Shadow of the Bat</i>, Batman combat un ennemi inhabituel dans les bandes dessinées : <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379376_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379373_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

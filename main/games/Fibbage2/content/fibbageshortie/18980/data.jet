@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "épis de maïs insolites, objets pointus, créations d'origami, Pop Tarts, jambes prothétiques, tumeurs, sandwichs à moitié mangés, portraits de notes autocollantes, pots de clair de lune, carapaces de tortues, soucoupes volantes, sculptures alimentaires, fausses moustaches, ongles, taureaux mécaniques, Big Mouth Billy Basses, pots de tabac, peintures d'excréments d'animaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Évent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mannequins ventriloques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Fort Mitchell, dans le Kentucky, visitez le musée Vent Haven, un monument unique qui abrite aujourd'hui plus de 800 <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mannequins, marionnettes ventriloques, mannequins ventriloque ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419726_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381020_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381017_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

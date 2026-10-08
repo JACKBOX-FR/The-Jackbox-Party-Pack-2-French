@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des paragraphes, des personnages, une langue connue, des virgules, des points, des chapitres, des espaces entre les mots, le mot « le », un conflit dramatique, un dialogue, un narrateur, une intrigue, des adjectifs, des verbes, des lignes droites, des mots de trois lettres, des mots orientés vers l'avant, le passage du temps. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "roman ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "la lettre E ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le roman « La Disparition » de Georges Perec est remarquable car il ne contient <BLANK> nulle part dans le récit. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un E,E ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383810_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

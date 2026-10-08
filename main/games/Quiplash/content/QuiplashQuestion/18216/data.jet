@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "le plus gros pénis|la plus grosse bite|le plus gros pénis|la plus grosse bite|le plus gros pénis du monde|la plus grosse bite du monde|le plus gros pénis du monde|la plus grosse bite du monde|le plus grand pénis du monde|la plus grande bite du monde|le plus gros pénis du monde|la plus grosse bite du monde ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Eh bien, nous avons définitivement localisé la plus grosse bite [sfx : bip]. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le record du monde Guinness le plus impressionnant à battre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375819_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375817_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

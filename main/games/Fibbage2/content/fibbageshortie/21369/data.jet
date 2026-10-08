@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jeans skinny, sperme de cheval de course, chiots, lait faible en gras, substitut d'œuf, peinture domestique, sous-vêtements pour hommes, grille-pain, autocollants pour pare-chocs, jeux vidéo, meubles IKEA, Blu-Ray, prothèses dentaires, nettoyant pour le corps, yaourt, beignets, tétines pour bébé, crème contre les hémorroïdes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fissure ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "viande de déjeuner ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un chauffeur de camion de l'Arkansas qui faisait du trafic et du trafic a été arrêté en 2015 après avoir échangé sa cargaison contre du crack. Sa cargaison ? Seulement 50 000 $ de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "viande pour le déjeuner, viande à sandwich, charcuterie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "403733_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "403730_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

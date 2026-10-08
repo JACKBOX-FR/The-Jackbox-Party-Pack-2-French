@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "être sa femme, conquérir le monde, savoir ce qu'est l'amour, ressusciter les morts, parler anglais, prendre son travail, mettre Vegas en faillite, former un gang, jouer au football, détruire l'économie mondiale, jouer aux échecs, gagner la Seconde Guerre mondiale, retrouver son fils perdu, combattre le crime, faire exploser la France, construire une bombe, braquer une banque, trouver le sens de la vie. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dauphin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tuer le président des États-Unis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le thriller de 1973 <i>Le Jour du Dauphin</i> avait le slogan mémorable : \"Involontairement, il a entraîné un dauphin à <BLANK>.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "391322_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "391319_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pantypanty, culotte comestible, Sylkpanty, Pantyhead, Pynkpanty, Pantyraid, Pantysoff, Donkeypanty, culotte malodorante, culotte au fromage bleu, culotte âgée, Pickapanty, culotte grand-mère, Pantystorn, culotte caillée, culotte à tartiner, culotte douce, culotte mordante ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "chèvre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pantysgawn ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le fromage gallois au lait de chèvre qui contient le mot « panty » dans son nom. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pant-ys-gawn,Pantiesgawn,Pantysgone,Pantiesgone ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430133_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

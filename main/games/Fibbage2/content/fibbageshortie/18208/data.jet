@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "comédiens, enfants, chats, américains, personnes âgées, épouvantails, clowns, pingouins, aveugles, pigeons, juges, patineurs sur glace, lutteurs de sumo, téléphones, alités, chiens, polonais, karts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "serveurs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "robots ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Chengdu, en Chine, assurez-vous de manger au restaurant où tous les serveurs sont <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "robotique, tous les robots ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419724_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "375755_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375752_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

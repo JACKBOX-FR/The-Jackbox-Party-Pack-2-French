@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "trouver des bars bon marché, parler espagnol, obtenir le câble gratuitement, vendre votre sang, parler à votre chien, devenir sobre rapidement, trouver un vide-grenier, enregistrer vos caca, tracer des lignes parfaites, déterminer le jour de votre mort, trouver des lignes courtes, digérer le lactose, effacer du porno, savoir quand la nudité est à la télévision, voir les auras des gens, voir vos vies passées, détecter les fantômes, trouver des salles de bains propres ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "appareil ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "suivez vos pets ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’ingénieur Rodrigo Narciso donne au monde quelque chose qui lui manquait vraiment. Il a inventé un appareil appelé CH4 qui vous permet de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "surveiller les pets, surveiller vos pets, suivre les pets, suivre vos pets, suivre les flatulences, suivre les gaz, suivre les toots, surveiller les gaz, surveiller les toots, savoir si vous avez pété ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406185_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

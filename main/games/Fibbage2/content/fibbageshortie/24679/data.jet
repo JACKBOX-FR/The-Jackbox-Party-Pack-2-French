@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger, monter les escaliers, conduire un bateau, faire des pompes, retrouver le chemin de la maison, aller aux toilettes, réciter des anecdotes sur des films, courir, sauter par-dessus des obstacles, parler 32 langues, jouer au basket-ball, photographier un mariage, faire les courses, enfiler un pantalon, jouer de la batterie, construire un autre robot, développer un développé couché, apprendre à embrasser ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "robot ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire du vélo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, Masahiko Yamaguchi, assez étonnamment, a créé un robot capable de <BLANK> tout seul. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "faire du vélo, faire du vélo, faire du vélo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424449_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

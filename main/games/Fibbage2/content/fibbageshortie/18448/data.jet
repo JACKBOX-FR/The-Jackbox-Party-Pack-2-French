@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "monstres, chauves-souris, flamants roses, rougeole, adolescents, cooties, hippies, hommes d'affaires, sorcières, corbeaux, bigfoot, tyrans, magasins artisanaux, neige radioactive, faux panneaux, spoilers Internet, chutes de vaches, stratagèmes de Ponzi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Oregon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chouettes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, la ville de Salem, dans l'Oregon, a affiché des panneaux inhabituels avertissant les gens de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "les hiboux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377354_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

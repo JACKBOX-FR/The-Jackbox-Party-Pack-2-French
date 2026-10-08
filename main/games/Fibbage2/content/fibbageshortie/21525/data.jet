@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nez stupide, mât de drapeau poilu, cheval géant, défense de fer, langue géante, pied puant, long rot, yeux perçants, visage de fesses, testicules en colère, marche de proxénète, anus paresseux, joues gonflées, visage souriant, jambes folles, narines flamboyantes, mort depuis longtemps, petits pieds ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "les éléphants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dent du mamelon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Éteint depuis près de 10 000 ans, le mastodonte est un parent ancien et éloigné de nos éléphants modernes. Étrangement, « mastodonte » traduit du latin signifie <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "dent du sein, dent du sein, dent mammaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407535_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

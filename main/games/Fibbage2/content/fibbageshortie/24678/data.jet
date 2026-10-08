@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chapeaux idiots, cartes, tacos, téléphones portables, bikinis, multipropriété, macaronis au fromage, jeux de société, gilets de sauvetage, chaises pliables, bateaux télécommandés, t-shirts fantaisie, hot-dogs, peintures, chaussures, mixeurs, livres, eau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "navigation de plaisance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "glace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous naviguez dans la baie de Cotuit, près de Cape Cod, assurez-vous de faire attention au capitaine Tim Titcomb, qui conduit un bateau qui vend <BLANK> à d'autres plaisanciers. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "glace, glace ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "424427_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424424_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

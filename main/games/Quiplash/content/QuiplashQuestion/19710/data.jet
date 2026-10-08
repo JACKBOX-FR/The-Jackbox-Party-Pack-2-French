@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Steak frit au poulet|steak frit au poulet|steak frit de campagne|steak frit de campagne ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, il prêtera serment avec son colistier, sauce. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "\"Cela vient d'arriver ! Un <BLANK> a remporté les élections et deviendra le nouveau gouverneur du Texas.\" ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "393639_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "393637_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

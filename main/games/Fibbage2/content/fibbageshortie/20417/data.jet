@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Thor, Don Corlione, Willy Wonka, les gnomes en sous-vêtements, le croque-mitaine, la Force, les extraterrestres, la réincarnation, la reine Elizabeth, la matrice, l'ESP, Indiana Jones, l'alunissage, le réchauffement climatique, le Père Noël, Hannibal Lecter, le clonage humain, les Illuminati ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "adolescents ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sherlock Holmes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une enquête surprenante réalisée en 2008 par Ask Jeeves, il a été constaté que 58 % des adolescents britanniques pensaient que <BLANK> était réel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sherlock ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "397043_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397040_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

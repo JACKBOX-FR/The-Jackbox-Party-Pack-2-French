@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Paniers Frodon, Seigneur des anneaux B-Ball, Cutie Kiwis, Les Lollygaggers, Dum Dums, Clumsy Fools, Les Shorties, Les lâches, Scaredy Cats, Les Kangaroo Jacks, Les intellectuels, Papa Longlegs, Aristocrates, Commoners, Joueurs de baseball, Sueurs de porcs, Les noix, Les points pointus ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "basket-ball ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les grands noirs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’étrange surnom de l’équipe nationale de basket-ball de Nouvelle-Zélande. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grands Noirs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "420587_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

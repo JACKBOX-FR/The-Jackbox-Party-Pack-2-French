@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fourchette, pied en plastique, chaise de jardin, chaussure, planche à roulettes, pelote de ficelle, statue de Superman, réplique de la tour Eiffel, pneu, toboggan aquatique, orange, tour LEGO, moulin à vent, classeur, lampadaire, couteau suisse, morceau de papier vierge, biscuit ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "boulanger ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Thermomètre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour une véritable émotion, rendez-vous à Baker, en Californie, et émerveillez-vous devant le plus haut <BLANK> du monde. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "thermomètre,thermomètre,thermomètre,thermomètre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "414478_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "414473_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

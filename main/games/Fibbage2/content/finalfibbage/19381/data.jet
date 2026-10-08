@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une fourchette, une clé, un visage, un ballon de football, un bâton de hockey, une main, une tranche de pastèque, un vagin, un symbole de paix, un ours en gomme, une cabane en rondins, un lit de voiture de course, un vélo, un fût de bière, une planche de surf, un cerf-volant, un tire-bouchon, un pramid ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "libellule ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuillère ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La forme du pénis d’une libellule mâle. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "une cuillère, une cuillère, une cuillère ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "384197_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384194_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

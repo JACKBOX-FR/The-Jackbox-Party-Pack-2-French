@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ne se lave pas les cheveux, ne mange pas de nourriture épicée, ne se rase pas la poitrine, ne conduit pas de voitures ennuyeuses, aime les comédies romantiques, peut nommer les 50 États, se spécialise en sociologie, joue aux échecs, ne possède pas de télévision, mange beaucoup de sushi, vit au Canada, écoute du jazz, vit avec ses parents, fait du yoga, travaille dans l'industrie aérienne, porte des sandales, pense qu'il est mauvais en sexe, pratique la médecine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "sexe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "j'adore les sandwichs au fromage grillé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étude menée auprès de 4 600 personnes par le service de rencontres en ligne Skout a révélé que, étrangement, les personnes qui <BLANK> ont plus de relations sexuelles que les autres. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "manger du fromage grillé, aimer le fromage grillé, manger des sandwichs au fromage grillé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399971_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "orthographe, compliments, films d'animation, écriture cursive, éternuements, tapis, mauvaise haleine, moustaches, ordinateurs, étrangers, hauteurs, musique reggae, plastique, rires, futons, micro-ondes, bois, peluches de nombril ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "allergique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire de l'exercice ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kasia Beaver de Worcestershire, en Angleterre, a reçu un diagnostic de maladie très bizarre. Il s’avère qu’elle est allergique à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "faire de l'exercice, s'entraîner",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378953_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

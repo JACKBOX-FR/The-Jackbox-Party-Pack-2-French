@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cyanure, somnifères, poivrons fantômes, doigts de morts, têtards, méthamphétamine, pilules contraceptives, poissons rouges, diamants, poils, wasabi, cendres de Carl Yastrzemski, laxatifs, eaux usées brutes, savon à vaisselle, sang de poulet, crottes de nez, pipi de cheval ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Coéquipiers ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Viagra ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'ancien lanceur des Red Sox, Pedro Martinez, a affirmé qu'en 2004, son coéquipier Manny Ramirez avait un jour fait une blague à ses coéquipiers en mettant <BLANK> dans leurs boissons. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pilules boner, Cialis, pilules viagra ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "407615_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407612_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

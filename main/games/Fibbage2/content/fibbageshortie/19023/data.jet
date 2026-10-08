@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "émeu de compagnie, voiture-fusée, friteuse plaquée or, collection de t-shirts Grateful Dead, abri anti-bombes, ami imaginaire, amygdales, jambe prothétique, faucon millénaire grandeur nature, fort de neige, pommier, linge sale, chien robot, lecteur 8 pistes, barbe, statue du colonel Sanders, latrines, pélican ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "vol ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cabane en rondins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le détective Eric Shepherd du comté de Klamath, dans l'Oregon, a enquêté sur une affaire plutôt bizarre en février 2015. Un propriétaire local s'était étrangement fait voler son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cabane en rondins entière, cabane, maison en rondins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381548_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381545_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Piste de bowling, centre commercial, hôtel, bouche d'incendie, crèche, cabinet de dentiste, cabine téléphonique, auditorium, borne de recharge de voiture, école, station-service, supermarché, bibliothèque, commissariat de police, hôpital, caserne de pompiers, parc d'attractions, terrain de golf ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "le plus profond ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Boîte aux lettres",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La prochaine fois que vous serez près de la baie de Susami au Japon, plongez à 10 mètres sous la surface de l'eau et découvrez les fonds sous-marins les plus profonds du monde <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Boîte aux lettres, boîte aux lettres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "415592_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415587_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

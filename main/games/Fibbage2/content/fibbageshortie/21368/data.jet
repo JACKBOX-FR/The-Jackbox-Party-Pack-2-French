@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pied, cendres de papa, alliance, gâteau d'anniversaire, annuaire du lycée, roomba, femme mannequin, ruche, prix Nobel de la paix, maillot de hockey, aquarium, réfrigérateur, toilettes, sous-vêtements, pain de viande, Père Noël gonflable, Honda Civic, jeu de fléchettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "ressorts ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ordinateur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En avril 2015, un homme de Colorado Springs a reçu une convocation après s'être énervé et avoir tiré sur son <BLANK> huit fois. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "PC, ordinateur portable, ordinateur de bureau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "403706_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

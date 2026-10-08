@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sont battus, sont des minorités, ont des parties manquantes, peuvent vomir, sont défigurés, parlent comme un homme, sont effrayants, ont plusieurs ficelles, ont été confisqués par la police, lui ressemblent, ont la tête à l'envers, sont terrifiants, chantent des chansons tristes, ont des pieds manquants, ont été volés, ont été trouvés dans les bennes à ordures, peuvent imiter votre discours, sont vraiment attirants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "poupées ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sont possédés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jayne Harris dirige une entreprise inhabituelle. Elle ne vend que des poupées <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sont possédés, sont possédés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399083_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

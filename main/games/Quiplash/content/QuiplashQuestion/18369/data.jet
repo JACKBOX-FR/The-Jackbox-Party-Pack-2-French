@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cochon de désordre ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "(SFX : cochon) Mess Piggy, reprends ta vie en main ! Vous n’allez pas trouver le bonheur en vous morfondant. Maintenant, enfile un pantalon et sors dans ce club ce soir ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom qu'on donnerait à un cochon vraiment morose ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376929_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376927_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Va te faire foutre ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "HÉ! J'essaie juste de raconter une blague, espèce d'imbécile ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "« Frappez, frappez ! » \"Qui est là?\" <VIERGE> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "379746_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "379744_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

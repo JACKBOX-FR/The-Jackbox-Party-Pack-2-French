@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Plage de boules bleues|plage de boules bleues ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "J’ai essayé de me rendre à la plage Blue Ball, mais la circulation était mauvaise et je ne pouvais tout simplement pas y arriver. J'ai pris un raccourci, MAIS JE. JUSTE. JE NE POUVAIS PAS. OBTENIR. À LA PLAGE DU BALLON BLEU ! AH!\n\nOR\n\nLa plage Blue Ball est un endroit où vous pouvez entrer mais où vous ne pouvez pas descendre. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un grand nom pour une plage nudiste en Alaska ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374874_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374872_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

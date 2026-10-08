@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beurre de cacahuète, chaussettes, lait, couches, amour, dentifrice, papier toilette, produits de nettoyage, cartes de baseball Hideki Nomo, salami, menthes pour l'haleine, draps, minutes AOL gratuites, urine, cartes de visite, chance, salive, piles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dehors ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "contact par téléphone portable ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La nomophobie est la peur d'être hors de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "couverture de téléphone portable,contact de téléphone portable,couverture de téléphone portable,contact téléphonique,couverture téléphonique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419703_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "376340_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376337_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

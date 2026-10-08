@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un vote supplémentaire aux prochaines élections, les droits sur l'Alaska, une latrine, une crique, un siège au Congrès, des perruques, un grizzly, des droits à la lune, des médicaments, un seau de poisson, une mariée, des bois d'orignal, une chronique dans le journal, un terrain funéraire, des tortues mortes, un aigle mort, une carte de sortie de prison, une paire de globes oculaires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tirage au sort ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un bébé",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'Exposition Alaska-Yukon-Pacifique de 1909 a organisé un tirage au sort pour remporter un prix très inhabituel. Les personnes qui ont acheté un billet avaient une chance de gagner <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un orphelin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "382415_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "382412_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

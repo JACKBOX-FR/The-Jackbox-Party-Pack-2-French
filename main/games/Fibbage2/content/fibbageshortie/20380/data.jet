@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "uranium, argent, chocolat, tabac, bière, bacon, gomme, lucioles, sel, une carte au trésor, coccinelles, poussière de fée, masse, répulsif contre les ours, alcool, grains de pop-corn, sauce sriracha, diamants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "regarder ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fourmis vivantes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bien sûr, elle n’indique pas vraiment l’heure, mais la « montre » unique fabriquée par Analog Watch Co. vaut de toute façon la peine d’être portée car elle contient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fourmis, insectes, insectes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396152_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

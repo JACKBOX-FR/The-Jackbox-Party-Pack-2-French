@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "est fabriqué à partir de chanvre, est plein de tabac, est fabriqué à Cuba, a plus de cent ans, est techniquement du clair de lune, est fabriqué par des prisonniers, est trop alcoolisé, est fabriqué à partir de céréales menacées, est un secret d'État, est fabriqué par des fraudeurs fiscaux, n'est pas pasteurisé, n'est techniquement pas de la bière, a une étiquette pornographique, appartient à Vladimir Poutine, est réservé aux enfants, est plein d'uranium, est trop houblonné, a un nom trompeur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bière ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "n'est autorisé que dans le Wisconsin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un bar de Maple Grove, dans le Minnesota, a été arrêté pour avoir vendu illégalement de la bière « Spotted Cow ». La raison pour laquelle Spotted Cow est illégale est parce qu'elle <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "est uniquement dans le Wisconsin, est vendu uniquement dans le Wisconsin, est autorisé uniquement dans le Wisconsin, est légal uniquement dans le Wisconsin, est vendu uniquement dans le Wisconsin, est disponible uniquement dans le Wisconsin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "403888_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

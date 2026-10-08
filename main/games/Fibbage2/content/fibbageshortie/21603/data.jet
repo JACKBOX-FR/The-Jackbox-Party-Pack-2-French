@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "parfum de mouffette, piments forts, essence, mousse, feu, colle, ficelle idiote, ciment, acide, confettis, aiguilles, guacamole, vinaigrette ranch, urine, mayonnaise, sauce tomate, crottes de chien, WD-40 ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Métro ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ADN ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un nouveau système de sécurité installé par la chaîne de restauration rapide Subway espère contrecarrer le vol grâce à un mécanisme qui pulvérise les voleurs avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gènes, matériel génétique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "409257_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "409254_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

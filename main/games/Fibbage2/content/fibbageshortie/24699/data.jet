@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hommes âgés, mannequins, perroquets, cadavres, épouvantails, aubergines, personnages de dessins animés, rats, bébés, fantômes, robots, chats, chaises, sorcières, invisibles, géants, amputés, dans des sacs de pommes de terre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "beauté ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chèvres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous êtes dans le village lituanien de Ramygala, assurez-vous d'assister à leur concours de beauté annuel dans lequel les candidats sont <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "424871_1",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424866_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

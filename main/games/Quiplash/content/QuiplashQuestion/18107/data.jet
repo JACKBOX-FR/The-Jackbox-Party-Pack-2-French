@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "La Terre explose ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, je voudrais peut-être que cette édition Earth Explodes soit pré-imprimée. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Écrivez un titre de journal qui attirera vraiment l’attention des gens ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375066_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375064_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

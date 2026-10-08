@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pays de la brousse ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Pays de brousse ! Vous parlez de la famille politique, pas d’un des deux autres types d’arbustes, n’est-ce pas ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "En seulement deux mots, une nouvelle devise d’État pour le Texas ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374391_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374389_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

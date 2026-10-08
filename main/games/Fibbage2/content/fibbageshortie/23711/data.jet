@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beignets rock, Who dat, jus de cornichon, je suis enceinte, Terminez-le, Carpe Diem, rediffusion instantanée, spackle spackle, Seacrest out, Mordez-moi, amour d'été, salut ho !, Salut César, De rien, pépites de chocolat, Affaire close, Papa Schtroumpf, dame du déjeuner ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "exécution ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Allez les Raiders ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les derniers mots prononcés par le meurtrier condamné Robert Charles Comer avant son exécution par injection mortelle n'étaient pas si poignants, mais ils étaient uniques. Ses deux derniers mots étaient simplement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Allez les Raders ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417537_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chinchillas, roadkill, serpents, baguettes, bâtonnets de beurre, dingos, fusils de chasse, parpaings, enfants, panneaux de signalisation, feux d'artifice, claviers, brouettes, fromage, boîtes à chaussures, luffas, chaises de bureau, boîtes Foster's ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "skier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pastèques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Chinchilla, en Australie, n'oubliez pas d'assister à leur festival bizarre où les participants tentent de faire du ski alpin en utilisant <BLANK> comme « skis ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "une pastèque, des pastèques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419725_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377747_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377744_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "en feu, embrasser un âne, fuir les flics, se faire tatouer, donner un pouce vers le bas, faire l'amour, tirer la langue à Jésus, abattre une chèvre, faire des biscuits, se curer le nez, attraper son entrejambe, se brosser les dents, faire des bulles de crachat, traire une vache, se raser, peindre un cochon, tirer avec une fronde, jouer aux dames ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Catalogne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une crèche catalane pendant la période de Noël est un peu unique dans la mesure où elle comprend généralement une petite figurine connue sous le nom de « le caganer ». Le caganer est un paysan au chapeau rouge qui est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "398654_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398651_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

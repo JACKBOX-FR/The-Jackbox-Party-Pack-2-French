@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dave Thomas, Jimmy John, Frosty, Hamburglar, Junior Whopper, Carl Jr., M. Fuddrucker, Jared Subway, Jack Indabox, Curly Fries, Rocco Bell, Jake Potato, A. Saint, Tom Burger, Wendell Wendy, I.M. Hongrie, Patty Melt, Dick Bun ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wendy's ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ronald McDonald ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2005, un homme de Manchester, dans le New Hampshire, a été accusé de vol dans un Wendy's. Fait intéressant, le nom de l’homme était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ronald MacDonald ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381332_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381329_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

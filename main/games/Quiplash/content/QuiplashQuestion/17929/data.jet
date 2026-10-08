@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "régicide ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Tu tuerais un monarque ? C'était censé être un jeu amusant, puis vous commencez à parler de tuer des membres de la royauté. Que diable? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le crime que tu commettrais si tu pouvais t'en sortir ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374175_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374173_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

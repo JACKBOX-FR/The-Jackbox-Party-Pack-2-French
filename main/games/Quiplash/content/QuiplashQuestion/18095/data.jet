@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "caca barf et yaourt grec|barf caca et yaourt grec|yaourt grec caca et vomi|yaourt grec barf et caca|barf yaourt grec et caca ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Beurk ! Caca, Barf et yaourt grec ? Yaourt GREC ?! Malade. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Les trois ingrédients du pire smoothie de tous les temps ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375030_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375028_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

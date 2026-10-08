@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "acheter de la drogue, escalader l'Everest, participer à un concours de restauration, épouser un mannequin de maillot de bain, acheter un orang-outan, auditionner pour une sitcom, se présenter à la présidence des États-Unis, obtenir un diplôme de Harvard, danser à Broadway, obtenir une carte de crédit, rejoindre le fan club de Buffy, faire un don de sperme, obtenir des pilules pour agrandir le pénis, aller dans l'espace, visiter une colonie de nudistes, acheter un pingouin, adopter un enfant montagnard, chasser une baleine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "demi-frère ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aller à Tokyo Disneyland ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le demi-frère aîné de Kim Jong Un, Kim Jong-nam, aurait été favori pour remporter le titre de Glorious Leader s’il n’avait pas été impliqué dans un scandale. En 2001, il a été arrêté en utilisant des documents falsifiés pour pouvoir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "aller à Disneyland, visiter Disneyland, visiter Tokyo Disney Land, visiter Tokyo DisneyLand, aller à Tokyo Disney Land, voyager à Tokyo Disneyland, voyager à Disneyland ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408208_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

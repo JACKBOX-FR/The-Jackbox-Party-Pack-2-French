@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vomir, rester dans les limbes sous un bâton bas, s'asseoir sur une petite chaise sans la casser, avaler une dinde entière, faire un trou d'un coup au mini-golf, fabriquer un avion en papier, faire un tricycle de 30 mètres, éteindre un feu, traire une vache, plonger dans les toilettes, danser le hula, faire caca, faire un nœud Windsor, twerk, sauter à la corde 10 fois, lutter contre un ours au sol, faire un problème de mathématiques, lui tapoter la tête et se frotter le ventre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sumo ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire pleurer un bébé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tradition annuelle du festival Nakizumo, les lutteurs de sumo s'affrontent pour voir qui sera le premier à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "faire pleurer les bébés, faire pleurer un bébé, faire pleurer les bébés, faire pleurer un bébé, faire pleurer les bébés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406863_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

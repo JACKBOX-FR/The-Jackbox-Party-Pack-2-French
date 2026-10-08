@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pansements, coupures d'ongles, tiges d'ananas, SPAM, tongs, tasses à thé, mulets, jouets McDonald's, lunettes de soleil, cartes postales, photos de singes, bagages, poupées Furby, pièces de monnaie en chocolat, écouteurs, rats morts, Bud Light, mijoteuses ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "monnaie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dents de dauphin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'objet inhabituel que les villageois des Îles Salomon utilisent comme monnaie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "dents de dauphin, dents de dauphin, dent de dauphin, dent de dauphin, dent de dauphin, dent de dauphin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430832_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

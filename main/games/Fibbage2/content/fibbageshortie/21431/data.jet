@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bottes, parapluies, pets, aisselles, bébés, choux, pauvres, pots portables, argent, rouge à lèvres, blanchisserie, chats, micro-ondes, linge de maison, beignets, jardins, sacs de restauration rapide, bennes à ordures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "odeur",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "couches ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "\"J'adore l'odeur de <BLANK>. J'aime même quand ils sont mouillés et qu'on les sent tous chauds comme des produits de boulangerie.\" - Sarah Jessica Parker reste réaliste ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "425672_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405285_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

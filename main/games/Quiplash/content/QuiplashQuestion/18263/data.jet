@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chiens jouant au strip poker ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Strip poker canin ? Parlez de donner un os à un chien (émettez un aboiement sexy) !\nOR\nLes chiens jouant au Strip Poker sont plutôt chauds. Le berger allemand n'a déjà plus que quatre de ses huit dents. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une suite du tableau « Chiens jouant au poker » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376149_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376147_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

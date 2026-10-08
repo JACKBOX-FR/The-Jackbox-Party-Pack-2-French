@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ape-ril|apéril| ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "(voix de l'annonceur de strip-teaseuse) S'il vous plaît, bienvenue sur la scène banane, Ape-ril ! (sfx : cris de chimpanzé) Encore une fois, évitez de jeter vos excréments au lieu de billets d'un dollar. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un bon nom de scène pour une strip-teaseuse de chimpanzé ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374847_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374845_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

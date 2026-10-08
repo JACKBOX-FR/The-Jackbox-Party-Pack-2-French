@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Linsday Lohan la comédie musicale|Lindsey Lohan la comédie musicale|Lindsey Lohan : la comédie musicale|Lindsay Lohan : la comédie musicale ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Lindsey Lohan the Musical commence vraiment mignon, prend un entracte de cinq ans et revient avec un deuxième acte vraiment déprimant. Mais beaucoup de nudité. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un nom pour une très mauvaise comédie musicale de Broadway ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374154_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374152_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

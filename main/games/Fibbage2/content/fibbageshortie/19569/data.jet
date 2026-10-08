@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pet, idiot, ours, fesses, puant, carré, chien, poulet, sinistre, cratère, taco, plat, non, goober, pomme de terre, tarte, tortue, boue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "surnom ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tomate ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Charles « Gabby » Hartnett, membre du Temple de la renommée des Cubs de Chicago, avait le surnom peu flatteur de « Old <BLANK> Face ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "389054_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

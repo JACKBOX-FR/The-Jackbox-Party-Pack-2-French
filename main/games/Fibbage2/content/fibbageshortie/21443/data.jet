@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hypnotiser, épouiller, humilier, tremper, séduire, chasser, écran du côlon, tatouage, odeur, anesthésier, psychanalyser, se souvenir, câlin, goûter, aliéner, heimlich, s'habiller, douche ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Collecte de fonds ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pickpocket ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 30 avril 2015, un groupe artistique à Brooklyn, New York, a organisé une soirée de collecte de fonds très spéciale au cours de laquelle, pour quinze dollars, ils ont appris aux gens à se <BLANK> les uns les autres. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "voler, faire les poches ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405552_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

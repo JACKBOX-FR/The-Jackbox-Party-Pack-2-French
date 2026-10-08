@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boîte de conserve, camionnette, réservoir d'essence, robot jouet, vieil ordinateur, camping-car, tortue, girouette, armure de chevalier, houe, réfrigérateur cassé, panneau d'arrêt, tracteur, casque de football, télévision, bouton de porte, microphone, toit en tôle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "balle ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tatou ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme du comté de Lee, en Géorgie, a accidentellement tiré sur sa belle-mère après que sa balle ait ricoché sur le <BLANK> qu'il essayait de toucher. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tatou,armedillo,armedilo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "401081_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

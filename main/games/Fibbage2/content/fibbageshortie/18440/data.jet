@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rêves, tas de déchets, bonhommes de neige, relations, ponts, gâteaux de mariage, ordinateurs, poupées, ours, voitures, dioramas, maisons, clones humains, erreurs, volcans en papier mâché, aéroglisseurs, forts d'oreillers, orphelinats ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Forgeron ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pyramides ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "22h04 - 19 septembre 2014 Le fils de Will Smith, @officialjaden, a tweeté : « Je construis <BLANK> constamment » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419704_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377288_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

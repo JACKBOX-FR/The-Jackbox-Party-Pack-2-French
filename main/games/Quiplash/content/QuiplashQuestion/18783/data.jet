@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "soupe|ragoût|support à soupe|support à ragoût ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais ! Mettez simplement vos soupes, ragoûts et bouillons dans la boîte à gants comme une personne normale. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La pire caractéristique d’une voiture qui se termine par « titulaire » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "379734_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "379732_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "John Candy,Une épave spectaculaire,Dix doigts gelés,Cent façons de mourir,Qu'est-ce qui pourrait mal tourner ?,De tout cœur,Ils sont condamnés,Mille prières,Des milliers de rires,Deux pouces en l'air,Huit yeux écarquillés,À quoi pensent-ils ?,Oh mon Dieu !,Un monde qui rit.,Attention, les Jeux olympiques !,N'abandonne jamais,Eh, tu comprends.,Cela fait cinq choses. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Jamaïcains ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vingt en dessous de zéro ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le film de 1993 <i>Cool Runnings</i> arborait le slogan : \"Un rêve. Quatre Jamaïcains. <BLANK>\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "20 en dessous de zéro, 20 en dessous, 20 en dessous ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "391175_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

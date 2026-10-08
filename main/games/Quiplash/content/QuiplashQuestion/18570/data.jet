@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il a fait un panier ! ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Bien sûr, ils pourraient le changer pour le deuxième dunk – quelque chose comme : « Il a fait un autre panier ! » ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un terrible slogan d'animateur sportif pour quand quelqu'un dunk un ballon de basket ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378246_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378244_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

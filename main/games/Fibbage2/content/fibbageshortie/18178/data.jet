@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un clown, Marge Simpson, Frankenstein, des punks de gouttière, des mimes, un hibou, Don King, un labyrinthe de haies, Garfield, un proxénète, un munchkin, le diable, Sasquatch, Ed Grimley, des boucs, Batman, des ananas, une licorne ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "salon de coiffure ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vieillards ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le salon de coiffure A-1 Kutz, près d'Atlanta, aide les parents à discipliner leurs enfants qui se conduisent mal en leur donnant des coupes de cheveux qui les font ressembler à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vieillards, vieil homme, homme chauve, un homme chauve, hommes chauves ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375536_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

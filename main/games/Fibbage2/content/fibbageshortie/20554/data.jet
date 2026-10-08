@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boire trop, manger de la viande, faire faillite, attaque d'ours polaire, mourir de froid, rater son vol, ne pas dormir suffisamment, subir une intervention chirurgicale inutile, échouer à un test, ne pas consommer suffisamment de calcium, avoir un coup de soleil, une gingivite, manger quelque chose auquel ils sont allergiques, oublier un anniversaire, regarder un mauvais film, manger dans un restaurant horrible, tomber sur un ex, s'ennuyer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Islande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avoir des relations sexuelles avec un parent ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une application islandaise intéressante appelée IslendingaApp est spécialement conçue pour avertir les utilisateurs s'ils sont en danger de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "coucher avec un parent,avec un parent,avoir un inceste,commettre un inceste,avoir des relations sexuelles avec un parent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "400217_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400214_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

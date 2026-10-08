@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Masque My Little Pony, pistolet en caoutchouc, poupée gonflable, jet pack, morceau de kryptonite, cape d'invisibilité, boulettes de fumée, grappin, déguisement de vieille femme, livre Vol pour les nuls, costume d'Hamburglar, carte de son repaire secret, journal de ses autres vols, un DVD de Home Alone, carte gratuite pour sortir en prison, paire de chaussures pogo, fleur qui injecte de l'acide, ceinture utilitaire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vol ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sac avec un signe dollar dessus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque la police d'Olympia, dans l'État de Washington, a appréhendé un voleur dans un restaurant Subway début 2015, elle a été amusée lorsqu'elle a découvert que parmi ses fournitures de vol se trouvait un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sac avec signe dollar ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "400523_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400520_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cookie Monster, Barack Obama, Vladimir Poutine, Peter Griffin, The Grinch, Adolf Hitler, Angela Merkel, Bob l'éponge, Elmo, Super Mario, Bill Cosby, Dracula, Albert Einstein, Betty White, Cap'n Crunch, Jules César, Jésus, L. Ron Hubbard ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Playmobil ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Martin Luther ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Étonnamment, une petite figurine de <BLANK> détient le record du jouet le plus vendu de tous les temps par la société allemande Playmobil. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Martin Luthor, Luther ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377579_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377576_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

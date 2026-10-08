@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "cache-le ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Le cacher ? Cela semble difficile. Nous ferons probablement un week-end chez Bernie à la place. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Si nous ne pouvons pas nous permettre de vous enterrer ou de vous incinérer, que devons-nous faire de votre corps ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375045_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375043_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

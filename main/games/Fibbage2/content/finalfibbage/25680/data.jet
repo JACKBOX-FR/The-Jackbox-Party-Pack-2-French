@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des clous sur un tableau, un bébé qui pleure dans un avion, un grincement de dents, une perceuse de dentiste, le rire de Fran Drescher, une alarme de voiture, une fourchette dans une poubelle, un modem commuté, des marteaux-piqueurs, des aboiements de chien, des vuvuzelas, un réveil, du rap metal, Gilbert Gottfried, un perroquet mourant, des conversations téléphoniques bruyantes, quelqu'un qui se mouche, un loogie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "digne de grincer des dents ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vomissements ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le son n°1 qui fait grincer des dents, selon une étude menée à l'Université de Salford. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vomir, vomir, quelque chose vomir, quelqu'un vomit, quelqu'un vomir, vomir, vomir, ralphing, upchucking ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "430985_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430982_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

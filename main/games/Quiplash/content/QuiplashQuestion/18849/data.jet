@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "armes à feu singes|armes à feu singes|singes armes à feu|singes armes à feu|armes à feu et singes|armes à feu et singes|singes et armes à feu|singes et armes à feu ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, même s’ils n’ont pas de pouces opposables, il est difficile de retirer une arme à feu de la main froide et morte d’un singe. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ça ne se termine jamais bien quand on mélange <BLANK> et <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "380163_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "380161_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

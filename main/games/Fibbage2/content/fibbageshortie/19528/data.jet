@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "téléphone payant, nain de jardin, tigre, Apple II gs, cabane radio, salon de bronzage, lavage de voiture, panier de basket, furet, Blockbuster, cinéma drive-in, zoo, Pizza Hut, PT Cruiser, jumbotron, éléphant, J.C. Penney, académie des clowns ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "auberge",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Burger et frites McDonald's ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une auberge en Islande diffuse 24 heures sur 24 un flux vidéo en direct du dernier <BLANK> connu du pays. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cheeseburger et frites McDonald's, repas McDonald's, hamburger et frites McDonald's, hamburger McDonald's, hamburger McDonald's, hamburger et frites McDonald's, hamburger et feux McDonald's, cheeseburger McDonald's, cheeseburger McDonald's ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388046_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

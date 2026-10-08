@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "monter un lion, parler français, jouer de la guitare basse, faire un risotto, faire la langue des signes, programmer des ordinateurs, apprivoiser des animaux, construire un explosif, monter une moto, combattre à l'épée, lancer des sorts, lire l'avenir, concevoir des châteaux, résoudre un Rubik's Cube, slam dunk, faire des films primés, créer des sites Web, parler klingon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Un ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "conduire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un manuel pédagogique distribué aux enseignants des écoles nord-coréennes en 2015 affirme que le dirigeant nord-coréen Kim Jong Un a remarquablement appris à <BLANK> à l'âge de trois ans. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "conduire une voiture ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400721_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

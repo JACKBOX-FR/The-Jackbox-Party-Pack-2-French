@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bière, tranches de fromage, crackers d'animaux, vodka, chaussettes, steak, gushers, fleurs, tater tots, roches, graines, gants de baseball, cailloux fruités, saltines, marijuana, hot dogs, pommes de terre cuites deux fois, plumes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "les porcs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ordures ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En Arizona, vous devez obtenir le permis 3-2664 si vous souhaitez nourrir <BLANK> des porcs. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "poubelle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399755_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

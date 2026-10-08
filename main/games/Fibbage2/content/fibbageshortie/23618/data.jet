@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cendres aromatisées, flocons de peau, yeux, esprit, pouces coupés, dent de sagesse, lèvres, glande pituitaire, globe oculaire, petit orteil, globules blancs, chat, verrue enlevée, piano, ongles coupés, cerveau, perruque, chaussette sale ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Thomas Edison ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dernier souffle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Montez dans votre voiture et visitez le musée Henry Ford à Détroit, qui abrite un flacon contenant étrangement le <BLANK> de Thomas Edison. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "souffle, dernier souffle, dernier souffle, dernier souffle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "415217_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415212_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

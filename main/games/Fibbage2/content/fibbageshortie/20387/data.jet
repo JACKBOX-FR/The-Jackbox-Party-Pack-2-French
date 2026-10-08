@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "votre carrière, des extraterrestres qui jouent du saxophone, des astronautes, la lune, des martiens sexy, Jermaine Jackson, une girafe, le président, un satellite russe, un chiot, les États-Unis, le procureur général, le Sphinx, un hamburger, des prisonniers français, la Constitution, une femme âgée, la musique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "marcheur sur la lune ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "enfants kidnappés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le jeu SEGA Genesis <i>Moonwalker</i>, vous incarnez Michael Jackson et votre mission est de sauver <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "enfants kidnappés, enfants, petits enfants, enfants, petits enfants kidnappés, petits enfants ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396320_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

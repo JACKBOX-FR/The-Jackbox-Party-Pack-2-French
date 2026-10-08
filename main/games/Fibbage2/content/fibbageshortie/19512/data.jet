@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bill Clinton, Miss Piggy, ALF, Dr. Ruth, Dieu, Angela Lansbury, le comte Chocula, MC Hammer, Adam Sandler, Larry King, M. T, Ashley Kate et Mary Olsen, Groucho Marx, Saddam Hussein, Hitler, Donald Trump, le casting de Cheers, Conan O'Brien ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "lutte ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Abraham Lincoln ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Étrange mais vrai : en 1992, <BLANK> a été intronisé au National Wrestling Hall of Fame. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Abe Lincoln,Lincoln ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387683_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

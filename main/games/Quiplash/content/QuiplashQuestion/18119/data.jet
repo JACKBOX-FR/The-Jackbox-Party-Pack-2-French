@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "têtes de chauve-souris|tête de chauve-souris|têtes de chauve-souris|tête de chauve-souris ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, mais parfois, il a besoin de l'étendre pour des raisons de sécurité et utilise ohmygodiateabatheadonce69. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le mot de passe Twitter d'Ozzy Osbourne, probablement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375102_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375100_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

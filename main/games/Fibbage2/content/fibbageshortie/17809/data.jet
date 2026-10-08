@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jongler, enfiler un jean skinny, dormir, ouvrir un pot de cornichons, éternuer, nourrir son chat, assister au cours de Lamaze, jouer à Rock Band, acheter des sous-vêtements, ouvrir des cadeaux de Noël, crocheter, se baigner, monter sur Space Mountain, se raser, voler une voiture, chanter au karaoké, twerk, lancer des boules de neige ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "hockey ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger des crêpes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le joueur de la LNH Dustin Penner a dû rater un match de hockey parce qu'il s'est jeté le dos alors qu'il était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "manger des pancakes, manger des flapjacks, manger des hotcakces, manger des crêpes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372301_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

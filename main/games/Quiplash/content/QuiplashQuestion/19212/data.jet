@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "continuez à le choisir | continuez à le choisir | choisissez-le plus fort | choisissez-le plus fort ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Attends... tu veux dire que tu ne devrais pas soigner tes blessures ? Oh, enfin, ma vasectomie peut guérir ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le pire conseil qu'un médecin puisse donner ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "382764_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "382762_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

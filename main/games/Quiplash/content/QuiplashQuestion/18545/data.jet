@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Aller à l'école supérieure ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, on ne voit jamais de films torrides pour les études supérieures. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Mauvais conseils pour les nouveaux diplômés ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378150_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378148_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

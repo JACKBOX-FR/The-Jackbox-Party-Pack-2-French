@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Où dois-je mettre mon arme ?|Où dois-je mettre mon arme ?|aimes-tu mon arme ?|aimes-tu mon arme ?|est-ce que cette arme va bien ?|est-ce que cette arme va bien ?|est-ce que ça va si j'ai cette arme ? ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, les questions sur votre arme vous font toujours plaquer au sol. Typique de la Maison Blanche, éludant toujours les questions. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La pire question à poser lors d'une visite à la Maison Blanche ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378174_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378172_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "câlins, pâtes, vêtements, chansons, poésie, fil de cuivre, photos révélatrices, livres, massages, graines, cartes de baseball, autographes, vélos, recettes, un compliment, fleurs, vin, violons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pas cher",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fromage parmesan ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La Credem Bank en Italie a une politique unique. En échange d'un prêt bon marché, ils demandent <BLANK> aux clients. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fromage,parmesien,parmesan,parmesien,fromages ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377954_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377951_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

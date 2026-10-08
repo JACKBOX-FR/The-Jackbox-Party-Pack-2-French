@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rat d'égout, boule de poils, alligator, tige de haricot, nénuphar, anaconda, île aux ordures, sous-marin, avion à passagers, tas d'os de poulet, civilisation flottante, dragon, statue de tortue ninja, poisson rouge, tas de chauves-souris mortes, tas de pièces de monnaie, raton laveur, rose ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "égout ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "morceau de graisse pure ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les ouvriers des égouts de Londres ont été choqués lorsqu'en inspectant les tunnels sous Chelsea, ils sont tombés sur un <BLANK> de 11 tonnes. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "boule de graisse, morceau de graisse, fatberg, grosse boule, gros morceau, boule de graisse, boule de graisse ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "403841_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "403838_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

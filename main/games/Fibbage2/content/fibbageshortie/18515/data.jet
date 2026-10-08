@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sensibilisation aux MST, médicaments pour le cœur, crème contre l'eczéma, Vagisil, nettoyant pour cheminée, déodorant, dîners glacés, crème à l'herbe à puce, couvertures chauffantes, Visine, Burning Man, vestes Columbia, érythème fessier, produits de coloration capillaire, visite du volcan, Annie, adoption d'animaux de compagnie, un crématorium ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Espèces ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "crème hémorroïde ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2004, la BBC a rapporté que la succession de Johnny Cash avait rejeté une offre d'utilisation de sa chanson « Ring of Fire » dans une publicité. La publicité était pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pommade hémorroïde, crème hémorroïde, pommade hémorroïde, crème hémorroïde, pommade hémorroïde, crème hémorroïde, pommade hémorroïde, crème hémorroïde, pommade hémorroïde ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377996_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

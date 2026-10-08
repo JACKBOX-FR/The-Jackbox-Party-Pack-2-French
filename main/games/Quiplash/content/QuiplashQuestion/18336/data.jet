@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Faute d'eau|faute d'eau ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Waterfoul est un groupe vraiment génial. En fait, j’ai la chanson à succès de Waterfoul comme sonnerie. (effet sonore : gazouillis de bébés canards, déchiquetage de guitare) ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Trouvez un nom pour un groupe de rock entièrement composé de bébés canards ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376746_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376744_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

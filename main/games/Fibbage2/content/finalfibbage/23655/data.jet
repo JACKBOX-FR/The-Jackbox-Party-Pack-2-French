@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le chiot mort, Les hommes qui mangent des souris, Lenny se fait un ami, Les hommes qui regardent les chèvres, Des vers et des oiseaux, Avatar, Pas de pays pour deux hommes, À la recherche de ketchup, Des hommes qui ont rejeté Dieu, Deux hommes sexy, Des dériveurs sans dérive, Des chèvres et du fromage, Une assiette de haricots, Les déprimés, Du fond, Tous les calmars de l'océan, Petz, Le royaume des borgnes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "souris ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose qui s'est produit ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre original de John Steinbeck pour son roman <i>Des souris et des hommes</i>, avant de se laisser convaincre de le changer. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose qui est arrivé, Quelque chose qui est arrivé, Quelque chose qui est arrivé, Quelque chose qui est arrivé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416137_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

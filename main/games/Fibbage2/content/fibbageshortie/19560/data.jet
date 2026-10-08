@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Star Trek, Amish, géré par le gouvernement, microbrasserie, pro-gun, 85 ans et plus, thème Sauvé par le gong, flottant, complètement extérieur, minimaliste, QI élevé, futuriste, Simpsons, bébé animal, sans électricité, sous l'eau, homme des cavernes, poilu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "fétiches ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "végétalien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous aimez ce genre de choses, rendez-vous à la Casa Diablo de Portland, qui se présente comme un club de strip-tease <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "388841_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388838_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

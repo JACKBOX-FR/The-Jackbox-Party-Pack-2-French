@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Flic, Fatass, sorcellerie, 3e guerre mondiale, gentrifié, clochard, batteur de femme, gay, trou chaud, père absent, Hitler, enfant soldat, travesti, plouc, maman de cuisine, roturier, pauvres, robot autiste ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Krême ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "KKK ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un magasin de beignets Krispy Kreme au Royaume-Uni s'est excusé pour une promotion offensante qu'il avait organisée et intitulée « <BLANK> les mercredis ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379820_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

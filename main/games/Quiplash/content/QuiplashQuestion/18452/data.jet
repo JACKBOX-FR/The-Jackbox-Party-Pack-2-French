@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "coup de poing à l'estomac ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Hé! Je suis dans le club du punch au ventre du mois. (effet sonore : sonnette) Allô ? Oooof. (luttant pour reprendre son souffle) Ce fut un bon mois ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un cadeau dont personne ne voudrait : Le Club <BLANK> du Mois ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377388_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377386_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tétine, graine de citrouille, Lego, perles de pot-pourri, gomme, décoration de Noël, cure-dent, papier d'aluminium, éponge, haricot, cintre, protège-dents, confettis, jouet pour chien, œuf en plastique, abeille, baguette de toilette, faux ongle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "éternuer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fléchette jouet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Remarquablement, Steve Easton a pu éternuer une partie du <BLANK> qui était logé dans ses voies nasales depuis près de 44 ans. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fléchette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408616_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

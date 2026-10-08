@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gluten de blé, laitue, imitation poulet, chocolat noir, nouilles, couches lavables, brocoli, sauce, hamburgers végétariens, rouge à lèvres, petits pulls pour écureuils malades, nourriture pour animaux, dentifrice, rince-bouche, chewing-gum, préservatifs, jus de Clooney, poudre de protéines ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Clooney ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tofu au goût Clooney ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un partisan qui en était propriétaire a offert à People for the Ethical Treatment of Animals la serviette usagée de George Clooney. PETA a ensuite écrit à Clooney pour lui demander s'ils pouvaient l'utiliser pour créer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tofu, clofu, tofu Clooney, tofu George Clooney, tofu aromatisé George Clooney ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381140_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381137_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

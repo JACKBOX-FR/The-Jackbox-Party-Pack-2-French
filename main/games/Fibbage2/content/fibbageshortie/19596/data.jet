@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "L'Amérique, les extraterrestres, la Californie, l'oxygène, les océans, une lune, la musique, les femmes, la lévitation, les voitures, les mots croisés dans les journaux, les écureuils, la tyrolienne, le baseball, les cafards, l'avortement, un chien président, les lits ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "petits pois ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "thon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors d'un entretien avec le magazine britannique <i>Hello !</i>, will.i.am des Black Eyed Peas aurait déclaré : \"Avançons rapidement jusqu'en 2060 - j'aurai 90 ans, le monde est différent, je ne sais pas s'il y a <BLANK>\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "413054_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "389687_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

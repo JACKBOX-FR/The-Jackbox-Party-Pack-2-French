@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tirer sur des tamias, confondre une personne âgée, faire pipi sur des bonhommes de neige, gaspiller de l'essence, manger des nuages, voler des tiges de maïs, éternuer sur un gopher, jeter des pierres sur des voitures en stationnement, donner des coups de pied à des chèvres âgées, collecter des animaux tués sur la route, gêner les avions de ligne commerciaux, brûler une colonie de fourmis, lancer des quilles partout, dégrader un panneau d'affichage, enfoncer un pirate animatronique, agacer les esprits des morts, caca sur une gargouille, ennuyant un cortège funèbre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Télévision ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "harceler un hibou ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'ancien lanceur d'Utah TV, Dell « Super Dell » Schanze, a été jugé pour le crime de <BLANK> alors qu'il pilotait son parapente motorisé dans les airs. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "harceler une chouette,harceler des chouettes,harceler des chouettes,harceler des chouettes effraies,harceler une chouette effraie des clochers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "401009_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

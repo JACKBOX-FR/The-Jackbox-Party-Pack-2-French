@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "9/11|11 septembre|11 septembre ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce que vous venez vraiment d'évoquer le 11 septembre ? Alors tu es cette personne, hein ? Euh hein. # (long soupir) ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un thème terrible pour un bal de fin d'année au lycée ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375369_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375367_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

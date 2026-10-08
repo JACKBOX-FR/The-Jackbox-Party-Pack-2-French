@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une carte de la Terre du Milieu, Pac-Man, un échiquier, deux pingouins qui s'embrassent, un chat qui fait caca, le Mont Rushmore, Hello Kitty, un visage renfrogné, un crâne enflammé, le logo AC/DC, Bob l'éponge, Le Titanic, un tyrannosaure rex, le profil de David Letterman, une tour Jenga, une boîte géante de crayons de couleur, M. Tête de pomme de terre, Charlie Brown ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "siège social ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "L'entreprise spatiale ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous survoliez le siège de la société d'Internet mobile NetDragon Websoft en Chine, vous remarqueriez peut-être quelque chose d'inhabituel dans sa forme. Il est conçu pour ressembler à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Starship Enterprise, Star Trek Enterprise, The Enterprise, L'U.S.S. Enterprise,L'USS Enterprise,Le vaisseau Start Trek,L'Enterprise de Star Trek,Le vaisseau spatial Star Trek,Le vaisseau spatial de Star Trek ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "410729_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

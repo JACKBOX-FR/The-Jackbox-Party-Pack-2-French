@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aller dans l'espace, tuer une baleine, être enterré vivant, survivre à ses enfants, parcourir la Grande Muraille de Chine, gagner un concours de dégustation de tartes, faire caca à la Maison Blanche, attraper un grand requin blanc, brûler la maison de son enfance, adopter un panda, découvrir une comète, devenir père, apprendre à jongler, rencontrer Larry King, se raser la tête, conduire un tank, jouer au golf à Pebble Beach, manger une grenade à main ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rêve ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "franchir une porte de garage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le rêve de toute une vie de Walter Thomas, 91 ans, de Woodstock, dans l'Illinois, qui s'est finalement réalisé en 2015. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "421111_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a mangé une grenade vivante, avalé une décoration de Noël, reçu une balle dans les fesses, s'est tatoué le pénis, a pris un boulet de canon dans le ventre, a frappé une religieuse, s'est embrassé avec un ours, a sauté par-dessus une mine vivante, a retiré un ténia de ses intestins, a dansé devant les gens qui criaient, a marché sur la lave, a vomi un têtard, s'est noyé, a décapité une tortue, a été mangé par un serpent, a sauté sur un grand femme, a poignardé un ours en peluche, a mangé une vache vivante ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Shrapnel ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "s'est circoncis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'artiste de performance Adrian Parsons a réalisé une pièce déchirante intitulée « Shrapnel », au cours de laquelle, devant un public en direct, il <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379103_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379100_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

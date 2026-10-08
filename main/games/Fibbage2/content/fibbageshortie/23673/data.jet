@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bébé, Entreprise, Poulets, Bar, Voiture, Garage, Ordinateur, Sous-sol, Cercueil, Déclaration d'impôts, Téléphone portable, Cave à cigares, Niche, Réfrigérateur, Grille-pain, Crayons, Cerveau, Amant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "prix ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cheval ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2004, le prix Diagram pour le titre de livre le plus étrange a décerné le grand prix à un livre intitulé « Bombproof Your <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cheval,chevaux,horces,horce ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416587_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

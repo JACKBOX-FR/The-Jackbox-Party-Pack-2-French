@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dans une grotte,dans une salle de bain,sous une cascade,dans un bâtiment abandonné,sur un nuage,au milieu des bois,au milieu d'un étang,près d'un volcan,dans un centre commercial,au sommet d'une montagne,à côté d'une bombe réelle,dans un arbre,à l'intérieur d'un réservoir,dans un bunker,sous l'eau,à côté d'une prison,dans un champ de mines,dans un grenier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "fou ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sur une péniche ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tu n'es pas fou. L'hôpital psychiatrique géré par les Hôpitaux de Saint-Maurice à Paris est réellement situé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sur le fleuve, sur la Seine, sur une barge flottante ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404611_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

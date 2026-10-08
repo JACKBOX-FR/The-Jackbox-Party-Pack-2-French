@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une couche en désordre, du papier d'aluminium dans le micro-ondes, une bagarre de nourriture, une fontaine de chocolat inondée, des vomissements contagieux, des palourdes pourries, une bagarre ivre, des dindes amoureuses, deux gars, une tasse, du champagne pas cher, l'entourage de Justin Bieber, une danse mambo, des laxatifs dans le gâteau, des feux d'artifice intérieurs, un traîneau à chiens intérieur, Russell Brand, le perroquet de la famille royale, un magicien qui fait disparaître un frigo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dommage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un écureuil ivre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La cause de plus de 300 £ de dommages au Worcestershire, au Honeybourne Railway Club privé d'Angleterre en 2015. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "écureuil ivre, écureuil ivre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "429933_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

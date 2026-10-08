@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une torche, du bois de chauffage, des parpaings, une fourche, de la dynamite, des contenants de méthamphétamine, un signe de haine, un couteau, un cadavre, 10 kilos de pot, une tronçonneuse, un souffleur de feuilles, un club de golf, un serpent, un chalumeau, une étoile ninja, des courses, un club à pointes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "atelier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une arme à feu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une femme de Johnston, Iowa, a récemment donné un atelier de trois heures sur la manière de porter simultanément un bébé et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383882_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

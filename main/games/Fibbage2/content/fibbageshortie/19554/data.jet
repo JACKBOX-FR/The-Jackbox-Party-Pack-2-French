@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des cascades, un dragon, un arc-en-ciel, la vie, un lutin, son sosie, un manchot, Knight Rider, une machine à voyager dans le temps, son canari, un deltaplane, le Roadrunner, une lettre embarrassante qu'il a envoyée, Bigfoot, un OVNI, une comète, le lever du soleil, Hawkman ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "puissance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un hibou ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 25 février 2015, un automobiliste de Seattle a déclaré à la police qu'il avait percuté un poteau électrique parce qu'il poursuivait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chouettes, chouette, la chouette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388694_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

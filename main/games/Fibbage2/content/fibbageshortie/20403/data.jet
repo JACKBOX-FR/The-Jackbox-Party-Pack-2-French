@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "repaire, bibliothèque médicale, parc aquatique, salle d'opération, zoo pour enfants, Blockbuster Video, château gonflable, Chuck E. Cheese's, flotte de taxis, train à grande vitesse pour le Canada, module de réalité virtuelle, lac pour nager, client chez Macy's, stand pour regarder les défilés, navette pour les matchs des Yankees, studio de télévision, salle de bains, café ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "inconnu ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "entrée à Whole Foods ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Inconnue de la plupart des gens, Katie Holmes avait son propre secret <BLANK> au cœur de Manhattan. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Entrée des aliments entiers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396704_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

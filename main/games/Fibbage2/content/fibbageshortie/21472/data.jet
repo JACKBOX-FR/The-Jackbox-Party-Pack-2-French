@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des kilomètres de neige, des assassins entraînés, des kilomètres de clôture électrifiée, des chars robots, des chevaux blindés, des aigles porteurs de bombes, des serpents venimeux, des ours, des chanteurs USO à la retraite, des pieds de caoutchouc, des bisons, des mitrailleuses automatisées, des ralentisseurs, des deltaplanes, des voitures rouillées, des comptables, des food trucks, des baristas ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "nucléaire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dauphins entraînés par l'armée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nous sommes plus en sécurité que jamais, car le plus grand entrepôt nucléaire des États-Unis, près de Seattle, est gardé en partie par 85 <BLANKS>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "marsouins, grands museaux, dauphins, dauphins militaires ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "406238_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406235_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

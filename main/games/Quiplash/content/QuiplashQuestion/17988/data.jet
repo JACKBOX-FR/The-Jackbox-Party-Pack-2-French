@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "gravité|gravité idiot|putain de gravité|putain de gravité|gravité duh ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Félicitations, petit malin. Vous avez techniquement raison. Tout le monde se lève et donne un coup de main à cet imbécile. (effet sonore : applaudissements) Allez ! Fais-le! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi la Tour de Pise penche-t-elle ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374415_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374413_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

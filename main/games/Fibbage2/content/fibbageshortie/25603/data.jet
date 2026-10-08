@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pause glace, heure de bowling, heure de cinéma, heure disco, feu d'artifice, fête au bord de la piscine, défilé, course en sac de pommes de terre, heure de massage, pause café, mariage, interdiction de circulation, alevins de poisson, pause toilettes, moment d'appréciation des chèvres, combat de tartes, carnaval, tournoi de poker ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Espagne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "l'heure de la sieste ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le maire d'Ador, en Espagne, a récemment institué un <BLANK> quotidien pour toute la ville. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sieste ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "429811_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "429808_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

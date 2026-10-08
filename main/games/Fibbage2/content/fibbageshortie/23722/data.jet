@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sa propre tête, la lettre « H », J.Lo, une chèvre, un verre à martini, un cœur humain, une télévision, un ballon de football, le Sphinx, un poulet, une pyramide, un cheval, un biberon, un piano à queue, un hot-dog, une montagne, Shirley MacLaine, Dogbert ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "camping-car ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "la Terre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le cheikh connu sous le nom de Rainbow Sheikh, membre milliardaire de la famille régnante d'Abou Dhabi, a construit un camping-car inhabituel et massif ayant la forme exacte de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un globe, le monde, la Terre, la planète Terre, la planète ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417720_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

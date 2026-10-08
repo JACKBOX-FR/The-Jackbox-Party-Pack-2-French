@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chappie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Chappie ?! Qui aurait pu donner à un robot un nom aussi stupide ? (hors micro) Oh, c'était un vrai film !? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le pire nom pour un robot ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375087_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375085_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

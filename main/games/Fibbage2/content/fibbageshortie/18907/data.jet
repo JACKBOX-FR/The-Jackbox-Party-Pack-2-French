@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nourriture pour chat, pain, invisible, dégoûtant, bonbons, carton, haricot, chien, carotte, humain, nourriture frite, citrouille, yaourt, chat, viande, céréales, carton, fromage ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Cuisinier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bug ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le chef Adam Holcroft ouvre le premier restaurant britannique qui sert uniquement des plats <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "insecte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "380486_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380483_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

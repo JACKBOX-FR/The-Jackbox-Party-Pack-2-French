@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "testicules de vache, poils du nez, caca, spray mouffette, ongles des pieds, urine de lama, eau, nombril, menton, petits doigts, mamelles de vache, craquelins, poils du dos, papier, sauge, moustaches de chat, cornes de cerf, globes oculaires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "synthétique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "triangles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ken Ahroni possède une entreprise étrange qui fabrique uniquement du <BLANK> synthétique. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377843_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377840_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "fait en binôme,fait à l'extérieur,ça ne fait aucun mal à la sauvagine,implique le maïs,ça ne mentionne pas le Canada,ça contient l'hymne canadien,c'est fait après minuit,c'est fait sous terre,les strip-teaseuses sont des amateurs,les strip-teaseuses ont des licences,les strip-teaseuses sont des hommes,elles ne montrent pas leurs fesses,c'est fait sur de la musique classique,aucun pôle n'est présent,ce n'est pas érotique,ça dure moins d'une minute,ça se moque de l'Amérique,ça se termine par une poignée de main ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Saskatchewan ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "c'est pour la charité ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 2015, le décapage en Saskatchewan n'est légal que si <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "organisme de bienfaisance, à but non lucratif, à but non lucratif, à but non lucratif ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "403943_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "403940_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

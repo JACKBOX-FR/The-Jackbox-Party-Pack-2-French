@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "piles, marteaux, parpaings, pierres, chaussures, frisbees, bretelles, béquilles, pneus, ballons médicinaux, panneaux d'arrêt, téléphones, cintres, escabeaux, balais, sacs à main, ceintures, annuaires téléphoniques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mesdames ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Macaroni au fromage Kraft ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'amour peut être douloureux. Il suffit de demander aux Barenaked Ladies, qui ont dû demander à leurs fans d'arrêter de leur lancer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "macaroni au fromage, macaroni au fromage, macaroni au fromage Kraft, macaroni au fromage Kraft, macaroni au fromage, macaroni au fromage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408688_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vice-présidents, Cool Guy, Little Calvin, Sebastian, Stinky, Rusty, Desmond, Sweet Princess, Bobby, Lawrence Hastings, Fleabag, Honey, Sir Pawington, Rocco, Baby Zeus, Guster, Chet, Toby ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "raton laveur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rébecca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom du raton laveur de compagnie du président américain Calvin Coolidge. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398747_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "préservatif|préservatifs ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, je pense que les préservatifs sont un choix judicieux. Vous ne voulez pas d’un autre oncle ou tante, n’est-ce pas ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une chose bizarre à trouver dans la table de chevet de tes grands-parents ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378291_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378289_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

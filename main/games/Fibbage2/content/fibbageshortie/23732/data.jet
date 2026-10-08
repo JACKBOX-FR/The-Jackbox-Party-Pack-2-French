@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "PS3, tatou en peluche, sac en papier, perruque de clown, biberon, Rubik's Cube, fausse main, réplique du pistolet « Blade Runner », livre intitulé « L'agonie et l'extase », ananas creux, club de jonglage, modèle du cerveau humain, casque de football, poupée à tête branlante d'Abraham Lincoln, Tickle Me Elmo, jambon en conserve, cochon de compagnie, urne pour mort ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "extase ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monsieur Patate ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les agents australiens de la drogue ont arrêté un trafiquant en 2007 qui tentait d'introduire 300 grammes d'ecstasy dans le pays en les cachant astucieusement dans un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Monsieur Patate ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "417973_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417970_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

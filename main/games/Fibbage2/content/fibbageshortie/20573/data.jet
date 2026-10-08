@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "machine à café, futon, toilettes pour femmes, grille-pain, lave-vaisselle, poubelle, réfrigérateur, modem, magnétoscope, garde-robe du concierge, télécopieur, avertisseur de fumée, pièce de rangement, porte-manteau, ventilateur de plafond, fumoir, garderie, fosse septique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Colbert ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tapis roulant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le <BLANK> situé à l'intérieur de la Station spatiale internationale porte le nom du comédien Stephen Colbert. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400544_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

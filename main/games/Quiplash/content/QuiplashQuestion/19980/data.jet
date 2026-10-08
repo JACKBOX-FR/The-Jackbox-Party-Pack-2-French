@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "une main humaine|main humaine|une main ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Eh bien... à moins bien sûr que vous ayez DEMANDÉ au Père Noël une main humaine. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose que vous ne voulez pas trouver dans votre bas de Noël ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "394449_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "394447_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

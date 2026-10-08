@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "urinoir, segway, mât de drapeau McDonald's, cellule de prison, berger allemand, insigne de policier, camion de pompiers, placard de concierge, kart, sans-abri, bébé, casque de police, singe, autobus scolaire, Toyota Prius, Walmart, calendrier Chippendales, maison funéraire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "graffitis ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cheval de police ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, la police de Los Angeles était à la recherche d'un graffeur qui, entre autres choses, avait tagué des graffitis partout sur un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cheval, chevaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405091_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

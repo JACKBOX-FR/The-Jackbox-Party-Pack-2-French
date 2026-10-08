@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "J'ai fait pipi dans mon pantalon | J'ai fait pipi dans mon pantalon ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ew, tu pourrais imaginer s'il faisait pipi dans son pantalon ? Ce serait juste cet étrange sous-vêtement en fourrure qu'il porte, dégoulinant d'urine. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Les gens ne respecteraient pas autant He-Man si, pour obtenir son pouvoir, il brandissait son épée et criait « ____________________ ». ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375687_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375685_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

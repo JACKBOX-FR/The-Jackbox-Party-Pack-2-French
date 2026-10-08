@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "avec une queue,sous l'eau,le vendredi 13,à un président américain,le 4 juillet,à Washington D.C.,dans un taxi,dans un hôpital,au 20e siècle,avec un jumeau,en mer,au pôle Nord,hors des États-Unis,à la Maison Blanche,le jour de son anniversaire,dans une cabane en rondins,à Buckingham Palace,au Texas ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Né ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aux États-Unis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le président Martin Van Buren, habituellement oublié, a eu la distinction intéressante d’être le premier président américain à naître <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Citoyen américain,États-Unis citoyen,citoyen américain,aux États-Unis,aux États-Unis,aux États-Unis,aux États-Unis,aux États-Unis,aux États-Unis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "431774_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431771_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

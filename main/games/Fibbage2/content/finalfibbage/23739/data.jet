@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un bouchon de champagne, un cornichon, une gomme, un bec de caille, une clé de machine à écrire, de l'herbe, un diamant, une punaise, une aspirine, un sou, une guimauve, une bague, un roulement à billes, une clé de maison, une montre-bracelet, un morceau de gomme mâchée, un oreiller, une barbe à papa ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "la mort ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un bouchon de flacon de gouttes pour les yeux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'objet apparemment inoffensif avec lequel le dramaturge Tennessee Williams s'est étouffé à mort dans une suite d'hôtel de Manhattan ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un bouchon de flacon de collyre,un bouchon de flacon de collyre,un bouchon de flacon de collyre,un bouchon de flacon pour collyre,un bouchon de flacon de collyre,le bouchon d'un flacon de collyre,un bouchon de flacon de collyre,un bouchon de flacon de collyre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "418145_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

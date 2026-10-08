@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "joute avec les dauphins, coupe de fromage, lancer de bébé, soufflage de sauce piquante, lancer de réfrigérateur, plongée dans les toilettes, football kangourou, rugby, lutte contre les éléphants, jacks extrêmes, jonglerie de cadavres, tri de coupons, chirurgie aveugle, traîneau-fusée, éternuements compétitifs, tennis à la noix de coco, chutes et échelles humaines, lancer de gâteaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bizarre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Polo segway ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Fans d’événements sportifs bizarres, réjouissez-vous ! Le 15 avril 2015, la ville anglaise de Rugby a accueilli le tout premier tournoi international <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "polo segweigh, polo segway ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404183_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404180_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

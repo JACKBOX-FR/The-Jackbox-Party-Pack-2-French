@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ordinateurs Apple, nouilles macaronis, Steve Jobs, Mac Davis, prêtres, Kelly Osbourne, les Kardashian, Black Sabbath, fantômes, montagnards écossais, tueurs en série, Père Noël, Macklemore, tubes de rouge à lèvres, statues, chars de Macy, explorateurs célèbres, dinosaures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Personnages de McDonald's ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Mac Sabbath est un groupe de reprises de Black Sabbath basé à Los Angeles connu pour se déguiser en <BLANK> pour ses performances. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "personnages de macdonald, personnages de mcdonold, personnages de macdonalds, personnages de mcdonalds, personnages de mcdonaldland, personnages de macdonaldland, personnages de mcdonald land, personnages de macdonald land ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374585_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

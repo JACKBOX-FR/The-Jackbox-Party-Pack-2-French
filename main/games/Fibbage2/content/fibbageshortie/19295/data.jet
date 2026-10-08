@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des oursons gummi, un oreiller, des écouteurs, des magazines, une couverture, de l'alcool, des serviettes, une pizza, des pantoufles, un remboursement, un chargeur de téléphone, son téléphone, des bonbons, des excuses, un désinfectant pour les mains, son chat, des fleurs, des cacahuètes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "rail ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "papier toilette ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un adolescent voyageant à bord de Virgin Trains a pu tweeter sur la compagnie ferroviaire alors qu'il était à bord, afin de se faire livrer <BLANK> par un membre du personnel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un rouleau de papier toilette,tp,du papier toilette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383327_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

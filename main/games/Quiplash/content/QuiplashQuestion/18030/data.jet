@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cookie Masterson|Cookie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Cookie [même si Cookie n'est pas l'hôte du jeu] C'est clairement la bonne réponse. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Si vous aviez le droit de nommer le bébé de quelqu’un d’autre comme vous le souhaitez, quel nom lui donneriez-vous ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374772_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374770_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

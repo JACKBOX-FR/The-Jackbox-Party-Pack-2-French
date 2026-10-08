@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Massage en bouteille ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, n'allez pas au Massage in a Bottle. Non seulement ils aiment les jeux de mots terribles, mais aussi les jeux de mots basés sur les chansons de Sting. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne devriez pas vous faire masser dans un endroit appelé <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374028_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374026_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

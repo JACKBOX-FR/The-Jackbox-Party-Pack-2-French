@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "amical, je ne suis pas un, le petit de maman, Jell-O, celui du peuple, Johnny, Gregory, Snoop, potelé, Dr. Melvin T., Le meurtre, www., Kool & the, Downton, Spanky & Our, Tyrice, paisible, gentiment ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "maréchaux",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En février 2015, Tyrice Bowens, un fugitif en fuite, a finalement été arrêté par les US Marshals pour tentative de meurtre dans l'Ohio. Bowens porte également le nom de rue <BLANK> gangsta. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "caca ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381422_1f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381419_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

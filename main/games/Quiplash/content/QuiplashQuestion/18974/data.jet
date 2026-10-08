@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger caca|manger de la merde|caca manger|merde manger|manger et caca|manger et merde|caca et manger|caca et merde|merde manger|manger de la merde|manger et merde|merde et manger ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "C’est vrai, vous devriez toujours attendre au moins 30 minutes après avoir mangé pour nager ou faire caca, ou les deux. Et rappelez-vous : nager et faire caca en même temps est toujours acceptable. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne devriez jamais <BLANK> et <BLANK> en même temps ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "380958_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "380956_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

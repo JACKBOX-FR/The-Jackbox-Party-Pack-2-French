@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pet, étranglement, rêve, bosse, presser, manteau, copain, meurtre, nez, dickie, acolyte, orteils, veste, massacre, robe, gilet, orgie, armure ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Saskatchewan",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "câlin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En Saskatchewan, un sweat-shirt à capuche n’est pas appelé « sweat à capuche » mais plutôt « lapin <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "375692_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375689_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

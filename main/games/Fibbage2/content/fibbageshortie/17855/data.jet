@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bouteille de soda de 2 litres, toilettes, Slinky, fente pour boîte aux lettres, paille, panier de basket, panier de basket, porte de prison, cheminée, chas d'aiguille, poignée de tasse à café, drain de baignoire, bazooka, emporte-pièce, baguette à bulles, télescope, tuyau d'aspiration, beignet ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cirque ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "raquette de tennis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le capitaine Frodon, un contorsionniste du cirque La Clique, peut presser tout son corps à travers un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "raquette de tennis,raquette de tennis,raquette,raquette,raquette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "373556_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "373553_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jouer au Twister, au hula hoop, rôtir des cochons au bureau, faire du karaoké, boire du Tang, jouer dangereusement aux fléchettes, faire la lessive, cuire des muffins, se gifler, embrasser des stagiaires, acheter des chaussures, écouter de la polka, conduire du kart, acheter des lunettes, manger des têtes de poisson, prendre des bains, yodeler, faire de la plongée en apnée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "NASA ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger des haricots ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tradition depuis 1981, la NASA célèbre les lancements réussis, curieusement, par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cuire des haricots, faire des haricots ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "374954_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374951_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

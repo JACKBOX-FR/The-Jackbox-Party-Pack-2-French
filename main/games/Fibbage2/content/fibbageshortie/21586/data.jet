@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "déranger Tom Brady, jeter du thé dans le port, sillonner l'hôtel de ville, faire du karaoké, lancer des nickels sur les animaux du zoo, ouvrir des bouches d'incendie, vandaliser les maisons des fans des Yankees, entrer de faux faits sur Wikipédia, travailler sur leurs voitures, faire des farces, acheter des gâteaux érotiques, cuisiner une dinde, écrire des fanfictions, habiller leurs chiens comme des gens, jouer aux fléchettes sur la pelouse, visiter le planétarium, s'endormir dans l'arboretum, s'habiller comme Thor ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "ivre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chasser les ours avec des hachettes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La police de North Adams, dans le Massachusetts, a dû adresser une demande inhabituelle et très spécifique à ses citoyens en mai 2015. Elle a exhorté tout le monde à éviter de se saouler et de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chasser un ours avec une hache, chasser des ours avec des haches, chasser un ours avec une hache, chasser des ours, chasser un ours, attaquer un ours, poursuivre des ours, chasser des ours ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408760_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

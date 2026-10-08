@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "téléphériques, statues historiques, poteaux lumineux anciens, bacs de recyclage, stands de hot-dogs, ormes, mâts de drapeau, kiosques à journaux, vélos, camping-cars, sceaux, quais, stands de nourriture végétalienne, motos, panneaux d'affichage, voiliers, breaks, nains de jardin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "éruption cutanée ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voitures intelligentes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au printemps 2014, San Francisco a connu une étrange série de crimes au cours desquels des vandales renversaient spécifiquement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400469_5",
+      "n": "QuestionAudio"
+    }
+  ]
+}

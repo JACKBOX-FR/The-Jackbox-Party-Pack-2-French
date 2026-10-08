@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "spam, coke light, dents humaines, caviar, pétrole brut, sueur, beignets, crémations, poudre à canon, tabac à chiquer, crottes de cerf, larmes de mannequins, cendres de Marilyn Monroe, poussière d'os de dinosaure, charbon de bois de Charles Dickens, haleine de bébé, corne de licorne, safran ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pulvérisation ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "diamants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La société de cosmétiques Saint-Tropez a présenté un bronzage en spray en édition limitée qui, croyez-le ou non, contenait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "389174_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "fais sauter mon trou | fais sauter ce trou ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Hahahah ! Ouais, explosez-vous, les dauphins ! Vous appelez ça un spectacle ?! J’ai vu de meilleures performances dans un vivier à homards ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose que vous cririez pour chahuter les dauphins performants à Sea World ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378327_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378325_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

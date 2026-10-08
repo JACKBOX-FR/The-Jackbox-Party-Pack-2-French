@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sang de dinosaure, sève d'arbre ancien, crottes de pingouin, larmes de baleine, tous les germes sur Terre, mélanges de malbouffe, huile de moteur usagée, résidus de déodorant, désinfectant pour les mains usagé, neige sale de la rue, peau humaine morte, vieux Coca Cola, chair de momie, vieille bière, salive de George Washington, barres de chocolat fondues, eaux usées brutes, graisse de liposuccion ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "substance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "oiseaux heurtés par des avions ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Smithsonian dispose d’une équipe spéciale de scientifiques qui étudient une substance appelée « snarge ». Qu'est-ce que « snarge » ? C'est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "oiseaux morts, parties d'oiseaux, morceaux d'oiseaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399467_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

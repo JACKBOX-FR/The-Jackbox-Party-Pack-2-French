@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "joueurs de baseball morts, larmes d'enfants, sang de bœuf, saindoux, sa propre urine, jus de betterave, arbres frappés par la foudre, nuages, sang d'un Irlandais, lait aigre, livres brûlés, épinards, cérumen, acide gastrique, grillons frits, coton, lave en fusion, ténias ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pudding ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "testostérone de singe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le lanceur de baseball d'antan Jim « Pud » Galvin avait un secret assez étrange pour expliquer son succès : des doses régulières d'un élixir « améliorant les performances » à base de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "testicules de singe, testostérone animale, testostérone de singe, testostérone de singe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387368_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387365_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

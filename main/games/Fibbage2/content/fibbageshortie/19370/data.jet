@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le nom de leur mère, leur adresse, leurs numéros de sécurité sociale, le soleil, leur athlète préféré, le gouverneur de l'Indiana, leur taille, leurs noms de famille, leur poids, leurs numéros de téléphone, leurs signes du zodiaque, un passe-temps favori, le nom de leur animal de compagnie, leur carrière souhaitée, un dinosaure, Superman, leur professeur préféré, la croix de Jésus ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "poitrine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "leurs groupes sanguins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre d'un programme organisé localement dans le nord-ouest de l'Indiana dans les années 1950, les écoliers se sont tous fait tatouer <BLANK> sur la poitrine. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "leur groupe sanguin, leur type corporel, leur groupe sanguin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383930_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

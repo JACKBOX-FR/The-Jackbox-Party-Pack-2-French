@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "de la peinture, un sandwich, une sculpture en peluche, de la nourriture pour chien, du papier peint, des tissus d'ameublement, un cadre photo, du caoutchouc de pneu, de la litière pour chat, une paire de chaussures, une lampe, un smoking, un crucifix, des pages pour un livre, un steak, de l'huile moteur, un chariot, des bijoux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "art ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nourriture pour poissons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le meurtrier reconnu coupable Gene Hathborn, envoyé dans le couloir de la mort au Texas, a demandé que son corps soit transformé en <BLANK> après sa mort dans le cadre du projet artistique d'un artiste danois. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nourriture pour poisson",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417845_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

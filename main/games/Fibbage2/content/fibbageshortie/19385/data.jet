@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un panier de chatons, un bouton, des ballons à moitié dégonflés, un lit double, une mauvaise haleine, un peigne, des trous dans les chaussettes, un petit-déjeuner pour le dîner, des cauchemars, des bras poilus, des bavardages avec des inconnus, un permis de conduire expiré, du fromage cottage expiré, des maux de tête, des siestes de chat, une physiothérapie, un bain moussant, un dentier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "fétiche ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avoir la vessie pleine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "\"Omarashi\" est un étrange fétiche dans lequel une personne est excitée par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "une vessie pleine, avoir besoin de vraiment faire pipi, devoir faire pipi, devoir uriner, avoir besoin d'uriner, avoir besoin de faire pipi, avoir vraiment besoin de faire pipi ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384290_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

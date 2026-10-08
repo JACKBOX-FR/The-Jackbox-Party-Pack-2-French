@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "araignées de l'anus|araignées du trou du cul|araignées du trou du cul|araignées des fesses|araignées anales|araignée de l'anus|araignée du trou du cul|araignée du trou du cul|araignée des fesses|araignée anale|araignée du cul|araignées du cul ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Une araignée qui vit dans tes fesses ? Tu parles d'un reclus brun. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d’une nouvelle et terrifiante espèce d’araignée ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "403020_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "403018_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

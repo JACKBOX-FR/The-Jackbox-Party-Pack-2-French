@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poils de nez, chats morts, monocles, urine, dents, sous-vêtements, cigares usagés, bretelles, sac de couchage, tanks, poèmes courts, gribouillages de Staline, vieilles chaussettes, films amateurs, bassines de lit, alliance, coups de poing américains, patins à roulettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "vente aux enchères",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "du sang ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 12 mars 2015, la maison de vente aux enchères Duke's of Dorchester, dans le Dorset, en Angleterre, a mis aux enchères quelque chose d'assez inhabituel : le <BLANK> de Winston Churchill. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380108_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

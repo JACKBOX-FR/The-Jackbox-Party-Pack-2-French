@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "toilettes, aisselles, couches, voitures, poisson, sous-vêtements, vanille, poudre à canon, mouffettes, carottes, crayons, draps assouplissants, lotion pour les mains, manteaux, papeterie, serviettes de bain, isolation, oreillers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "chocolat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pets ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Christian Poincheval, un Français de 65 ans, a passé plus de 10 ans à essayer de faire sentir à <BLANK> le chocolat. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "flatuence,un pet,ses pets ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377792_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

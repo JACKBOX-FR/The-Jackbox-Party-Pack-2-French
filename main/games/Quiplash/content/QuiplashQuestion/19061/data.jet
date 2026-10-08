@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "appelle Mothra|ivre compose Mothra|Appel de butin de Mothra|fait un appel de butin de Mothra|le butin appelle Mothra ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Allez Godzilla ! Laissez Mothra tranquille. Vous vous souvenez à quel point vous êtes mauvais l'un pour l'autre ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose que Godzilla fait quand il est ivre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "381681_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "381679_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Breaking Bad, cactus, guerre contre le terrorisme, décrocheurs du lycée, enfants populaires uniquement, apocalypse zombie, grande dépression, film slasher, death metal, cowboys et indiens, Bob l'éponge, My Little Pony, grossesse chez les adolescentes, Hooters, Ancien Testament, mafia italienne, pull laid, Hunger Games ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bal de fin d'année ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "communisme ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après un vote en ligne, l'école préparatoire classique Cottonwood à Albuquerque, au Nouveau-Mexique, a décidé de choisir le thème quelque peu controversé de <BLANK> pour son bal de fin d'année 2015. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "coco, communiste ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383753_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

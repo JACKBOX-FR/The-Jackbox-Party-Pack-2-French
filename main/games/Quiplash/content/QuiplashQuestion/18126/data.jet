@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Blart ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Blart. Eh bien, péter dans un bol de macaroni au fromage me rappelle ce film Paul Blart : Mall Cop. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Inventez un mot qui décrit le bruit de péter dans un bol de macaroni au fromage ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375123_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375121_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

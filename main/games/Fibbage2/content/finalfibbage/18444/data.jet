@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Beer-po, Head & Booze, Bud Wiser, Savon et mousse, Tête pour tête, Brewski Clean, Pinte de shampoing, Houblon utile, Old Milwashee, Brew Dew, Mousse Brau, Va à votre tête, Poils du chien, Sudsy Wudsy, Ale Pattern Calvitie, Faits saillants de la vie, Lager Mousse, Suds Mackenzie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "shampoing ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Corps à la pression ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nom du véritable shampoing des années 1970 enrichi à la bière. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377324_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377321_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

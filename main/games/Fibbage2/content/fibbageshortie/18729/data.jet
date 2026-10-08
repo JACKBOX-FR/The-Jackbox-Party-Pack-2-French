@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pure chance, abandonner, plagier, dormir, être un bon écrivain, délais, compote de pommes, ne pas avoir d'enfants, être seul, se détester, ne plus s'en soucier, être prétentieux, des chaussures confortables, rêver, être sous le dôme, utiliser des adverbes, des collations, être pauvre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "secret ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "thé infusé fort ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "21h43 - 22 novembre 2014 @StephenKing a tweeté : « De plus en plus, je crois que le secret d'une écriture réussie est <BLANK>.» ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419706_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379175_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379172_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

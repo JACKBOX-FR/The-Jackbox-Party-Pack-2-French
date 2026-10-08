@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger de la glace, manger du savon, scanner ses organes génitaux, s'asseoir sur des chaises de jardin, essayer des bikinis, se couvrir de Skittles, nager dans une piscine pour enfants, s'enfermer dans un congélateur, récupérer son ordonnance, travailler à la caisse, acheter des cartes-cadeaux Outback, boire du thé glacé d'Arizona, manger des Peeps, acheter des cartes d'anniversaire, nettoyer le sol, faire des annonces sur la sono, manger de la crème solaire, chanter des airs de spectacle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "nu ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dormir dans les lits pour chiens ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme de 22 ans à Lutz, en Floride, a été arrêté début 2015 pour s'être déshabillé et <BLANK> dans un magasin CVS local. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "allongé dans des lits pour chiens, dormir dans des lits pour animaux de compagnie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "390530_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390527_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

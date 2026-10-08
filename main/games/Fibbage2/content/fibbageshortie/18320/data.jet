@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'espace, un congélateur, du pudding, un avion, le nu, l'isolement, l'eau, le Canada, un vide, le sol, le désert, la prison, des bains à remous, une chambre à oxygène, l'amour, un ascenseur, des centres commerciaux, des Applebees ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "expérimenter ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lit ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre d'une expérience financée par la NASA, Andrew Iwanicki a reçu 18 000 $ pour passer 70 jours en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376424_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

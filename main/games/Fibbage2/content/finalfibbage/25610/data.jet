@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "transport de monocycle, jonglage de mari, lutte de vache, levage de voiture, sculpture de pudding, cueillette du nez, compétition high-five, concours de sosie de Conan O'Brien, karaoké à l'envers, lutte contre le pénis, dunk tank Guinness, Whack-a-Bono, rasage de mouton, gingembre le plus pâle du monde, attrape le lutin graissé, roulement de peluches au nombril, le son le plus haut du monde péter, battre le détecteur de mensonge ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fête ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Crachats de bouse de mouton ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La compétition vraiment étrange ajoutée au festival irlandais Lady of the Lake en 2015. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bouse de mouton, crottes de mouton, merde de mouton, excréments de mouton ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430008_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trous, cueilleurs, lanceurs, pones, slappers, vers, police, attrapeurs, rêveurs, gens, hicks, cous, tiges, sirops, pops, têtes, épis, noix ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mascotte ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "saccadés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le lycée de la région de Hoopeston, dans l'Illinois, a une mascotte d'équipe inhabituelle. Leurs équipes sportives sont connues sous le nom de Hoopeston Area Corn<BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "saccadés, saccadé, saccadé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "372617_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

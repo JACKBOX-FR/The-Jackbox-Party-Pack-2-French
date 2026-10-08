@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "est ivre, n'a pas les moyens de s'acheter une arme à feu, réussit un test d'utilisation d'un couteau, est une doublure de West Side Story, possède un permis de couteau, a plus de 45 ans, promet de ne pas l'utiliser, a des problèmes de vision, vit dans un quartier dangereux, travaille pour la poste, vit dans une ville de moins de 2 000 habitants, en a besoin pour l'agriculture, est dans l'armée, travaille sur un bateau à crabes, a été agressé plus de 3 fois, a aucun antécédent de coup de couteau, je suis aveugle, je l'ai reçu en cadeau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "lame à cran d'arrêt ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a un bras ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre 15 du code américain, chapitre 29, section 1244 fait une exception pour le port d'un couteau à cran d'arrêt. C'est légal, à condition que la lame mesure moins de trois pouces de long et que la personne qui la porte <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "possède un bras,un bras,est un bras,est amputé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "407490_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407487_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

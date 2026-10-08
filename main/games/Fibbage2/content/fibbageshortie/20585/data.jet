@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "de faux lingots d'or, un sac de pièces de monnaie, de l'argent Monopoly, des coupons, des boutons, une reconnaissance de dette, un tour de danse, des fleurs, des chèvres, des fusils, des pièces de chocolat, une carte Diners Club, des haricots magiques, des timbres-poste, de la cocaïne, des copies de son CD, son camping-car, un massage personnel ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "marchandise ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un billet d'un million de dollars ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La police a été appelée dans un Walmart d'Atlanta en 2004 après qu'une femme ait tenté de payer ses marchandises d'une valeur de 1 675 $ avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400769_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

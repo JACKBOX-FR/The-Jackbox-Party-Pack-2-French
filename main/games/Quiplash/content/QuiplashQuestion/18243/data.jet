@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "tu peux t'en sortir|personne n'est là|personne ne te voit le faire|personne n'est là|personne ne te voit le faire|personne ne te voit|personne ne te voit|personne ne te voit le faire|personne n'est là|personne n'est là ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, car comme le dit le vieil adage : si un corps tombe et que personne n’est là pour le voir… ce n’est techniquement pas un meurtre. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Il n’y a qu’une seule fois où le meurtre est acceptable et c’est lorsque <VIERGE> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375984_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375982_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

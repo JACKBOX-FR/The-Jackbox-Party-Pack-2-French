@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "on s'en fout, tout le monde fait caca, l'événement annuel de la merde, le fumier tu sais, ça ne va pas sentir bon, bouche-toi le nez, l'expo la plus excitante du monde, parlons du fumier, il est temps de s'occuper de quelques conneries, de se faire excréter, de faire caca, d'allumer le fumier, salis-nous, les choses sont sur le point de devenir folles, c'est du fumier comme ça, on fait pousser des jardins, directement de la crosse à toi, le week-end d'engrais ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fumier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "du fumier que vous ne pouvez gérer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le slogan officiel de l'Expo nord-américaine sur le fumier 2015 qui s'est tenue à Chambersburg, en Pennsylvanie, était : « Expo sur le fumier 2015 : <BLANK> ! ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "le fumier alors vous pouvez gérer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404926_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404923_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

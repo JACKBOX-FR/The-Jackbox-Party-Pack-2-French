@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des massages, une calèche, des machines à cônes de neige, des mangeoires à oiseaux, des épilations à la cire, un concert de Kanye West, des jeans skinny, un système de défense contre les dragons, recréant des scènes de Game of Thrones, de la musique jazz, une piscine à 14 niveaux, peindre le centre-ville en violet, des escaliers qui ne mènent nulle part, des moulins à vent, des chiots pour chaque citoyen, de faux arbres, l'observation des baleines, des lectures psychiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dinde ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une grande statue d'un robot ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le maire d’Ankara, en Turquie, a récemment provoqué la colère des contribuables lorsqu’il a dépensé une grande partie du budget de la ville pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un robot,un transformateur,un androïde,un robot géant,une statue de robot géant,un gros robot,une grande statue de robot ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400238_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

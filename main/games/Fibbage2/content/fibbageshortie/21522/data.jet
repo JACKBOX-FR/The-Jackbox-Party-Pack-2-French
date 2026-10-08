@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "allumer les arroseurs, faire retentir les alarmes de tornade, appeler leurs parents, organiser un concours de t-shirts mouillés, servir le petit-déjeuner au lit, souffler une trompette géante, les traîner hors du lit, préparer une gaufre géante, livrer de l'aspirine et de l'eau, apporter à chacun ses vêtements, un groupe de mariachis, offrir des Bloody Mary illimités, des mimes de porte à porte, avoir un couloir Slip-N-Slide, demander à Garth Brooks d'appeler leur chambre,laisser chanter un coq,augmenter le chauffage dans les chambres,appeler la police ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Matin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Je joue \"Circle of Life\" très fort ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un Holiday Inn à Panama City, en Floride, a une étrange tradition pendant les vacances de printemps. À 11h00 chaque matin, l'hôtel réveille ses invités fêtards par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Circle of Life, Roi Lion, joue « Circle of Life » très fort, joue « The Circle of Life », joue « Circle of Life », joue « Circle of Life » à haute voix, joue fort « Circle of Life », hurle « Circle of Life », joue « Circle of Life » très fort, joue « Circle of Life » très fort, joue « Circle of Life » très fort ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407463_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

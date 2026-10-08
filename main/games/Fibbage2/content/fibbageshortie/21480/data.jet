@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dans le ciel, sur le côté de sa voiture, en Klingon, sur le front de sa femme, avec du feu, dans les toilettes, avec des oiseaux morts, dans des sushis, dans de l'encre qui disparaît, sur un panneau publicitaire, sur ses papiers de divorce, dans un film Avengers, à l'envers, avec de l'encre invisible, dans du sang, avec de la cocaïne, sur sa cravate préférée, en pentamètre iambique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "arrêter de fumer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sur un gâteau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Mark Herman, directeur du journal télévisé de KOLD-TV à Tucson, en Arizona, a eu une façon unique de quitter son emploi. Sa lettre de démission de trois paragraphes était écrite <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gâteau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406455_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

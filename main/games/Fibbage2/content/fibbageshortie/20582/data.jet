@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cowabunga, planche de surf, Gnarly Town, Rad, Bleach Blonde, New Babeland, Tubular, Thumbs Up, White Beach, Hang Ten, Hot Rod Town, Skinny Model City, Snobby Vineyard, St. Faux, Hot Shot, Rêves ratés, Juste, Sécheresse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "crie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Frais",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le comté d’El Dorado, en Californie, il y a une petite ville dont le nom crie simplement « côte ouest ». Il s’appelle <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400697_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

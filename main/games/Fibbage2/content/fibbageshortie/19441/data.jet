@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Massage suédois, étudier les crottes, chanter des chansons d'ABBA, lécher des crapauds, corriger la grammaire, manger les ongles des pieds, sentir les pieds, être seul, les nombrils, les interventions chirurgicales inutiles, le parachutisme, tuer des baleines, adopter des bébés, ramasser des dents de lait, faire des achats, se faire tatouer, s'étouffer, embrasser des fantômes. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Loisirs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ânes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Quelqu'un qui aime « l'onolâtrie » aime vraiment, vraiment <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "des ânes, un âne ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385973_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

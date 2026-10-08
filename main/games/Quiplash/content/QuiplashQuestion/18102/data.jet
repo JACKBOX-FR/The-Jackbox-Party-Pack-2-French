@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "dans tes fesses|dans ton cul|dans tes fesses|à l'intérieur des fesses|dans ton cul|à l'intérieur du cul|dans les fesses|dans le cul|fesses|cul ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Du boogie dans tes fesses ? Etes-vous... Eddie Murphy ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un bon endroit pour cacher les crottes de nez ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375051_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375049_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

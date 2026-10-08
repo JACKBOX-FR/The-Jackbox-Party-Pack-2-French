@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'hymne national chinois, la chanson thème de Family Guy, The Macarena, God Bless America, God DON'T Save the Queen, la chanson Sunday Night Football, British Music Stinks, une vidéo Youtube, juste deux gars qui sifflent, le thème de Seinfeld, un discours de Winston Churchill, le son d'une échographie, « Jailhouse Rock », Row, Row, Row Your Boat, le thème du SportsCenter, juste un gars qui crie, un gong frappé encore et encore, un long Phil Mélange Collins ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "100 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le thème de « Bob le bricoleur » ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Curieusement, le single n°1 sur la liste des 100 meilleurs du Royaume-Uni en janvier 2001 était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "le thème de Bob le constructeur, le thème de Bob le constructeur, la chanson thème de Bob le constructeur, Bob le constructeur, la chanson de Bob le constructeur, la chanson de Bob le constructeur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400190_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

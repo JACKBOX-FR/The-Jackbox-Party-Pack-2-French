@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "diverti en faisant tinter les clés|diverti en secouant les clés ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "(effet sonore : cliquetis des touches) Hahahahaha. Ces clés sont géniales ! De quoi parlions-nous ? Oh ouais, c'est vrai. Ménopause. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La meilleure chose à propos d'être vraiment stupide ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378702_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378700_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

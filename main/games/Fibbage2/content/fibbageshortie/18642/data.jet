@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "monstre du loch ness, cerf, russe ivre, chauve-souris, ranger du parc, sasquatch, capybara, sirène, écureuil, chèvre, ours polaire, papillon, cobra, fan, lama, tortue, baseball, OVNI ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pêche ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lapin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Alors qu'il se trouvait sur un bateau de pêche en 1979, l'ancien président Jimmy Carter a eu une étrange altercation avec un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lièvre, lapin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378629_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

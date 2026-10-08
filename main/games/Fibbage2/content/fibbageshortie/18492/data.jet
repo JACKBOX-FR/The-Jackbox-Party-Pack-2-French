@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "surpopulation, cruauté envers les animaux, contrôle des naissances, frais de scolarité élevés, sociétés pharmaceutiques, écoles à charte, alcoolisme, racisme, égalité des droits, agriculture biologique, raffineries de pétrole, pandas, sida, cancer, concours de beauté, loterie, juges locaux, vaccinations ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "activiste",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "la forêt tropicale ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un couple de militants a eu des relations sexuelles sur scène lors d'un festival de musique norvégien en 2004, dans le cadre de leurs efforts de sensibilisation à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "la forêt, sauver la forêt tropicale, sauver la forêt ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377699_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377696_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "deez nut|dees nut|deez nutz|ces noix|ces nutz|dees nutz ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Exactement, car de nombreuses personnes peuvent avoir une allergie dangereuse aux noix. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Il serait effrayant de lire sur un emballage alimentaire : « Peut contenir des oligo-éléments de <BLANK> ». ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377532_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377530_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Purée de monstre ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Monster Mash, où chaque semaine notre héros est confronté au dilemme familier de coucher avec le magnifique médecin loup-garou ou avec la plus belle infirmière momie. Comme un miroir de la vraie vie. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Nommez une série télévisée qui parle d'un médecin vampire. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374169_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374167_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

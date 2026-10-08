@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dinglefishy, bigmouth billy, serpent fou, poisson whoopee, buttfish, requin caca, anguilles paresseuses, truite pet, sautant jerk, poisson twinkie, poisson Hannibal Lecter, étoile de mer électrique, poisson clown triste, willie humide, wedgie, poisson urètre, poisson harceleur, titwittle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Poisson ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bite glissante ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom commun amusant de l’espèce de poisson Halichoeres bivittatus. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398963_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

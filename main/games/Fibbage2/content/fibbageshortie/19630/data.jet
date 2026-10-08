@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crier des obscénités, lancer des tomates, se précipiter sur scène, huer et siffler, dire que Dieu vous bénisse, sangloter fort, lever deux pouces, retourner l'oiseau, danser sur place, rire, tirer la langue, vérifier leur montre, siffler, quitter la pièce, crier \"vous gouvernez!\", sauter de haut en bas, rouler des yeux, pencher les doigts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Femmes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire des mains de jazz ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Parce que certaines personnes se plaignaient du fait que les applaudissements déclenchaient de l'anxiété, les participants à la conférence 2015 des femmes de l'Union nationale des étudiants ont été invités à <BLANK>, plutôt qu'à applaudir, pour montrer leur soutien. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mains de jazz, remise de jazz, main de jazz, fabrication de mains de jazz ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "390506_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390503_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

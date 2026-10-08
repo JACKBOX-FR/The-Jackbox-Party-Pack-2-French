@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "intestins de mouton, coussin de canapé, mixeur, poulet vivant, poussette, patate chaude, sapin de Noël, bâton de dynamite allumé, Slinky, ballon de plage dégonflé, squelette, fauteuil poire, vieux matelas, bâton de jardin, gorille en peluche, rouleau de papier toilette, boîte en carton, téléphone à cadran ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "sport ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tabouret ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Sporthocking est un sport allemand plutôt inhabituel qui consiste à réaliser une variété de tours et de cascades avec un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "volé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "378761_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378758_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

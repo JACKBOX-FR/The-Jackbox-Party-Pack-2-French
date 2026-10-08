@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "produits laitiers, citrons verts, herbe, cheveux, Coca-Cola, cuir, eau, leur propre sang, soleil, exercice, métal, fleurs, riz, chats, odeur de voiture neuve, flanelle, rire, lancinant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cocher ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "viande ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La piqûre de la tique Lone Star a un effet secondaire inhabituel. Cela peut rendre ses victimes allergiques à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "viandes, boeuf, poulet, porc ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "375488_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375485_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

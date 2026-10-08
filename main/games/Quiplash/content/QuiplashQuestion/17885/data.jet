@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Whoopi Goldberg ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, ce ne serait rien d'autre que des histoires sur Sister Act 2. (frissons) ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne voudriez pas partager une cellule de prison avec quelqu'un nommé <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374043_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374041_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis allé faire du deltaplane, je suis devenu commando, j'ai léché des crapauds, j'ai joué à la marelle, j'ai regardé Le Seigneur des Anneaux, je me suis marié, j'ai accouché d'un bébé, j'ai sauvé une baleine échouée, j'ai volé une voiture, j'ai crié toutes les heures, j'ai fait irruption dans un McDonald's, j'ai piraté le Pentagone, j'ai écrasé un mariage, j'ai été kidnappé, j'ai fait irruption dans la maison de Michael Jordan, j'ai couru un marathon, j'ai été enterré, j'ai rencontré Henry Winkler ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "100 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mangé du chipotle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La chose ahurissante que deux hommes – un du Colorado et un de Californie – ont fait chaque jour pendant plus de 100 jours, à partir de 2015. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chipotle, a mangé à Chipotle, avait Chipotle, a mangé du Chipolte, Chipolte, avait Chipolte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430033_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

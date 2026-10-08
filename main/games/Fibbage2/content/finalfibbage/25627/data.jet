@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Patrouille du Prophète, Le 11ème commandement, S'échapper d'Egypte, Héros hébreu, La séparation est un si doux chagrin, Panier bébé, Peste de l'aventure, Tu ne t'ennuieras pas, Escalader la montagne, Soldat de Dieu, Tempête hébraïque, Commandes du Buisson ardent, Arrêtez le pharaon, Les tablettes de la vie, Guidez le panier, Le buisson brûle, Divisez la mer, Rébellion du pharaon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Atari ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Traversée de la Mer Rouge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de l'obscur jeu Atari dans lequel les joueurs guident le personnage biblique Moïse à travers divers obstacles. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430508_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

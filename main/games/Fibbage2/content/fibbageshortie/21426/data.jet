@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un tas de serpents en sortent, personne dedans, lui habillé en femme, elle habillée en clown, un autre cercueil, lui en feu, des cendres, une note d'excuses, un mannequin, des écureuils, des rochers, un épouvantail, une photo de lui, un jack dans la boîte, quelques personnes différentes, un couple, des baisers, des fleurs, une pancarte disant « remplissage temporaire » ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cercueil ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un étranger ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En avril 2015, une famille de Seattle a intenté une action en justice contre une maison funéraire après avoir ouvert le cercueil d'un membre de la famille et trouvé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "quelqu'un d'autre, la mauvaise personne, le mauvais cadavre, le mauvais homme, le mauvais gars, le mauvais corps, une autre personne, quelqu'un d'autre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "405166_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405163_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

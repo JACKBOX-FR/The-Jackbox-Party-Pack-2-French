@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "habillé en licorne, se rasant le torse, endormi, mangeant une dinde entière, chevauchant avec un ours, ne portant qu'une couche, poursuivant un braqueur de banque, un prince Charles déguisé, mort, écoutant des chants de baleines, Carrot Top, couvert de sangsues, tournant un film de James Bond, portant une armure, seulement deux ans, en feu, incapable de s'arrêter, mangeant un sandwich de 20 pieds ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "fourgon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "regarder Le Seigneur des Anneaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En avril 2015, la police du Surrey, en Angleterre, a arrêté une camionnette qui roulait à 60 mph et a été surprise de constater que le conducteur était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "regarder le Seigneur des Anneaux, regarder « Le Seigneur des Anneaux », regarder un film ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "399926_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399923_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

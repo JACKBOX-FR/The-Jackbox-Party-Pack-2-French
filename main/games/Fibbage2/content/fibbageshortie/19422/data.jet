@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "yeux de poulpe, testicules de baleine, cerveaux de chat, crottes de homard, pieds de loutre, cœurs de vache, raie manta bébé, morve de thon, peau de bœuf, poisson-clown perdu, ailes de papillon, foie de cheval, poisson imaginaire, sirène, paupières de porc, utérus de dauphin, encre de seiche, chair humaine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "goûter ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sperme de poisson ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne devriez commander le délice japonais « shiraku » que si vous avez un goût pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sperme de morue, sperme de poisson, sperme de poisson, sperme de morue, sperme de morue, sperme de poisson, sperme de morue ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "385448_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385445_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

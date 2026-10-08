@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "balles de ping-pong, viande séchée, lèvres en cire, magazines Penthouse, bangs, globes oculaires humains, Jell-o, cadavres d'extraterrestres, billes, billets de cent dollars, lettres au Père Noël, acide, abeilles, cerveaux humains, uranium, yaourt grec, sang de Willie Nelson, sirop de chocolat ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "lévrier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sperme de taureau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En août 2011, une autoroute de Nashville a été fermée après qu'un bus Greyhound ait renversé quatre conteneurs de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sperme de taureau, sperme, sperme ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "373196_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "373193_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

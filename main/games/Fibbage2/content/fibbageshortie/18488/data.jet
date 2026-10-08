@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Beaux-enfants, mormons, tyrans, pères divorcés, flics, stagiaires, mamans, PDG, enseignants, tueurs en série, avocats, dentistes, Britanniques, ouvriers d'usine, soigneurs d'animaux, secrétaires, amateurs de comédie romantique, critiques musicaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dentistes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "athlètes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les dentistes de l'hôpital universitaire de Heidelberg ont publié une étude étrange en 2014 qui a révélé que <BLANK> est plus susceptible d'avoir des caries. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "les sportifs, les sportifs lourds, les sportifs, les bodybuilders, les bodybuilders, les rats de gym, les gens qui s'entraînent, les gens qui s'entraînent beaucoup, les gens qui s'entraînent, les gens qui s'entraînent beaucoup ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377603_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377600_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

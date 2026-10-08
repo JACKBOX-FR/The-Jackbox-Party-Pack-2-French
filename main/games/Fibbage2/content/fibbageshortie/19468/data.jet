@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "enfants du milieu, expériences gouvernementales, enfants gâtés, enfants de politiciens, médecins en herbe, amis invisibles, nés en Antarctique, enfants forts, princes, filles, garçons, Allemands, orphelins, enfants attirants, enfants disparus, Estoniens, jeunes stars de l'haltérophilie, morts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "préscolaire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "adultes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Michelle Joni gère une école maternelle unique à Brooklyn. Tous les élèves de l'école maternelle sont <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386645_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "la tête reconnaissante|tête reconnaissante|la tête reconnaissante|tête formidable|tête reconnaissante|grande tête pleine|la grande tête pleine ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "La tête reconnaissante ! Ha! Ouais, la tête reconnaissante est une sorte de shampoing merdique, mais les gens continuent d'en parler longtemps après la douche. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d'un shampoing pour hippies ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378348_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378346_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hick, Baxter, Ick Woods, Leonard, Fatso, Dennis, Harriet, Lick, Prick, Daddy, Boof, Justin, Lil' Pumpkin, Randy, Thor, Mick, Pickles, William Randolph III ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nains ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Quee ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans la pièce de 1912 <i>Blanche Neige et les Sept Nains</i>, les nains s'appelaient à l'origine Blick, Plick, Flick, Whick, Glick, Snick et, curieusement, <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Que ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374279_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

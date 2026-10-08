@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cœur, graisse corporelle, caca, poils du nez, dents, langue, ongles, muqueuse de l'estomac, gros intestin, goobers oculaires, amygdales, foie, poils de la poitrine, évent, nageoire dorsale, danse d'accouplement, cataractes, densité osseuse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "baleine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cérumen ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Comment les scientifiques déterminent-ils l’âge d’une baleine bleue ? Facile. Ils comptent les couches de son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cérumen ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "399854_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399851_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

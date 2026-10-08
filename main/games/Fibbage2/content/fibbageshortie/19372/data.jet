@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des coupures d'ongles, des morceaux de chewing-gum mâchés, des signatures de fans, des bouteilles vides, des t-shirts tachés de sang, des dents, des poils égarés, un sac de vomi, de bons souvenirs, des tickets pour boire, des bâtonnets de corn dog, une tasse de sueur, un microphone tombé, du gravier, des lumières de scène, de profonds regrets, de l'eau de pluie, un pot de soleil ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "eBay ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sac d'air ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un utilisateur d'eBay de Pennsylvanie a sans aucun doute été un peu choqué lorsqu'il a constaté qu'il avait reçu des enchères d'une valeur de plus de 60 000 $ pour le <BLANK> qu'il avait collecté lors d'un concert de Kanye West. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Air, sac d'air, sac d'air en plastique, airbag, sac contenant de l'air, sac plein d'air, sac de rien ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "383981_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383978_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

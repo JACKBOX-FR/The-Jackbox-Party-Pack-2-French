@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mac Attack, Patty Patty Melt Melt, Humungo Mac, Half Mac, McMouthful, I'm Lovin' Mac, MacZilla, McDoubleQuarter, Bigger Mac, Double Quarter Poundest, McGutBuster, Beef Murray, Quarterack, Fatty MacBuckle, Biggie Macs, Pound Puppy, Mickey Mac, Cow Tower ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "échange ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "McKinley Mac ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de « l’élément de menu secret » de McDonald’s créé en remplaçant les galettes de bœuf ordinaires d’un Big Mac par des galettes de deux quarts de livre. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le McKinley Mac, McKinly Mac, McKinley Mack ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "409028_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

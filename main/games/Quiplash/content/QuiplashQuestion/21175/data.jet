@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "baise Thomas Jefferson | vis Jefferson | vis Thomas Jefferson | baise Jefferson | je déteste Jefferson | je déteste Thomas Jefferson ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi dois-tu être jaloux de Jefferson, Abe ? Il est sur le nickel, mais VOUS, vous êtes sur le billet de cinq dollars. Cinq dollars ! Cela fait un pied chez Subway ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "À quoi pense la statue d’Abraham Lincoln alors qu’elle est assise là dans le Lincoln Memorial ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "403086_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "403084_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

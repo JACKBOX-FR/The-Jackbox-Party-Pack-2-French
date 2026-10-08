@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "soutiens-gorge, crêpes, poignards, eux-mêmes, plumes de paon, argent, iPod, canetons, lampes à lave, brosses à dents, attrape-rêves, vaseline, masques d'éléphant, toges, cols roulés, sacs banane, sandales, monocles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "glace ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hamburgers ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au cours de la saison 2015 de la LNH, les Sénateurs d'Ottawa ont dû demander à leurs partisans d'arrêter de lancer <BLANK> sur la glace. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396011_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396008_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

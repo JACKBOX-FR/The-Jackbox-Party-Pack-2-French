@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frapper un lâche, cracher sur un libéral, noyer un âne, déshabiller son oncle, brûler un livre, lancer du poulet, reconstituer la crucifixion, les strip-teaseuses catholiques, la lutte au Jello, une tombola ivre, la décapitation de tortues, une vente aux enchères de sourds, des relookings pour les pauvres, une soirée casino, une vente aux enchères de célibataires, des frites de poisson et du foie gras, un stand de fût, une danse sale pour Dieu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "collecte de fonds ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lutte de cochons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après que 81 000 personnes ont signé une pétition leur demandant d’arrêter, la paroisse Saint-Patrick de Stephensville, dans le Wisconsin, a mis fin à son traditionnel événement annuel de collecte de fonds qui consistait en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cochon rasslin', cochon rassling, gros wrasslin', pu wrassling, cochons de lutte, les gens luttent contre les cochons, les humains luttent contre les cochons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404875_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

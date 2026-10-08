@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "fontaines à eau, cabines, téléphones à haut-parleur, poissons au micro-ondes, mémos, fêtes de bureau tristes, jargon des affaires, télécopieurs, tailleurs-pantalons, mèmes, photocopieuses, retraites d'entreprise, avis d'employés, intérimaires, exercices de team building, soft rock, bureaux debout, chaises boule ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bureau ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "PowerPoint ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Représentant les employés de bureau du monde entier, Matthias Poehm organise un mouvement international et un parti politique axés sur le bannissement de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "PowerPoint, présentations Powerpoint, présentations PowerPoint ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "382604_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "382601_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

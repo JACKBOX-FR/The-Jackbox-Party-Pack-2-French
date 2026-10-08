@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mets une botte dans ton cul, expert en crétins, mange mes fesses, embrasse mes fesses, T.P., je suis avec les stupides, reste calme et caca, sens ça, suce-le, les perdants, tu ne peux pas gérer ça, meurs, espèce d'écume de yankee, plateau de caca, le sud se lèvera à nouveau, parle à la main, prends une photo, ça dure plus longtemps, beaucoup jaloux, tire mon doigt, je m'en fous merde ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "déféquer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "laisser tomber une charge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La dame qui a été arrêtée pour avoir déféqué dans une boîte d'étiquettes de sécurité à l'intérieur d'un K-Mart du Wisconsin portait un t-shirt sur lequel on pouvait lire de manière appropriée : « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "397379_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397376_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

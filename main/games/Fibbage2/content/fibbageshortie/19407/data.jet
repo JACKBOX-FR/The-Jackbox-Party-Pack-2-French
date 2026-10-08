@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une grange, un manoir, une cabane tiki, un cocon, une voiture, une église, un avion, une remise à outils, une tente, une capsule de sauvetage, un vaisseau spatial, un lit de fleurs, une grotte, un fort, une cabane dans les arbres, une dépendance, une cascade, une statue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heidi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un igloo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Élevant la barre pour les hommes partout, Seal a proposé à Heidi Klum à l'intérieur de <BLANK>, qu'il a lui-même construit. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "igloo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "385088_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385085_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

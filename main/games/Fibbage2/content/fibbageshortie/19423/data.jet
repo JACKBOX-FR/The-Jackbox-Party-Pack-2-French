@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "meilleurs amis, annuaires, robots parlants, faux conjoints, pots d'Oreos, vélos tandem pour une personne, hoverboards, découpes en carton de célébrités, casques de réalité virtuelle, une bande de fêtards, copains câlins, journaux intimes d'adolescentes, <i>C'est une vie merveilleuse</i>, réservoirs de privation sensorielle, singes auxiliaires, judas, chats, Lamborghini ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Solitude ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poisson rouge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Désireux de renverser ce froncement de sourcils, le Happy Guest Hotel Lodge dans le Cheshire, au Royaume-Uni, loue <BLANK> aux clients solitaires de l'hôtel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "poisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385469_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

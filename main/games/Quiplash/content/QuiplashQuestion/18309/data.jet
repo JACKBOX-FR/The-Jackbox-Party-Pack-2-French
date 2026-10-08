@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "crottes de nez ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Des crottes de nez. Oui, ce sont les trois choses. Mort, impôts et crottes de nez. Le soleil pourrait disparaître, la gravité pourrait inverser sa direction. Mais des crottes de nez. Des crottes de nez sur lesquelles vous pouvez compter. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses sont certaines dans la vie : la mort, les impôts et <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376371_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376369_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

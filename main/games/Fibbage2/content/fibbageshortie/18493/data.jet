@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "prie,église,viens,dieu,salut,enfer,jésus,péchés,s'agenouiller,chanter,Wilkommen,pow,faire un don,repentez-vous,miaou,yahoo,bazinga !,bonjour ? ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Cathédrale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dong ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "@koelner_dom, le compte Twitter de la cathédrale de Cologne en Allemagne, ne tweete qu'un seul mot à ses milliers de followers. Ce mot est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377723_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377720_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

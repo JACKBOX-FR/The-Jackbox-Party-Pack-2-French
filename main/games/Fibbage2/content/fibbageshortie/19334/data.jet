@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les faire bouillir, les avaler, les vendre contre monnaie, les donner à manger aux lapins, les peindre en vert, les enterrer, les coller au frigo, les rincer, les mettre sous le matelas, les donner à leurs grands-parents, les écraser, les brûler, les déposer dans une banque, les porter à une chaîne, les blanchir, les jeter à la mer, danser autour d'eux, leur mettre le nez dans le nez ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "les dents ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jette-les sur le toit",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au lieu de mettre des dents de lait sous l'oreiller pour la Fée des Dents, il est conseillé aux enfants grecs de prendre leurs dents de lait et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jetez-les sur leur toit, jetez-les sur leur toit, jetez-les sur le toit, jetez-les sur le toit, jetez-les sur le toit de leur maison, jetez-les sur le toit de leur maison, jetez-les sur le toit de leur maison, jetez-les sur le toit de leur maison, jetez-les sur le toit de la maison ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "383591_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

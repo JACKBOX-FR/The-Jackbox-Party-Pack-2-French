@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "excréments de chèvre, poils des aisselles, ongles des pieds, chair de troll, bois de renne, roadkill, peaux d'écureuil, couches pour bébés, saleté, pénis de cerf, serviette de plage, tapis à poils longs, rat, trèfle, fromage bleu, saumon, œufs, quinoa ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bière ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "testicules de baleine fumés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant une durée limitée en 2015, la microbrasserie Stedji en Islande a vendu une bière à la sonorité désagréable et aromatisée au <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "boules de baleine, testicaled de baleine, boules de baleine fumées, noix de baleine, noix de baleine fumées ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "382871_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

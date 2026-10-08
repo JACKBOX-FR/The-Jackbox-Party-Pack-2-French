@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chats, YouPorn, femme de ménage, belle-mère, préscolaire, Pandora, covoiturage, baby-sitter, frigide, bourreau de travail, Viagra, anal, oral, herbe, thérapeute, toilettes, vaisselle, maux de tête ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "divorcer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Facebook ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon Divorce-Online, un service juridique britannique, un tiers de toutes les demandes de divorce en 2011 contenaient le mot <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381995_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381992_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

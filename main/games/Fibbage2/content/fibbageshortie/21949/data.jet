@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une lampe, le fantôme de Charles Dickens, sa marionnette chaussette préférée, son ami imaginaire, une fillette de cinq ans, Samuel L. Jackson, une bouteille de scotch, son poisson rouge de compagnie, Dark Vador, sa toupet, le juge, Paul Simon, Seth Rogen, l'homme Kool-Aid, un sac de billes, une poupée Bratz, La Lune, Tyrion Lannister ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "avocat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une chouette en peluche ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme d'Aspen a choqué toute une salle d'audience lorsque, lors d'une audience le 19 mai 2015, il a annoncé qu'il nommerait <BLANK> comme avocat de la défense. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "410573_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "410570_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "avoir une enclume qui lui tombe sur la tête, péter, une bousculade, de l'eau froide jetée sur elle, des éternuements, une secousse violente, un lézard magique, un oiseau qui fait caca sur elle, de la pluie, un sorcier, un câlin d'un homme laid, un éclair, un arc-en-ciel, une réaction allergique au foin, une chanson, un rat, une cruche d'hydromel, un gaz nocif ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "conscience ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vomir la pomme ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans la version originale de <i>Blanche Neige et les Sept Nains</i>, Blanche Neige ne reprend pas conscience par un baiser du prince, mais plutôt par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vomir la pomme, vomir la pomme, vomir, vomir, vomir la pomme empoisonnée, vomir la pomme empoisonnée, vomir la pomme empoisonnée, vomir la pomme empoisonnée ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431696_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bateau, nain, cochon, os, ballon chasseur, table de billard, maison, clown, barbe à papa, four, bacon, bouse, piano, mime, aubergine, porc-épic, scientifique, taxi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nouvel An ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Opossum ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le prochain réveillon du Nouvel An, faites un voyage dans la ville de Brasstown, en Caroline du Nord et célébrez la nouvelle année avec leur « <BLANK> Drop » annuel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Opossum,Oppossum,Opposum,Posum ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "417117_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417112_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

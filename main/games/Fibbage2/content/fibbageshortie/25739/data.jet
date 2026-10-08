@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aller au DMV, goûter leur nourriture, aller à des rendez-vous, pleurer, aller à des funérailles, se faire tabasser, servir dans l'armée, regarder des films, sauter en parachute, manger des choses dégoûtantes, faire la queue, parler à des proches, se faire tirer dessus, faire semblant d'être leur enfant, mimer des reportages, s'habiller comme des parents décédés, se faire enterrer, insulter les gens ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dérangeant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aller en prison ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En Chine, il existe une pratique inquiétante appelée « ding zui », selon laquelle les riches paient quelqu'un pour <BLANK> pour eux. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "aller en prison, être emprisonné",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431821_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

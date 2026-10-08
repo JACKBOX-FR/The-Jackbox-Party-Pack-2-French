@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cactus, crottes de chauve-souris, mamelons, ongles de pieds, mucus, excrétion de grenouille, poils du dos, verrues, glandes des aisselles, salive, anus de porc, testicules, grains de beauté, caleçons, insectes, venin de serpent, poissons morts, bactéries de la barbe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "crème ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "prépuces ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vavelta est le traitement anti-rides parfait pour les personnes qui n'hésitent pas à s'enduire le visage avec une crème dérivée de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "prépuce,forskins,forskin,prépuces de bébé,prépuces de bébé,forskin de bébé,prépuces de bébé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404782_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404779_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "je suis fou ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "J'ai... l'impression que \"je suis fou\" est sous-entendu. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Votre slogan personnel si vous étiez dans l'une de ces émissions <i>Real Housewives</i> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374931_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374929_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

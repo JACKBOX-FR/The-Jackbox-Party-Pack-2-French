@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'étoile de la mort, le majeur, une bouteille de soda, la scène éclatante d'Alien, une tortue géante, Michael Jordan en train de se tremper, Marilyn Monroe, un iceberg, un bol de salade, un ananas, Donkey Kong, des kangourous, The Scream, un arbre géant, un cornet de glace, l'école de Saved By The Bell, une loutre, un canard géant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "luxe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le corps de Beyoncé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon les architectes, la forme et le design uniques d'un nouveau gratte-ciel de luxe situé au 134 Spencer St. à Melbourne, en Australie, ont été partiellement inspirés par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "429786_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "429783_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

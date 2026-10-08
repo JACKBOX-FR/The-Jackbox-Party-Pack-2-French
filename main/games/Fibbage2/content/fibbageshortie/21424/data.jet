@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gros cul, rot malodorant, pénis de buffle, enlèvement extraterrestre, marée noire, délivrance, butte qui fuit, trou de glace, pomme de terre géante, dynamite Napoléon, testicule de dinde, Dingleberry, LSD, allée des cauchemars, sexe de serpent, gros fou, Buttman, lavage de langue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "camper ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Castor Bite ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La prochaine fois que vous serez près de Rexburg, dans l'Idaho et que vous chercherez un endroit pour camper, faites un tour sur l'autoroute 33 et plantez une tente dans le parc <BLANK> au nom étrange. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "425677_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405115_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

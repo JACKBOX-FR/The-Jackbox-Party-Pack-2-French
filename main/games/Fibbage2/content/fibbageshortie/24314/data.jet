@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "allumer un feu, démarrer une voiture, guérir l'asthme, planer, faire du fudge, redémarrer un cœur, drainer le sang, dégonfler des montgolfières, respirer dans l'espace, fumer un bon cigare, voler de l'essence, concevoir un gâteau, nettoyer une crevasse, sauver une victime étouffée, enlever une écharde, déboucher un drain, se détendre pendant l'accouchement, nettoyer une trompette ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "sucer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "attraper des bugs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si un « pooter » était utilisé aux fins prévues, quelqu'un sucerait ce pooter afin de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "piéger les insectes, piéger les insectes, attraper un insecte, attraper un insecte, piéger un insecte, piéger un insecte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "422317_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "422314_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

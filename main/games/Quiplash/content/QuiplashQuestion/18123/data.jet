@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "UBec40",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Écoutez, je vais juste vous donner du crédit pour UBeak40. C'est assez intelligent. Je veux dire, bien sûr, j’y ai pensé, mais je ne m’y attendais pas de ta part. Bien joué. UBec40. UBec40. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Nommez un nouveau groupe de reggae entièrement composé de poulets ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375114_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375112_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

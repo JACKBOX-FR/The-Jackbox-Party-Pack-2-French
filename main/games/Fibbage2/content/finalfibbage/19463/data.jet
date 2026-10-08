@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Horsin' Around, The Whack Stallion, Beef Jockey, Giddy Up, M. Fed, Saddle Cup, Bareback Jerky, Food Stable, Stale-ions, The Triple Frown, And They're Off, Hooves of Love, Mustang Sally, Horse of Course, Belmont Steaks, Arkansas Jerky, Horse UNradish, Horse Chews ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "saccadé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mon poney fragile ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de la viande de cheval séchée fabriquée par Cowley's Fine Foods. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "386528_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386525_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

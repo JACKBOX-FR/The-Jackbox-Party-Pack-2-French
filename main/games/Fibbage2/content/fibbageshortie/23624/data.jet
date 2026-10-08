@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chien, criminel, girafe, lion, caca, tigre, cobra, hamster, chat, rat, perroquet, gardon, cheval, limace, anguille, baleine, toge, raisin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "gueule de bois ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "canari ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les anciens Romains qui étaient trop ivres et se réveillaient avec la gueule de bois tentaient souvent un étrange remède. Ils mangeraient un <BLANK> frit. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "des canaris, un canari, des canaris, un canari, un canari ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415362_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

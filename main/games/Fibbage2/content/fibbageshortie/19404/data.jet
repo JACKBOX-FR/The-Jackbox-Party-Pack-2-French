@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "20 000 $, un éléphant, un jet, des fantômes sympathiques, des appareils en or, des gardes du corps, des requins de compagnie, un avocat, 10 000 chèvres, des médicaments gratuits, une réserve de yaourt glacé à vie, un travail, des cours de piano, un enfant, une harpe, un poème personnel, un bus, un DJ ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "incitation ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "elle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mettant sa maison sur le marché en 2015, une Indonésienne a offert une incitation unique aux acheteurs potentiels. Si vous achetez la maison, elle est livrée avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Wina Lie, sa main en mariage, moi ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384989_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "trois tétons|il a trois tétons|a trois tétons|3 tétons|il a 3 tétons|a 3 tétons|un téton supplémentaire|a un téton supplémentaire|a un téton supplémentaire|il a un téton supplémentaire|troisième téton|un troisième téton|a un troisième téton|il a un troisième téton ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, il vient de couper son troisième mamelon. Il faut environ trois jours pour repousser. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un fait peu connu sur le Jolly Green Giant ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "380322_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "380320_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

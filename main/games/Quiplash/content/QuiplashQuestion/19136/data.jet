@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "aller commando|aller commando|nu sous la robe|devenir nu sous la robe|nu sous leur robe|nu sous leurs robes|devenir nu sous leurs robes|devenir nu sous leur robe|devenir sans pantalon|sans pantalon|sans pantalon sous la robe|sans pantalon sous les robes|devenir sans pantalon sous leurs robes|devenir sans pantalon sous leur robe|pas de pantalon|pas de pantalon sous la robe|pas de pantalon sous les robes|pas de pantalon sous leurs robes|pas de pantalon sous les robes ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, mais avec le juge Scalia, ce n’est pas une farce pour lui de se mettre sans pantalon. Il est tout simplement difficile de trouver des pantalons de taille Scalia. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une farce que les juges de la Cour suprême se font probablement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "381927_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "381925_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

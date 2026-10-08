@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "machine à écrire, machine, clé, parapluie, timbre-poste, calculatrice, vélo, hélice, agrafeuse, plan, machine à laver, goupille de sécurité, ascenseur, mitrailleuse, plastique, ouvre-boîte, sifflet coulissant, cuillère-fourchette ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "moqué ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "machine à glace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Dr John Gorrie a été moqué par la presse pour son invention du <BLANK> en 1851, et il a fini par mourir avant que son idée ne fasse son chemin. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "machine à glaçons, machine à glaçons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "431649_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431646_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ragoût de bœuf, kimchi, goulasch, hachis de corned-beef, haggis, pierogi, chaudrée de palourdes, truite, tabouli, betteraves, choucroute, crevettes, foie gras, foie, pigeonneau, BLT, langue de vache, sandwich au thon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "barf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pizza aux quatre fromages ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La saveur expérimentale que Jelly Belly ne pouvait pas obtenir, elle a donc finalement été transformée en saveur « barf ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pizza au fromage, pizza aux 4 fromages ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384482_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

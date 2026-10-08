@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sang, lait, grenouilles, oiseaux, alcool à friction, balles de golf, feu, sirop d'érable, acide, pommes de pin, boules de gomme, poisson, serpents, pommes, iPod, cacahuètes d'avion, urine, mouches mortes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "il pleut ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vers de terre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, des scientifiques déconcertés se sont rassemblés près de Bergen, en Norvège, pour découvrir pourquoi il pleuvait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "403964_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

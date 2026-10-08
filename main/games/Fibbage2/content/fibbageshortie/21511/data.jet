@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "s'est immolé par le feu, s'est coupé un téton, a commencé une polka, a bu de l'essence, a commencé à citer l'Iliade, a résolu une équation impossible, a été lancé dans l'espace, a sauté dans un égout, s'est fait opérer, a été assigné par la police, s'est endormi, a marché sur une corde raide, est parti sur un lion, a frappé en latin, a baratté du beurre, a appelé le Premier ministre, a disparu dans les airs, a été attaqué par un crocodile. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "rap ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "j'ai mangé un coeur de cochon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le rappeur britannique Big Daddy Bleach a porté son personnage sur scène à un autre niveau lorsqu'au milieu d'une bataille de rap, il <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "coeur de cochon",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "407202_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407199_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

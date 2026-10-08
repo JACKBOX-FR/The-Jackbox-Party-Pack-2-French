@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pendentifs ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Les pendentifs sont super ! Je commande toujours juste un tas de cornichons frits dans un sac à emporter. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d'une version entièrement masculine de Hooters",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377181_2",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377179_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

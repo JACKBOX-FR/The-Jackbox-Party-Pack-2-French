@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mourir de faim, embrasser un parent, manger un rat, sauter d'un avion, attraper le paludisme, mourir, combattre un ours, se perdre dans le désert, être nu en public, perdre tout son argent, détruire sa voiture, se faire botter par un cheval, devenir chauve, être hanté, aller à l'église, vivre sans eau, abandonner sa voiture, mourir seul ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "câble ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "perdre un doigt ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une enquête récente menée par le câblo-opérateur britannique Cable.co.uk a révélé que près d'un tiers des personnes interrogées préféreraient <BLANK> plutôt que de perdre l'accès à Internet haut débit. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "couper un doigt, couper un doigt, couper un doigt ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "409182_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

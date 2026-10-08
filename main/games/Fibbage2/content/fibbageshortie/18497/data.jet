@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "symbole de l'anarchie, furet vivant, robe de bal, speedo, soutien-gorge, string, cible, chemise Ben Laden, costume Kanye West, robe de viande, casque de bière, pull de prisonnier, tenue de mineur, peau d'ours, collier de chien, casque anti-émeute, manteau de vison, préservatif ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tenue ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gilet pare-balles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors du défilé Adidas de Kanye West en 2015, sa fille de 20 mois, North West, a été aperçue portant une tenue controversée. Elle portait un petit <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gilet pare-balles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377819_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377816_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "éructations, craquements des articulations, saut en parachute, marcher sur le feu, avaler une épée, lutter contre un ours, être mort, être couvert de serpents, avoir une barbe d'abeille, souffler sur le mont. Dew, monter un taureau, écouter du jazz, ne pas respirer, vivre à l'intérieur d'une baleine, courir à reculons, jouer à Pac Man, manger des poivrons fantômes, passer du temps sur un dunk ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "trois ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sexe de panda ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 3 avril 2015, un nouveau record du monde passionnant a été établi. Dix-huit minutes et trois secondes constituent désormais la durée la plus longue jamais enregistrée pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "accouplement de pandas ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "398246_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398243_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

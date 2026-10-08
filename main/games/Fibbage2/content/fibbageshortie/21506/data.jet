@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "morsures de serpents, blessures par balle, divorces, bousculades de rhinocéros, coups de couteau, matchs de boxe professionnelle, accès de cancer, attaques d'hippopotames, pendaisons, poisons, accidents de train, coups de boulets de canon, pianos tombant sur lui, accès de paludisme, attaques à l'acide, étouffements, lance-flammes, effondrements de bâtiments ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hemingway ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "accident d'avion ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Fait réel : Ernest Hemingway était si viril (ou chanceux) qu'il a survécu à deux <BLANK> différents jours consécutifs en 1954. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un avion s'écrase ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407079_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

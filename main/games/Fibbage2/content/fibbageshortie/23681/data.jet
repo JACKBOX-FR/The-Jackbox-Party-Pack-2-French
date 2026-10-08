@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cinéma, bowling, crèche, boutique Po'boy, banque, école publique, parc aquatique, hôpital, ferme Gator, club de jazz, usine de cigarettes, magasin de chaussures, distillerie de whisky, salon de coiffure, usine de sauce Tabasco, patinoire, fromagerie, arcade de jeux vidéo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "prisonniers ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Terrain de golf ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une fois en Louisiane, sortez des sentiers battus et visitez le pénitencier de l'État de Louisiane, également connu sous le nom d'Angola. La prison dispose d'un <BLANK> pleinement opérationnel, géré par des prisonniers et ouvert au public. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Golfe,golf corse,golfe corse ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "416792_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416787_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

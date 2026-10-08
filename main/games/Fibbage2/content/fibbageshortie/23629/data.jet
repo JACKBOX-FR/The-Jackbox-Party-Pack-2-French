@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "oeufs crus, yeux de cheval, porcs entiers, morceaux de soufre, rouleaux de papier de latrine, ongles coupés, billes, vessies de vache, cuillerées de son propre sang, plumes de dinde, caleçons, cornes de taureau broyées, baies de pruche, intestins de morse, pelures de banane, touffes de ses propres cheveux, billes, serviteurs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bouleversé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pages de la Bible ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'empereur éthiopien Ménélik II avait un remède inhabituel contre les maux d'estomac. Chaque fois qu’il se sentait mal, il en mangeait quelques <BLANKS>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pages bibliques, pages de l'Écriture, pages de l'Écriture, pages de l'Écriture, pages de l'Écriture, pages de la Bible, pages de l'Écriture ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415487_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

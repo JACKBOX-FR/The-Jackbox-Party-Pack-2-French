@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le XXX Bowl, jeu de championnat X, championnat Xtreme, meilleur super bowl, The Ultimate Bowl, The Toilet Bowl, The Crazy Bowl, X Bowl, The Humongous Game, champ camp, The Game of Champions, jeu fou, The Game-o-Rama, méga championnat XFL, le jeu le plus cool, Blooper Bowl, grand jeu playz, The Milk Bowl ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "XFL ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Grand match à la fin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom original du jeu de championnat de la XFL, avant qu'il ne soit changé en Million Dollar Game. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grand match de fin de saison,Le grand match de fin de saison,Le grand match de fin de saison ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "425491_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

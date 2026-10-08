@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tenir des armes à feu, obèse, renverser l'oiseau, vomir, voler des bonbons aux bébés, atterrir sur la lune, s'embrasser avec des mouffettes, braquer des banques, dans des cercueils, sans armes, habillé en clown, être exécuté, en couches, au lit, fumer 100 cigarettes à la fois, sombrer dans des sables mouvants, serrer la main d'Hitler, être poursuivi par des abeilles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "art numérique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "assis sur les toilettes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'artiste italienne Cristina Gugerri a créé une série provocante d'œuvres d'art numérique représentant divers dirigeants mondiaux et religieux. Dans chaque œuvre d’art, les leaders étaient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sur les toilettes, sur les toilettes, sur les toilettes, sur les chiots, aller aux toilettes, utiliser les toilettes, faire caca, utiliser les toilettes, sur les toilettes, s'asseoir sur les toilettes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396995_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396992_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

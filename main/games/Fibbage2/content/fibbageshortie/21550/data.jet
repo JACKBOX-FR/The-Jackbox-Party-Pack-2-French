@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "être en prison, être du sexe opposé, voyager dans l'espace, le noyau de la Terre, avoir un bébé, être sous LSD, une invasion extraterrestre, avoir des super pouvoirs, vivre dans la Rome antique, être enlevé, avoir des relations sexuelles avec soi-même, être nu en public, prononcer un discours, être président, être une célébrité, être un chien, explorer le fond de l'océan, être un bébé ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "simulateur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "être incinéré ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Envie de vacances amusantes ? Découvrez le parc d'attractions Window of the World à Shenzhen, en Chine. Là, vous pouvez monter sur The Samadhi Game, un simulateur qui permet aux visiteurs de découvrir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vos funérailles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "426898_1",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407872_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

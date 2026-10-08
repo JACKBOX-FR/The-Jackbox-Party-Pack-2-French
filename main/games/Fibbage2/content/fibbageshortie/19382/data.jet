@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des caddies, des parapluies, des taxis, des scooters, une boussole, des rollers, des écouteurs, une carte, des fauteuils roulants, un pousse-pousse, un chien d'aveugle, des cannes, des voitures télécommandées, des talons hauts, des planches à roulettes, une assistance, un baladeur, une radioamateur. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "trottoir ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "téléphones portables ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Chongqing, en Chine, est un endroit inhabituel car il possède une voie de trottoir réservée spécifiquement aux personnes qui utilisent <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "téléphones portables,leurs téléphones portables,téléphones portables,leurs téléphones portables,leurs téléphones portables,le téléphone,leur téléphone,leurs téléphones,un téléphone portable,un téléphone portable,un téléphone,un téléphone portable,un téléphone portable,un téléphone portable ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384218_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

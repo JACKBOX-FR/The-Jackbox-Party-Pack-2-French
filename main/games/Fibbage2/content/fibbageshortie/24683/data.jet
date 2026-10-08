@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bananes, fenêtres ouvertes, pantalons, araignées microscopiques, puzzles, flèches, ordinateurs, aliments en forme de tarte, moutarde, calendriers, beurre, personnages fictifs, gouvernement, parachutes, éruptions cutanées, chats, chèvres, zones clôturées ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "peur",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le beurre de cacahuète colle au palais ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'arachibutyrophobie est un trouble dans lequel une personne éprouve une peur irrationnelle de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "beurre de cacahuète collant au toit de sa bouche, beurre de cacahuète collant au toit de sa bouche, bouche au beurre de cacahuète collant, bouche au beurre de cacahuète ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "424544_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424539_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

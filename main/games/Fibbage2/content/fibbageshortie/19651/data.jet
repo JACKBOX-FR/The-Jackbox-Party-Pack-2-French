@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "danser, jongler, perdre leurs cheveux, perdre l'appétit, vomir, voir mieux, commencer à danser spontanément, aller à la selle, uriner, devenir super intelligent, roter, se tenir, parler anglais, avoir des convulsions, se lever, tirer la langue, aboyer comme des chiens, faire des culbutes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "rats ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avoir des érections ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le professeur Martin Fussenegger de l'École polytechnique fédérale de Zurich a réalisé une percée scientifique inhabituelle lorsqu'il a découvert comment rendre les rats <BLANKS> en les éclairant d'une lumière bleue. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "avoir des érections instantanées,avoir une érection,avoir des érections,avoir une érection,avoir des érections,avoir une érection,avoir une érection,ériger ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "391010_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "391007_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

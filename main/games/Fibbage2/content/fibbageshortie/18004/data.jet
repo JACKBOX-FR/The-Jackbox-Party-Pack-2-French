@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "essence, médicaments contre la toux, herbe fraîchement coupée, odeur corporelle, déodorant, boules à naphtaline, bacon, grand-mères, succès, pop-corn, un vieux gant de baseball, une forêt, cigarettes, argent frais, cible, vieux livres, crème solaire, colle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tissu ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "whisky ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’école de textiles et de design de l’université Heriot Watt a créé un tissu qui dégage l’odeur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "whisky,bourbon,scotch ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "374612_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374609_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "tout le monde est adopté|tout le monde est adopté|tout le monde est adopté|tout le monde est adopté ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "C'est ça ? Tout le monde est adopté ? Oh ouais, ce serait terrible ! Dites ça aux enfants de l’orphelinat, pourquoi pas ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le pire secret de famille qui puisse être révélé lors du dîner de Thanksgiving ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375450_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375448_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

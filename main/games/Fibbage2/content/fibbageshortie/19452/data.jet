@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crier, vomir du sang, s'unir pour former une fourmi géante, s'envoler, devenir invisible, tirer des lasers depuis les fesses, s'embrasser, sentir le bacon, se geler, briller en vert, devenir radioactif, rétrécir, commencer à danser, faire éternuer le prédateur, se mettre à pleurer, manger sa propre tête, essayer de faire rire le prédateur, ignorer le danger ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "défense ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "exploser ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les fourmis malaisiennes possèdent un mécanisme de défense unique. Lorsqu’ils sont menacés, ils <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "exploser, exploser ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386237_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

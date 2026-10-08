@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "drapeau, tumbleweed géant, roche, cheval sans cavalier, vase, boule carrée, langue de vache, chien, cactus, sac d'opium, disque, chat, gant, beignet, pomme de terre au four, voiture, chaussure, réservoir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "chevaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chèvre sans tête ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le sport national en Afghanistan est le « buzkashi », dans lequel des joueurs à cheval tentent de déplacer un <BLANK> dans la zone de score. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chèvre, carcasse de chèvre, chèvre décapitée, cadavre de chèvre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380168_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

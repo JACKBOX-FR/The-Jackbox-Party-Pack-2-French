@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a été kidnappé, a été heurté par un pousse-pousse, a trébuché dans du ciment humide, s'est perdu, est entré dans une assiette de verre, a été interviewé par l'équipe de presse locale, a été agressé, est mort de froid, a gagné à la loterie, a été ramassé par un hibou, a causé un énorme accident de voiture, s'est fait tirer dessus avec un paintball, a été arrêté, a avalé une araignée géante, a été attaqué par des abeilles, est entré dans un râteau, a pris feu, a eu une crise cardiaque ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "agoraphobie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "est tombé dans un trou d'égout",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, une femme du West Sussex, au Royaume-Uni, qui souffre d'agoraphobie sévère - une peur de sortir - a finalement eu le courage de quitter sa maison. Et bien sûr, une fois qu’elle était là-bas, elle <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "est tombé dans un trou d'homme, est tombé dans un trou d'homme, est tombé dans un trou d'homme, est tombé dans un trou d'homme ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404238_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

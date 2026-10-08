@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "sans talent|pas de talent ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Allez! Vous ne pensez pas qu'un gros butin est un talent ?! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Nommez un parfum de bougie spécialement conçu pour Kim Kardashian ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374127_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374125_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

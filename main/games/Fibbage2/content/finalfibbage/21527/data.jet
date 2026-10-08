@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Général Dumb Ass, Capitaine Moron, Toujours abandonne Ridgway, Général Dickweed, Pantalon de pet général, Vieux visage de crotte de nez, M. Pas de médailles, Dwight D. Nevershowers, Vieille chatte saule, Capitaine kangourou, Vieux sang, tripes et fleurs, Les latrines de fer, L'homme aux fesses d'or, Le soldat qui chante doucement, Facile pour les yeux Ridgway, Boules de laiton générales, Vieux perforateur de réservoir, Caca bruyant chemin de crête ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "héros ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vieux seins de fer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'étrange surnom donné au héros de la guerre de Corée, le général Matthew Ridgway, par ses hommes. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vieux seins de fer, vieux coffre de fer, vieux seins de fer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407583_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

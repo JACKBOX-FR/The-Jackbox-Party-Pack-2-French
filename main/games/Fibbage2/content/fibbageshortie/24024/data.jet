@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bronzer, mettre une pancarte à vendre, promener le chien, tondre la pelouse, faire un barbecue, tirer des cerceaux, tailler les buissons, nourrir les écureuils, planter des fleurs, vérifier le courrier, faire voler un cerf-volant, arracher les mauvaises herbes, peindre le garage, nourrir les oiseaux, bronzer, laver la voiture, jouer au football, jouer à la marelle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pomme de terre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ratisser les feuilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme du Nouveau-Mexique a été arrêté après être entré dans la maison d'un étranger, avoir préparé une pomme de terre au four, puis - après avoir été découvert et invité à partir - être sorti pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ratisser les feuilles, ratisser la pelouse, ratisser la cour ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "421212_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voir les Beatles, mourir d'une overdose de cupcakes, écrire une chanson rock, utiliser un Snuggie, s'enflammer spontanément, être enlevé par des extraterrestres, manger un dîner télé, porter une couche pour adulte, vivre dans une caravane, être gracié par le président, gagner à la loterie, donner naissance à des octuplés, ronfler, être enrôlé dans la WNBA, voir Spoutnik, recevoir la RCR, utiliser un réveil, avoir un numéro de sommeil ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "canapé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "être frappé par une météorite ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En novembre 1954, Ann Hodges, de l'Alabama, était en train de faire une sieste sur son canapé lorsqu'elle est entrée dans l'histoire en tant que première personne confirmée à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "frappé par un météore, météorite, être touché par un météore, être touché par une météorite, être touché par un météore ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431521_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

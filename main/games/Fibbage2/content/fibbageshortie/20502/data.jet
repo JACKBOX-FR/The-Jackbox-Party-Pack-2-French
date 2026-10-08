@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "avait des seins plus gros, des moustaches de chat, un cou plus long, était dans un sac mortuaire, avait eu une greffe du foie, avait changé de sexe, avait une petite fille, avait un sourire plus éclatant, avait un nez plus petit, avait un cœur de singe, avait un nouveau menton, avait 10 millions de dollars, avait un mandat d'arrêt contre elle, était à sa fête d'anniversaire surprise, s'était fait retirer une araignée de l'oreille, était en Argentine, avait été laissée dans la ruelle, n'était qu'une tête ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "opération ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "j'ai eu un nouvel anus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mars 2008, une retraitée allemande s'est rendue dans une clinique de Hochfranken, en Bavière, pour une opération à la jambe, mais à son réveil, elle a découvert qu'elle <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "j'ai eu de nouvelles fesses, j'ai eu un nouveau cul, j'ai eu un nouveau rectum, j'ai eu un nouveau trou du cul, j'ai eu une greffe de fesses, j'ai eu une greffe d'anus ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "399158_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399155_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

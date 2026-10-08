@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vodka, jus de palourde, citrouille, whisky, sirop, V8, eau pour hot dog, noix de coco, sauce barbecue, jus de cornichon, Kool-Aid, cidre, saké, café, chocolat chaud, kimchi, margaritas, Tang ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "gazéifié",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lait ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour une raison étrange, des scientifiques en alimentation de l'Université Cornell ont contribué à créer une boisson gazeuse <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "laiteux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379469_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "huit pieds de haut, mort, un donneur de cerveau, un homme, capable de conduire un semi-remorque, incapable de conduire la nuit, originaire d'Alaska, un général de l'armée, un criminel reconnu coupable, stupide, Tammy Buttface Lemasters, née il y a 123 ans, un animal de ferme, incapable de conduire seul, six cents livres, une licorne, un bébé de deux ans, analphabète ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "DMV ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un prédateur sexuel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, une femme de Floride âgée de 42 ans a eu une expérience particulièrement mauvaise avec le DMV. Plusieurs jours après avoir reçu son permis de conduire, elle a remarqué qu’il était incorrectement indiqué qu’elle était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pédophile, pédophile, prédateur sexuel, délinquant sexuel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "407851_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407848_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

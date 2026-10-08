@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dormir, manger, un câlin, parler, des vêtements, uriner, péter, toucher humain, faire sourire quelqu'un, rire, perdre une dent, roter, entendre le rire d'un enfant, sortir de sa grotte, faire caca, dire une chose blessante, entendre une blague, éternuer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "soixante ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "baignade ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Amou Haji, un Iranien de 80 ans, a fait la une des journaux pour avoir passé soixante ans sans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un bain,une douche,se doucher,se nettoyer,bains,douches,baignoire,douche,prendre un bain,prendre une douche ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387053_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

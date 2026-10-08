@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pas aussi bon que Word Spud|Ce n'est pas Word Spud|ce n'est pas un mot Spud|pire que Word Spud|c'est pire que Word Spud ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ah. Bon sang. Toujours mesuré à l'aune qu'est Word Spud ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une critique en colère que vous donneriez à ce jeu (Quiplash) ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378141_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378139_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

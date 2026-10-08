@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dentistes, centres commerciaux, aires de repos, juifs, Starbucks, restaurants végétariens, prisons, entreprises technologiques, restaurants Subway, Walmarts, hôpitaux, lieux de vote, millionnaires, fontaines à eau, stations de radio, tours cellulaires, buffles, thérapeutes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wyoming ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "escaliers mécaniques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>The Atlantic</i> a rapporté en 2013 que l'État du Wyoming n'en possède que deux. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "esculateurs,esculateurs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379493_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lui faire une réanimation cardio-pulmonaire, aspirer du venin de serpent, lui donner un rein, lui retirer son appendice, lui donner à manger avec son doigt, lui donner des coups de pied pour l'écarter du chemin d'une voiture, régurgiter de la nourriture, lui donner un cœur de porc, inventer un remède contre les vers du cœur, combattre un alligator, lui implanter un appareil GPS, la sauver de la noyade dans les toilettes, la choquer avec une batterie de voiture, la couvrir de sangsues, jouer du Mozart, l'attacher à un hélicoptère drone, lui apprenant à lire, prenant une balle de tireur d'élite ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "la mort",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "frapper un ours ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Carl Moore, 73 ans, du comté de Placer, en Californie, a sauvé son chien Lacy d'une mort certaine. Il l'a fait en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "attaquer un ours, combattre un ours, combattre un ours ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "405744_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

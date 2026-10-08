@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "les chats sont méchants ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Les chats ne sont pas méchants. Ce sont de beaux animaux. (sfx : chat miaou) Ils me forcent à dire ça ! Les chats sont horribles ! Aide-moi! (sfx : sons de chat en colère) ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Nous pouvons tous convenir que <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376890_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376888_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

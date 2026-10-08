@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger de la viande, fumer, porter un sac banane, aller au Brésil, se curer le nez, parler bébé, se baigner, faire du jaywalk, déclarer ses impôts, manger du chou frisé, dire «neato», regarder le hockey, regarder la télévision, courir des marathons, boire de la bière, aller à l'église, frapper des vieilles dames, aller au cinéma ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cool ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "litière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "\"Il n'y a pas beaucoup de choses qui sont universellement cool, et c'est cool de ne pas <BLANK>. Je ne le ferais jamais.\" -Matthew McConaughey en 2005 ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "désordre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "414234_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396083_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396080_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

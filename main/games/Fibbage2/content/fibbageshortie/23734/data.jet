@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "servir du cheesecake new-yorkais, faire un service au volant, servir des hamburgers végétariens, servir du pélican, servir des clients mécontents, servir des poulpes, servir du faux bacon, utiliser la climatisation, servir des gens d'Irak, servir du saindoux en accompagnement, servir des scientologues, servir des desserts, servir des mimes, servir des brunchs, servir des clients sans dents, être ouvert le dimanche, avoir des machines à gommes, embaucher des serveurs masculins ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mississippi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "servir les personnes obèses ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La législature du Mississippi a présenté un projet de loi en 2008 qui, s'il avait été adopté, aurait rendu illégal pour les restaurants de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "servir les obèses, servir les personnes obèses, servir les personnes obèses, servir les personnes grosses, servir les personnes en surpoids, servir les personnes en surpoids ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "418020_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "robe de mariée, bikini en fourrure de tigre, costume Iron Man, combinaison de prison, moniteur de cheville, gilet pare-balles, T-shirt transparent, paire de jambières en cuir, casque Stormtrooper, uniforme de police, costume de ninja, costume de Catwoman, uniforme de l'armée, costume de chasseur de cerf, costume de Big Bird, costume de zombie, uniforme du FBI, costume de loup-garou ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bal de fin d'année ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fausse bombe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un étudiant de La Center, Washington, a été suspendu pour sa manière unique d'inviter une fille au bal de fin d'année. Il portait un <BLANK> pour attirer son attention. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bombe,explosif,dynamite ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404422_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404419_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

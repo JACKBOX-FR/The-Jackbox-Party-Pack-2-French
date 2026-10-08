@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Al Gore ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, Al Gore ! Tout cela a du sens. Al Gore détruit la couche d'ozone, puis s'enrichit en nous expliquant comment la réparer. Je suis à toi ! (effet sonore : frapper à la porte) Oh non ! Al Gore m'a trouvé ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Qu’est-ce qui détruit réellement la couche d’ozone ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "403167_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "403165_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

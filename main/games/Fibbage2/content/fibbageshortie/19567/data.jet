@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lion de mer déprimé, bébé fort, chèvre obèse, Abe Lincoln, P.T Cruiser, mangeur de fourmis, sauterelle méditatrice, ours confus, bombe explosive, mégot de bulle, Groucho Marx, grande mouffette, six pack abs, guitare électrique, martien en colère, nombril, cloche de bouilloire, petit éléphant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "orchidée ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "homme nu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En raison de sa forme étrange, la fleur d'Orchis italica est surnommée l'orchidée <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "389006_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

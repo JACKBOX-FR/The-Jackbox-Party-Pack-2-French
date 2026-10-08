@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "oreillers, pluie, danse, chemises repassées, eau, canapés, mots croisés, questions mathématiques, guimauves, chewing-gum, bonbons durs, parentalité, glaçons, noix, boulettes de viande, trottoirs, roche, cheveux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "dur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "croûtons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme d'Harriman, dans le Tennessee, s'est vu accorder 2 400 $ par les tribunaux pour avoir été blessé par un « <BLANK> excessivement violent ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Croûtons de Pizza Hut,croûtons de Pizza Hut ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396680_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

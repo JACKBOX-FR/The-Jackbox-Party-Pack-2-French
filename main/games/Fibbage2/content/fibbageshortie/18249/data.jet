@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Âne, miche de pain, sac de bougies, fauteuil poire, guimauve, tas de paysans morts, carré d'agneau, noix, citrouille, couronne, pot de saindoux, château gonflable, danois, sablier, flan, Bible, sac de fumier, bol de pâtes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mariage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "meule de fromage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour son mariage en 1840, la reine Victoria de Grande-Bretagne reçut le cadeau plutôt inhabituel d'un poids de 1 000 livres. <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "meule de fromage, bloc de fromage, fromage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376022_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

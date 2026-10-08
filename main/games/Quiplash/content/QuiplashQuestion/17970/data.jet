@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "bière toujours froide|bière froide|la bière est toujours froide|garde la bière froide|garde la bière bien froide|la bière est toujours bonne et froide|la bière est toujours froide|la bière reste froide|la bière reste froide ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Oui, les bières sont toujours froides, mais il faut un couteau et une fourchette pour les manger. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ce qu'il y a de mieux dans la vie dans un igloo ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374340_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374338_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

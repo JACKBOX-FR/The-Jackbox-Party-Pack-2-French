@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "proctologue|proctalogue|un proctologue",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Un proctologue ? Je pense que le proctologue serait un excellent travail pour un robot. Ils fonctionnent sur des nombres binaires et qu'est-ce que le sphincter sinon un gros zéro ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une mauvaise occupation pour un robot ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376119_2",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376117_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

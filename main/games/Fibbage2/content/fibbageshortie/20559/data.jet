@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un gâteau d'anniversaire, un poney, un chien, un panier de Pâques, une récompense en argent pour une personne disparue, des repas gratuits, un paiement par coupons, un vêtement, un compliment, des chatons, des cartes de baseball, une antiquité, des points Xbox, des signatures autographiées, une machine à écrire, des lingots d'or, un garage, un abonnement gratuit à un magazine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "IRS ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pots-de-vin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pas de blague : le sixième élément de la catégorie « Autres revenus » sur le site Web de l'IRS indique que si vous recevez <BLANK>, vous devez l'inclure dans votre revenu. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un pot-de-vin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "400337_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400334_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

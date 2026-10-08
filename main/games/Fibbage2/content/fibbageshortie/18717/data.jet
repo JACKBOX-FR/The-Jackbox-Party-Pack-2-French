@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "plume, couche, balle rebondissante, pastèque, joue, tasse, bonhomme de neige, baiser, prostituée, petit homme, gorille en peluche, autocuiseur, pomme verte, saumon, minuteur, bouton, ampoule de sang, pluie de météores ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "grenade ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grenade ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le mot « grenade » vient d’un vieux mot français désignant quelque chose qui n’est pas vraiment une arme : un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "grenade, grenade, pomme-grenade ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "378983_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378980_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

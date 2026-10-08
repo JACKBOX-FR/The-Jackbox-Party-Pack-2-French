@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des sables mouvants, un tas de cadavres, leurs propres tombes, un anneau de feu, une fosse aux serpents, du fumier de vache, des seaux de sang de rat, de la lave chaude, des tas de crânes, des eaux infestées de requins, un champ de mines, un volcan actif, des bocaux de crachat, un canon géant, un squelette de baleine, quinze gallons de jus de tomate, des pièges à ours, des pulls moches ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mariage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une cage au lion ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le mariage de Charlotte Wiberg et Arthur St. Andrassy en 1897 était un événement assez inhabituel, puisque quelque 5 000 invités se sont présentés pour voir l'heureux couple prononcer ses vœux alors qu'ils se tenaient en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "une fosse aux lions, une cage aux lions, une cage aux lions, une cage aux lions ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "407106_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407103_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

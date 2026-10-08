@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bacon, paillettes, argent, neige, d'une manière ou d'une autre, sucre en poudre, Cheerios, poupées Barbie, noix, petites gommes, sous-vêtements, poisson, formulaires fiscaux, pissenlits, tarte, ballons de football, lait, porcs-épics, Bibles. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Les Hell's Angels ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un chiot ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En juin 2010, un étudiant allemand a eu l’audace de se rendre en voiture jusqu’à son club local des Hell’s Angels, où il a ensuite laissé tomber son short et lancé <BLANK> sur les membres. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un chien ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404015_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404012_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

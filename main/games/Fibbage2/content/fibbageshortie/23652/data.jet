@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "radis, pots de hareng, têtes de bétail, ouvre-lettres, plants d'opium, gallons d'essence, fedoras, ballons de football, tasses de café gratuites, rouleaux de papier toilette, bouteilles de vodka, miches de pain, concombres, téléviseurs, œufs de caviar, montres de poche, monocycles, abeilles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "karaoké ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boulettes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le vainqueur du Championnat du monde de karaoké 2010 à Moscou a remporté le grand prix inhabituel d'un million de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416062_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

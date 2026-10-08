@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "il a été confondu avec du pepperoni, il l'a rasé par accident, un piercing a mal tourné, il l'a tiré trop fort, il a eu une ectomie du mamelon, il s'est réveillé sans, il a été brûlé par un feu d'artifice, il l'a coupé pour la charité, il a eu un accident de tronçonneuse, il a parié sur le Kentucky Derby, il a trop bronzé, il y a eu un accident de cire chaude, il y a eu une confusion chirurgicale, il s'est coincé dans une fermeture éclair, il a frotté de l'acide sulfurique dessus, son chien a mangé ça, il y a eu un accident de super colle, elle est restée coincée sur un mât de drapeau froid ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mamelon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un zèbre l'a mordu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Début 2015, un homme de Muskogee, en Oklahoma, a perdu son mamelon lorsque <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "il a été mordu par un zèbre, il a été mordu par un zèbre, il a été mordu par un zèbre, il a été mangé par un zèbre, un zèbre l'a mangé, un zèbre l'a mordu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "406506_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "406503_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

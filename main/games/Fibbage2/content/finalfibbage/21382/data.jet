@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "louer un donjon, supermarché S&M, la maison de la douleur, torturer l'immobilier, préparer le tout, trouver votre douleur, champignons, ding, conseiller en déshabillage, feu chaud, vous donner une fessée, chambres de vilains garçons, trouver votre maison de cauchemar, sentir le domaine, re/cire, siècle 69, fesseur de Coldwell, meilleurs donjons et jardins ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "donjons ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "KinkBNB ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de la société basée à San Francisco qui vous aide à trouver et à louer des donjons sexuels. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404063_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404060_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

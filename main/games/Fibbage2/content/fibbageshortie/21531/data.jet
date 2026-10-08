@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "George Washington, Mère Teresa, Jésus Christ, Pearl Harbor, un célèbre braconnier, Jennifer Lawrence, Jonas Salk, Jeanne d'Arc, David Letterman, Jennifer Aniston, le Père Noël, Neil Armstrong, Galileo, Amelia Earhart, un sandwich, Alec Baldwin, Jack l'Éventreur, Charles Manson ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "zoologique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le bébé royal ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le jardin zoologique naturel de Takasakiyama, au Japon, a dû présenter des excuses publiques après avoir eu le courage de donner à l'un de ses singes nouveau-nés le nom de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "la princesse royale, la princesse britannique, le bébé royal Charlotte, le bébé royal, le bébé royal Charlotte, Charlotte le bébé royal, la princesse Charlotte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407660_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

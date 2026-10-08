@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vaisseau spatial, bateau de croisière, diamant, château, mosquée, support de cerf, dinosaure, volcan, chevalier, moto, troll, pont, mitrailleuse, sorcier, ours, bunker, hélicoptère, réservoir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tombe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pyramide ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nicolas Cage a déjà acheté sa tombe à la Nouvelle-Orléans. Il mesure neuf pieds de haut et a la forme d’un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404141_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404138_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

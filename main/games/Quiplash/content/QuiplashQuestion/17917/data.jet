@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "aïe ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Aïe ! Ouais, je suis totalement d'accord avec cette interprétation de l'Écriture. « Aïe » est simplement minimisé parce qu’il ne constitue pas un signe inspirant à tenir lors d’événements sportifs. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Les VRAIES dernières paroles de Jésus",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374139_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374137_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

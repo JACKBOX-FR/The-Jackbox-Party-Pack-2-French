@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger un poulet, résoudre une énigme, faire des sauts périlleux, lire le Web de Charolotte, se masturber, faire des lasagnes, chanter l'hymne national, manger des Oreos, faire une sieste, jouer aux échecs, changer de vêtements, faire des sacs d'épicerie, faire une décharge, faire un gâteau, habiller un épouvantail, planter un jardin, peindre un hangar, passer le SAT ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tour ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire une bière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "James Nielsen détient le record du temps le plus rapide en parcourant un mile sur une piste en <BLANK> entre chaque tour. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "boire de la bière, boire une bière, boire de la bière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377675_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377672_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

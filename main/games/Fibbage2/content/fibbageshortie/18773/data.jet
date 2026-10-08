@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "uranium radioactif, écailles de poisson, matières fécales, cartes à jouer, disques compacts, insectes, bandes dessinées, pain rassis, serviettes, éclats de verre, couches, papier bulle, balles recyclées, tofu, yeux écarquillés, cure-pipes, coupures d'ongles, compost ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mode ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tuer sur la route ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’entreprise de la créatrice de mode Pamela Paquin se spécialise dans la production d’accessoires de mode éthiques fabriqués à partir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tué sur la route ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379643_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379640_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

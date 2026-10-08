@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bavardage, histoire, évolution, doody, toilettes, non, idiot, laid, épée, coup de poing, viande, bécoter, cooties, mec, pot, spandex, velcro, monstre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "suspension ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "meep ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le lycée Danvers, dans le Massachusetts, a porté la discipline à un tout autre niveau en 2009 lorsqu'il a informé les élèves et les parents que prononcer le mot <BLANK> était un motif de suspension. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "meep!,meap,meep",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "388793_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388790_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

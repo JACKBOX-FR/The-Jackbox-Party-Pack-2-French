@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sentiments, noix, requins, stagiaires, mecs, dinosaures, dieux, vases, religions, caméras, acteurs, critiques, fantômes, sous-vêtements, arbres, animaux NICE, pantalons, barbiers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "blessé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Juifs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le générique de fin du film des frères Coen <i>A Serious Man</i> comprend l'étrange mention selon laquelle \"None <BLANK> n'a été blessé lors de la réalisation de ce film\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387926_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

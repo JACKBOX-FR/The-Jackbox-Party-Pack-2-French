@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sur un respirateur, envoyer des SMS, pousser une poussette, écrire un roman, réciter pi, jongler, se faire un tatouage, chanter un opéra, arracher une dent, jouer de la guitare, téléconférence lors d'une réunion de l'ONU, résoudre un Rubik's cube, pratiquer une intervention chirurgicale, réciter la Bible, menotté, faire tourner un ballon de basket sur son doigt, manger un sandwich géant, jouer du trombone ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "marathon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tricoter une écharpe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Comme si la course de fond n'était pas assez difficile, en 2013, David Babcock a étrangement établi un record en courant le marathon de Kansas City tout en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "confection d'une écharpe, crochet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397811_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

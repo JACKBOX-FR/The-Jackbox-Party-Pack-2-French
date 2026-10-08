@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Coca light, enfant, tasse à café, calendrier Garfield, ordinateur, tapis roulant, micro-ondes, CD Pearl Jam, veste en jean, cintre, calendrier, lave-vaisselle, toilettes, baby-foot, affiche de football, Kleenex, carte, ouvre-courrier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mémo",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Furby ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La NSA (National Security Agency) a publié un étrange mémo en 1999, interdisant à quiconque d'apporter un <BLANK> dans ses bureaux. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Furby, poupées Furby ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "374723_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "374720_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cher, vélociraptors, Channing Tatum, les Yankees de New York, les mannequins de Victoria's Secret, les lauréats des Oscars, les Rockettes, Jay Leno, les stars de télé-réalité, les gangsters, les One Direction, les hipsters, les sirènes, les Parrotheads, Lebron James, Louis CK, les bassistes, Jennifer Lawrence ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "ADN ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ozzy Osbourne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2010, une entreprise de biogénie appelée Knome a entrepris une étude scientifique intéressante. Ils voulaient savoir ce qui rendait l'ADN de <BLANK> si spécial. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ozzy ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404950_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404947_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

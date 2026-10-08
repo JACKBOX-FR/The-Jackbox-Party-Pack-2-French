@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "t'entendre klaxonner, aller au cirque, respirer, faire monter beaucoup de gens dans une petite voiture, survivre à une hache sur la tête, vaporiser de l'eau de Seltz, porter des chaussures géantes, t'entendre rire, mettre du maquillage, terrifier les enfants, demander son chemin, battre un Killer Klown, monter sur un petit tricycle, porter des perruques colorées, aller au Klown Kollege, enfiler une peau de banane, contempler leur mort, appliquer de la crème solaire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "horreur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger de la glace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La comédie d'horreur culte de 1988 <i>Killer Klowns from Outer Space</i> arborait le slogan \"Dans l'espace, personne ne peut <BLANK>\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "manger de la crème glacée, manger de la glace, manger de la glace ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "391418_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "391415_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

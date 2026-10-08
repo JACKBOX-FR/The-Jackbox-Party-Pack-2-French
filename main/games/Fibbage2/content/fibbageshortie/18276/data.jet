@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "épée, ananas, drapeau, trombone, bébé, oreiller, lanceur Brita, basket-ball, couche, rose, tasse à café, robot, hamster, calculatrice, seau, fedora, singe, parasol ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rihanna ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "taco ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une farce qui est passée inaperçue pendant un mois, un homme s'est photoshopé sur plusieurs photos du Grammy Museum, y compris une photo avec Rihanna où il pose avec un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376187_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

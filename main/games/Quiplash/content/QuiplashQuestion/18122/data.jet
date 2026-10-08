@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "miroir|un miroir ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Je serais d’accord avec un miroir car elle le tient toujours devant la société ! Taylor, tu es génial ! Je t'aime! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un objet NON trouvé dans le sac à main de Taylor Swift ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375111_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375109_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

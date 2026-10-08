@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rester coincé dans la baignoire, s'étouffer avec d'énormes burritos, tomber dans un puits, faire caca, rester coincé sur une grande roue, manger trop au buffet, perdre ses clés de voiture, voir des extraterrestres, croire voir un dinosaure, tomber dans le même gouffre, lâcher le cochon de la ville, se coincer la tête dans les clôtures, avoir des pneus crevés, se battre à propos de Star Wars, se pavaner nu, avoir besoin d'un câlin, se geler la langue pour mâts de drapeau, chant dans la bibliothèque ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "911 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se perdre dans un labyrinthe de maïs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La police de Dixon, en Californie, doit souvent répondre aux appels au 911 pour la même raison stupide. Les gens de la ville gardent <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "se perdre dans le labyrinthe de maïs, rester coincé dans un labyrinthe de maïs, rester coincé dans le labyrinthe de maïs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390743_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

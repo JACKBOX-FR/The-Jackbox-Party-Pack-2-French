@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une cape de Superman, une île hawaïenne, un tigre de Sibérie, le <i>Titanic</i>, une comète, Graceland, un Kit Kat, Yoda Underoos, la plus grande télé du monde, une Gameboy, une carte de baseball, son propre autographe, le Love Boat, un Happy Meal, Branson, MO, des chaussettes, les os de Charlie Chaplin, un coussin péteur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nicolas Cage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un crâne de dinosaure ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors d'une vente aux enchères en 2007, Nic Cage a surenchéri sur Leonardo DiCaprio et a acheté <BLANK> pour 270 000 $. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crâne de T-Rex, crâne de T Rex, crâne de T-Rex, crâne de T Rex, crâne de dinosaure ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387320_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387317_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tenir des armes, sont peints en bleu, ne peuvent que chanter, amener leurs parents, s'insulter, dessiner seulement leurs réponses, se battre, doivent dire \"je t'aime\", sont des adolescents, deviennent chauves, échangent des histoires de prison, sont dans une piscine de gelée, portent du cuir, sont à l'envers, sont dans une patinoire, doivent être en mensa, parlent en mâchant de la nourriture, s'embrassent tout le temps ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "speed dating ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "porter des sacs sur la tête ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le service de rencontres LoveFlutter organise des événements de speed-dating inhabituels. Pour les séances de speed-dating, les participants <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "porter des sacs sur la tête,porter un sac sur la tête,porter des sacs sur la tête,porter un sac sur la tête,porter des sacs sur la tête,porter un sac sur la tête,porter un sac sur la tête ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "389342_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

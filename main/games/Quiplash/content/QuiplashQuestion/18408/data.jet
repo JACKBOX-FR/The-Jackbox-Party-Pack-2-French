@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "remplacer le stéthoscope par un serpent|remplacer le stéthoscope par un serpent|remplacer le stéthoscope par un serpent|remplacer le stéthascope par un serpent ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Remplacer le stéthoscope par un serpent est la voie à suivre. Mais ne faites pas ça avec sa caméra de coloscopie. Cela s’est retourné contre moi. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une astuce amusante à jouer à votre médecin ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "377151_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "377149_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

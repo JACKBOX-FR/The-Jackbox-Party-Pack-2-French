@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "maladie du pied funky, syndrome de l'arrière puant, trouble des lèvres dilatées, fièvre dansante, syndrome du nez pourri, cheveux de Trump, crocs de loup-garou, syndrome de Superman, oryctérope, grosse ite des cheveux, genou du mannequin, oreille de cornemuse, doigts de nouilles, yeux laser, maladie de la crème glacée, phobie de Sandrabullock, éléphantite inversée, yeux de courrier électronique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "désordre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "syndrome de la tête qui explose ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce trouble au nom étrange, découvert par le médecin britannique John M.S. Pearce dans les années 1980. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "429658_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

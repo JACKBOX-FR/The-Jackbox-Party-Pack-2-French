@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bonbons, châteaux gonflables, bars ouverts, Pin the Tail on the Donkey, groupes hommage à Van Halen, pistolets de paintball, dunk tanks, spectacles de marionnettes, lignes de conga, clowns, cerfs-volants, buffets à volonté, spectacles d'humour, pingouins, karts, fumer du pot, huer, costumes effrayants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "fissuration ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "décapants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Buzzkill! En avril 2015, le ministère chinois de la Culture a annoncé qu'il allait sévir contre la popularité croissante de <BLANK> lors des funérailles. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "strip-teaseuses, strip-teaseuses ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "404494_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "404491_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

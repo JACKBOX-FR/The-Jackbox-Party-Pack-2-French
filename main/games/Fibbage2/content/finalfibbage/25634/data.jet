@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le Seigneur des Anneaux, les jetons, les foires de comté, les silences gênants, les oreilles, la carie dentaire, les longs trajets en escalier roulant, les mimes, les kiosques des centres commerciaux, Tokyo, voir quelqu'un éternuer, rater une émission de télévision, les pourboires excessifs, les anime, les hommes invisibles, la transpiration en public, la caféine, les langues étrangères ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "peur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grossesse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "De quoi les tokophobes ont peur. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "donner naissance ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "430686_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430683_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

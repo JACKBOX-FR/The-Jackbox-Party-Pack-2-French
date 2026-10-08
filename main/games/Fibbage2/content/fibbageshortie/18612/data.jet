@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bardeaux, jet skis, dettes universitaires, asthme, furets, chambres d'hôtes, choléra, places de stationnement, dyslexie, problèmes de colère, hypertension artérielle, tatouages, rage, fedoras, fonds fiduciaires, insécurités, enfants adultes, multipropriété ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "rencontre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "allergies alimentaires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Matty Thomas a lancé un site de rencontre étrange et très spécifique appelé « Singles with <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "378437_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378434_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

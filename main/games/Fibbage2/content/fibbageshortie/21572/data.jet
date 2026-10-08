@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "classique, hip-hop, coquin, sur la France, déprimant, accrocheur, au moins 10 minutes, acclamé par la critique, par Madonna, \"lourd au violoncelle\", tout nouveau, offensant, inutile, politique, sud-américain, bruyant, PG-13, moins de 3 minutes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Français ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chanté en français ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les Français ont une loi qui stipule que 40 pour cent de toute la musique diffusée à la radio nationale doit être <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "en français,en langue française,joué en français,joué en français,chanté en français,français ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "408427_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408424_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

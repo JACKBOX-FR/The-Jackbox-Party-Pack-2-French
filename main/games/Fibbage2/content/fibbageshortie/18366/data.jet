@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hot-dogs, larmes, chat, coussins d'oreiller, ongles, excréments, votre premier-né, pulls, lait maternel d'une autre mère, intestins de porc, insectes, cheveux, fromage nacho, cuir, tapis, plastique, poubelle, savon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "immunisé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tes crottes de nez ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'auteur scientifique Maria Jesus Portalatin a une hypothèse étrange selon laquelle manger <BLANK> peut renforcer votre système immunitaire. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "morve, mucus, crottes de nez, tes propres crottes de nez, une crotte de nez, ta crotte de nez ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "376898_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

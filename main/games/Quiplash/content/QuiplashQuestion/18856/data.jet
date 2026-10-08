@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rencontrez Crocodile Dundee ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, assure-toi juste d'apporter un petit couteau. Crocodile Dundee adore ça. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La meilleure raison d'aller en Australie ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "380247_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "380245_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

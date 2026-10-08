@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Eleanor Roosevelt, John Lennon, Groucho Marx, Ronald Reagan, un lama, Bugs Bunny, Merlin, un teckel, un extraterrestre, une pomme de terre, Gengis Khan, Typhoid Mary, un cobra, une amibe, Charlie Chaplin, King Tut, un panda, Raspoutine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "la vie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "JFK ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "\"Je suis presque sûr que j'étais <BLANK> dans ma vie passée.\" -Ke$ha en 2010 ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "John F. Kennedy ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "414227_1",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "395624_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

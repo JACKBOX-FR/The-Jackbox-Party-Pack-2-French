@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "couvert de chiots | dans un tas de chiots | envahi par des chiots | tas de chiots | dans un tas de chiots ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "C'est amusant de se réveiller avec des chiots sur soi ! À moins que vous viviez seul, personne n’a la clé de votre maison et il n’y avait pas de chiots la nuit précédente. Alors c’est probablement une sorte de message de la foule. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "La meilleure façon de commencer votre journée ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376317_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376315_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

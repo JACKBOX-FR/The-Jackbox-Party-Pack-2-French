@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "paris sur l'hippodrome, bras de fer, une partie de flag-football, des bains de maigres, des combats à coups de poing, une cuisine au chili, un film dans la cour, une partie de Twister, une microbrasserie, un entraînement de groupe, Pac Man, faire des brownies, une partie de basket-ball, un défilé de mode, des plongées dans la piscine, cache-cache, faire un feu de joie, Tinder ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "moines ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une bataille de boules de neige ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "IMRANEWSBLANKO, membre de YouTube, a mis en ligne des images de moines franciscains effectuant une activité très peu moine. Ils étaient engagés dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "combat de boules de neige, combat de boules de neige, combat de boules de neige, combat de boules de neige, combat de boules de neige, combat de boules de neige, combat de boules de neige, combat de boules de neige ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "380078_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

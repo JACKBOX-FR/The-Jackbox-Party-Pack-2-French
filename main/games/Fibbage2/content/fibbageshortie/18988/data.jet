@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "semi-remorque, squelette humain, Barcalounger, lustre, cracker simple, voiture de police, système d'étagères IKEA, rangée de sièges de stade, grande roue, batterie, manteau de laine, petite maison en brique, souffleuse à neige, tracteur, radiotélescope, roue de fromage de 30 000 lb, navette spatiale à la retraite, flipper ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "avion ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avion ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Entre 1978 et 1980, le Français Michel Lotito a lentement mangé un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "avion,avion,avion,Cessna,Cessna 150,avion Cessna 150,avion Cessna 150,avion Cessna 150,avion Cessna,avion Cessna,avion Cessna ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381212_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381209_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

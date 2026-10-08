@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "terroristes, grippe porcine, mots, bombes nucléaires, armes de poing, coups de poing au visage, grenades vivantes, casseroles d'eau bouillante, tueurs en série, étrangers, bonbons, lames de rasoir, passages pour piétons, trafiquants de drogue, tigres, serpents, boomarangs, kangourous ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Peppa Cochon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "araignées ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'Australian Broadcasting Company a interdit un épisode de la populaire série pour enfants <i>Peppa Pig</i> parce qu'il envoyait le message qu'il ne fallait pas craindre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Spyders,morsures d'araignée,araignée ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "377090_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "377087_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

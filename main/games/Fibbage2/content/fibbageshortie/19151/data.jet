@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "grotte, carcasse de dinosaure, poste de police, église, entrepôt, statue de dinosaure, volcan, aire de repos, bus scolaire, placard, sous-marin, magasin vidéo, igloo, semi-camion, conteneur d'expédition, cascade, usine de coussins whoopee, cabane dans les arbres ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "TripAdvisor ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "prison ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous visitez Cardiff, au Pays de Galles, vous devriez dîner dans leur restaurant le mieux noté sur TripAdvisor, situé à l'intérieur d'un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "prison ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "419730_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "382160_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

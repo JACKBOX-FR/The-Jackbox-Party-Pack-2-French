@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "attacher leurs chaussures, chanter God Save the Queen, taper dans un ballon de football, garer une voiture, faire du vélo, utiliser un micro-ondes, changer un pneu, attacher une cravate, faire des pompes, se brosser les dents, essuyer leurs fesses, changer une couche, tirer avec une arme à feu, parler anglais, verser une Guinness, prononcer Brittain, marcher sur la lune, se laver les cheveux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Britannique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire du thé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon une enquête récente menée par le professeur Mark Miodownik de l'University College de Londres, le Britannique moyen n'a aucune idée de la manière de <BLANK> correctement. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "thé infusé, faire du thé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387977_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387974_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

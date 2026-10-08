@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "regarder la télévision, manger des carottes, lever les yeux, faire une sieste, faire des mots croisés, jouer aux fléchettes, jouer du saxophone, se doucher, boire du lait, faire du jogging, faire des puzzles sodoku, promener des chiens, jouer au Monopoly, s'asseoir sur des fauteuils poire, utiliser des kaléidoscopes, rêver, porter des lunettes de soleil, utiliser des bains à remous ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "vue ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouer au ping-pong ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Parce que l’on pensait que cela nuisait à la vue, les dirigeants russes du début du XXe siècle ont interdit l’accès à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ping-pong, ping-pong, tennis de table, tennis de table, jouer au tennis de table ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400649_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

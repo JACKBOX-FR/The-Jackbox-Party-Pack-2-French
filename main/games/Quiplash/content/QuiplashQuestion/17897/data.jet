@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "viande de raton laveur|la viande de raton laveur|viande de raton laveur|la viande de raton laveur|viande de raton laveur|la viande de raton laveur|coons|racoons|ratons laveurs ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "De la viande de raton laveur ! Oui, la viande de raton laveur est savoureuse, mais pour une version plus maigre, puis-je suggérer l'opossum ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Qu’est-ce qui rend les hot-dogs si bons ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374079_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374077_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rat, trombone, Twinkie, coussin péteur, main prothétique, cheval jouet, cigare, iPhone, serpent, balle, dent, nid d'oiseau, diamant, sachet de thé, orteil, microphone, album des Beatles, assiette ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "poumon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuillère en plastique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme de Caroline du Nord qui souffrait de quintes de toux et de pneumonie persistantes a été soulagé lorsque les médecins ont retiré une partie d'un <BLANK> de son poumon. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cuillère, ustensile en plastique, ustensile ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "373292_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "373289_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

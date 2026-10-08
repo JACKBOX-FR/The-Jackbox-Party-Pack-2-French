@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "caresser les chats, copeaux de bois, boire de la broche de chameau, gifler des esclaves, se rouler dans le sable, oreilles de chien, fumer des feuilles de figuier, se baigner dans les larmes, se brûler les pieds, se mettre de la cendre dans le nez, manger la langue, ne jamais utiliser de savon, ailes de libellule, dormir un jour sur deux, se laver à l'eau sale, chapeaux de viande, vomir sur elle-même, bains de boue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "beauté ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger des cornichons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bien qu'elle ne soit pas considérée aujourd'hui comme un accessoire de beauté, Cléopâtre attribuait sa beauté à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "manger beaucoup de cornichons, avoir un régime de cornichons, cornichons, manger des cornichons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396419_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396416_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

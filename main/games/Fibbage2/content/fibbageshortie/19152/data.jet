@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dingus, Spam, String, Rash, Hershey, Couche, Entrejambe, Ugli, Dingle, Snatch, Boo-Boo, Guimauve, Chunky, Buck, Twitch, Pepsi, Amazon, Elon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "taquiner ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nutella ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Parce que cela « ne ferait que conduire à des pensées taquines ou dénigrantes », un juge français a statué en 2014 qu’un couple ne pouvait pas nommer leur nouveau-né <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "382187_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "382184_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

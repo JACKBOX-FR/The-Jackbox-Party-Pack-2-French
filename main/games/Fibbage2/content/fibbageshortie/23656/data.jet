@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "paludisme, sardine, hoo-hah, hocus pocus, reebok, variole, zales, satellite, pokemon, pet, hobbit, vaccin, nike, vamoose, vichyssoise, scram, wheee!, porc ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "collier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Abracadabra ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le médecin romain antique Quintus Serenus Sammonicus avait une recommandation inhabituelle pour traiter le paludisme. Il a écrit que la personne malade devrait porter un collier avec le mot « <BLANK> » écrit dessus pendant neuf jours. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "abrakdabra,abrocadabra,arbrokadabra ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "416165_5",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416162_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

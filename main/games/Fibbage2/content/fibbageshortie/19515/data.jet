@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cochon, Caca, Conjoint, Maladie, Cri, Sentiment, Loup-garou, unitard, Insulte, Pet, Tombe, Nuage, Nom, Cigarette, Cuillère, Piston, Alibi, Avocat ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "marché ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Poulet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Leslie Suitor de Traverse City, Michigan occupe un marché de niche avec son entreprise Rent-A-<BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "poulet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "387758_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "387755_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

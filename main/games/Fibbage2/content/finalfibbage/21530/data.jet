@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "super bière, sang de panda, salive de baleine, eau de lune, vodka australienne, sueur d'éléphant, larmes de dinosaure, venin d'anaconda, eau du bain du pape, mercure pur à 100 %, Coca Cola original, sauce pour pâtes de la reine Elizabeth, or liquide, sève de banzai, plasma de tigre, carburant pour fusée spatiale, Mt Dew Platinum, spray sur verre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cher ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "venin de scorpion ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À 39 millions de dollars le gallon, c'est le liquide le plus cher au monde. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "piqûre de scorpion, poison de scorpion ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407636_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

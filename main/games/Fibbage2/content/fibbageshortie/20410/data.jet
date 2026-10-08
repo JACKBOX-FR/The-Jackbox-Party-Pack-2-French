@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cirque, salle de champagne, usine de saucisses, jet privé, girafe, dortoir mixte, caserne de pompiers intérieure, escalier roulant, ring de gladiateurs, steakhouse brésilien, squelette de dinosaure complet, prison, cuirassé, salle de jeux vidéo, crèche pour bébés, ligne directe vers la Maison Blanche, terrain de football intérieur, théâtre de 5 000 places ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Élevé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vraie maman ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Naperville Central High School, située à l'extérieur de Chicago, détient l'honneur inhabituel d'être la seule école secondaire en Amérique à avoir un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "maman, maman égyptienne ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396872_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

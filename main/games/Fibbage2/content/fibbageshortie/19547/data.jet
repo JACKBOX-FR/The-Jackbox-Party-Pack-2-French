@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rats,urine,ongles de pieds,crayons,poils de chien,mucus,blanc,poisson cru,neige sale,têtards,cerveaux,pommes pourries,poisson rouge,adderall,langues de vache,moisissure,nyquil,cocaïne ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "smoothies ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "placentas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une femme de Swindon, au Royaume-Uni, a fait l'objet d'une enquête de la part des autorités sanitaires parce qu'elle vendait des smoothies contenant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "placenta,placenta humain,placentas humains ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "388529_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388526_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

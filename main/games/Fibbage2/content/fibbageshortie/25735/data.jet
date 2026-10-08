@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "s'asseoir dessus, contracter une pneumonie, s'étouffer avec une miette de pain, se noyer, se suicider, prendre feu, tomber du rebord, boire du poison, inhaler de la colle à bois, voler dans une porte moustiquaire, se faire scier en deux, asphyxie auto-érotique, une crise cardiaque, avoir un cancer, un anévrisme cérébral, une conduite en tirant, des causes naturelles, en chantant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pinocchio ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pinocchio l'écrase avec un marteau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le livre original <i>Pinocchio</i>, le grillon qui parle meurt de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pinocchio l'écrase, est frappé avec un marteau, est écrasé, est écrasé par un marteau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431721_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

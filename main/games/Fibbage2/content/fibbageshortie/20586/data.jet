@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mangeur de hot-dogs de compétition, batteur de jazz, joueur de fer à cheval, danseur de claquettes, joueur de marelle, repasseuse, dossier de draps, observateur de constellations, appelant d'oiseaux, équilibreur d'œufs, bûcheron, joueur de flûte, chasseur de fromage, nageur synchronisé, marcheur sur échasses, appeleur de cochons, joueur d'accordéon, plongeur en apnée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Uber ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Joueur de tennis Wii ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le PDG d’Uber, Travis Kalanick, a un autre titre de gloire, même s’il ne paie pas aussi bien. Il a été classé deuxième meilleur <BLANK> au monde. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "400796_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "400793_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

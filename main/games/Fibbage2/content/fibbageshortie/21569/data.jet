@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "enlever leur pantalon, les embrasser, prouver qu'ils sont citoyens, éteindre leur téléphone, promettre de ne pas jurer, faire taire leurs enfants, être complètement silencieux, passer un test de dépistage de drogue, montrer leur carte d'identité, scanner leurs empreintes digitales, signer une renonciation, se raser les poils du visage, chanter une chanson, se faire caresser, prêter allégeance, saluer la reine, porter un filet à cheveux, se couvrir la bouche ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "McDonald's ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "prendre un alcootest ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un McDonald's de Cambridge, en Angleterre, a bouleversé certains clients locaux en 2015 en annonçant qu'il exigerait que chaque personne <BLANK> avant d'entrer. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "alcootest, faire un alcootest, souffler dans un alcootest, prouver qu'ils sont sobres, prouver qu'ils ne sont pas ivres, prouver qu'ils ne sont pas ivres, prouver qu'ils sont sobres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "408355_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408352_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

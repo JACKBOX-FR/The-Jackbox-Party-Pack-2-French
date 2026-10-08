@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boire du chocolat chaud, parler au téléphone, jouer à des jeux vidéo, crier sur des plantes, porter des chemises sans manches, de la glace, regarder le soleil, prendre l'ascenseur, écouter Nickelback, lever le pouce aux gens, porter des sandales avec des chaussettes, jouer à des jeux-questionnaires, acheter des vêtements, donner des high-fives, observer les oiseaux, la pizza, le rhume, un gâteau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bien ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "regarder des vidéos de chats ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étude réalisée en 2015 par Jessica Gall Myrick, professeure adjointe à l'Université d'Indiana, a prouvé une fois pour toutes que <BLANK> est bon pour vous. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "regarder des vidéos de chats,voir des vidéos de chats,regarder des vidéos de chats,regarder des vidéos de chats sur YouTube,regarder des vidéos de chats sur YouTube,vidéos de chats,vidés de chats ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424614_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

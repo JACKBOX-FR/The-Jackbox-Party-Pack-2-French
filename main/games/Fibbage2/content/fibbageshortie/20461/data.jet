@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benedict Cumberbar,Chocodict Cumberbatch,Benedict Candybatch,Belgidict Cumberbatch,Bulky Chocobar,Belgian Cumberchoc,Sherlock Chocolate,Sherchoc,Benedelicious,Benedict Sugarbatch,Belchedict Burperbatch,Chocadict Holerbatch,Bennybath of Chocolatesauce,Bertha's Own Chocolatebatch,Benedict Cocoabatch,Cocoadict Cocoabatch, cuillère Benny Yummy Crummy, Benedict Yummybar ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Cumberbatch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Benoît Chocobatch ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aux alentours de Pâques 2015, un chocolatier britannique a été chargé de créer une statue grandeur nature de Benedict Cumberbatch entièrement réalisée à partir de chocolat belge. Cet immense délice a ensuite reçu avec amour le nom de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398075_5",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des gens dans le coma, des licornes, des cadavres, des testicules d'animaux exotiques, des chiots en peluche, des prisonniers, des communistes, des condamnés à mort, des parapluies, des singes rasés, des squelettes humains, des ouvriers d'ateliers clandestins, de la nourriture pourrie, des personnes exposées aux radiations, des animaux à deux têtes, des prisonniers de guerre, des milliers de tarentules, des femmes barbus ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Île Coney ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bébés prématurés",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une exposition plutôt effrayante au Luna Park de Coney Island, qui a ouvert ses portes en 1903, a exposé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bébés nés prématurément, bébés prématurés, bébés prématurés, bébés prématurés, prématurés, bébés prématurés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "414351_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "414348_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

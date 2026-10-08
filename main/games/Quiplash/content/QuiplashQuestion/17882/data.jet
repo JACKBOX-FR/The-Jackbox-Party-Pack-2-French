@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "salle de bain|salle de bain|toilettes|toilettes ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Salle de bains ? Cela dépend. Est-ce que vous faites pipi dans les toilettes à ce moment-là, ou dans un luxueux bain moussant aux pétales de fleurs avec votre bien-aimé, en train de faire pipi là-dedans ? ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "L'endroit le moins romantique pour demander un mariage ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "374034_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "374032_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Oink|Suey ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, les flics détestent les bruits de cochons. Parce que cela leur rappelle que bien qu’ils soient plus intelligents que les chiens, de nombreux porcs sont traités cruellement par l’industrie de la viande. C’est toute la raison. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une mauvaise chose à dire à un flic alors qu'il vous rédige une contravention pour excès de vitesse ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "376857_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "376855_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

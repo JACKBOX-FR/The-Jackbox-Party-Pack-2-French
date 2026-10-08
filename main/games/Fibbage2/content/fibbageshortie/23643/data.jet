@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pénis, hamster, sous-vêtements, peluches du nombril, globe oculaire, oreille, lèvres, moelle épinière, ongles, cils, gros orteil, clés de la maison, nez, ordre d'arrestation, chien, poils du nez, vélo, langue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Galilée ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "majeur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une fois à Florence, en Italie, rendez-vous au Musée d'histoire des sciences de Florence, qui présente curieusement le <BLANK> de Galilée exposé dans un verre en forme d'œuf. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "majeur, majeur, doigt ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "415842_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415837_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

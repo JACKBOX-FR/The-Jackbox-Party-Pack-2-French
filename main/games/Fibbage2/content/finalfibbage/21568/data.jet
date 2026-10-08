@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Longue langue, clown, Starchild, mauvais gènes, écrivain ivre, Times Old Roman, Hell-vetica, Dad Rock, Wing Ding-a-lings, Sloppy Suzy, Blah, oncle, chaussures à plateforme, Myriad Bro, main tremblante, Haba Duey, Simmons, peu importe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Baiser ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mourir méchant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom génial de la police personnalisée que le groupe Kiss utilise dans son nom. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408328_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

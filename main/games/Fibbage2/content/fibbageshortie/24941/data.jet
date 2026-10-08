@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cheveux humains, élastiques, soie d'araignée, canettes de soda, vieux téléphones portables, grillons, sacs d'épicerie, ruches, livres, glace carbonique, ongles, bouteilles de bière, os de poulet, vieux Gameboys, cartes d'anniversaire usagées, DVD Shrek, chaussettes, sucre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ford ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tomates ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En juin 2014, Ford a annoncé qu'elle essayait de développer de nouvelles pièces automobiles fabriquées, croyez-le ou non, en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tomates,une tomate,une tomate,fibres de tomates,fibres de tomates,plastique de tomate ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "426011_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

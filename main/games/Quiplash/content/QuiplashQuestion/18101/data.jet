@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Barfy ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Pauvre Barfy. Non seulement il vomit constamment partout, mais il s'est fait virer. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Nommez le huitième nain, qui a été coupé à la dernière minute ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375048_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375046_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

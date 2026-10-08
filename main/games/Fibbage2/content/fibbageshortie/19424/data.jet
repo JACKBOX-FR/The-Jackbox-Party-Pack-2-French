@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Étiquette laser, La fin de, Jet Pack, Vache qui chante, Couchez-vous, Boire de la bière, Ulcère gastroduodénal, Coloscopie, À l'envers, Complètement glabre, Mentos et Coca light, Les Trois Stooges, Échange de conjoint, Adopter un bébé, Golden Girls, Glace à la vanille, Short en jean bleu, Haut muffin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "célébrer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mec mort gelé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Chaque mois de mars, les habitants de Nederland, Colorado, se réunissent et célèbrent les « <BLANK> Days ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "homme mort gelé, cadavre gelé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "385496_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "385493_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

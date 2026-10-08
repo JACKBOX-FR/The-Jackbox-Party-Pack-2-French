@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "United Potato Service,À plus tard Tater,Frites par courrier,Le bureau de la pomme de terre,Tamponner une pomme de terre,Paquet Spud,Tater Trots,Maintenant ou râpe,Vous dites pomme de terre, je dis ok,Mail Hash,Écrasez vos amis,Idées cuites au four,Une puce,Quartiers de pommes de terre envoyés par la poste,Cartes postales de poutine,Festonné estampé,Pommes de terre chaudes,Pomme de terre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pomme de terre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Envoyez un Spud ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de la véritable entreprise qui, pour seulement 9,99 $, enverra une pomme de terre à quelqu'un pour vous. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388886_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

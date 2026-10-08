@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bâton, corne, bûche de fromage, boule de riz, langue, tentacule, tête de poulet, jambe de cheval, mât de drapeau, lance, rouleau enflammé, moulinet, trompette, souche d'arbre, bras vert, visage de vieil homme, pince de crabe, pilier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "mythique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "globe oculaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La prochaine fois que vous serez au Japon, soyez à la recherche d'une créature mythique terrifiante connue sous le nom de Shirime. Il est facile à identifier grâce au <BLANK> qui dépasse de son anus. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "oeil, globe oculaire, globe oculaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407127_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

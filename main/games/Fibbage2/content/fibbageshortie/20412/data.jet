@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les payer en Beanie Babies, ne prendre que 30 secondes pour commander, enlever leurs chaussures, s'asseoir face à leur partenaire, manger des aliments auxquels ils sont allergiques, ne pas donner de pourboire, faire leur propre vaisselle, manger debout, ne pas parler à leurs serveurs, chanter leurs commandes, cuisiner leur propre nourriture, prendre des selfies, porter un costume, ne manger qu'avec des cuillères, lancer leurs menus, insulter le chef, ne pas utiliser les toilettes, payer les serviettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "plaidoyer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "donne-leur de mauvaises critiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Botto Bistro en Californie a lancé un appel très inhabituel à ses clients en leur demandant de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "donnez-leur une mauvaise note sur Yelp, donnez-leur une note d'une étoile sur Yelp, donnez-leur une note d'une étoile sur Yelp, donnez-leur une note d'une étoile, donnez-leur une note d'une étoile, donnez-leur une mauvaise critique, donnez-leur une mauvaise critique de Yelp, donnez-leur de mauvaises critiques de Yelp ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "396923_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "396920_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

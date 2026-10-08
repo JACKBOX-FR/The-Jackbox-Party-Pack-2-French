@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vodka, marteaux, pièces de monnaie, dentifrice, billes, vers, sous-vêtements, dents, blé, citrons, balles, savon, cheveux, hamburger, notes secrètes, pommes de terre, os, conseils ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "gâcher ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grenouilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant l’invention de la réfrigération, certains Russes utilisaient une astuce étrange mais efficace pour empêcher le lait de se gâter. Ils ont laissé tomber <BLANK> dans leurs seaux à lait. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "375191_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "375188_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

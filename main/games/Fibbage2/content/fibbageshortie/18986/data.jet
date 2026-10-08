@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pièces de monnaie, crottes de plésiosaure, frisbees, chaussures, pneus d'automobile, souvenirs du monstre du Loch Ness, porte-clés, crânes, anneaux en plastique, bouteilles de scotch, capsules de bouteilles, squelettes de poissons, statues anciennes, microbes, assiettes en papier, tubas, plaques d'identité militaires, pierres de curling ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Loch Ness ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "balles de golf ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2009, des scientifiques explorant le Loch Ness à bord d'un sous-marin ont découvert de manière inattendue des centaines de milliers de <BLANK> au fond. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "381164_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "381161_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

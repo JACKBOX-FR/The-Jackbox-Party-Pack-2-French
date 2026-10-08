@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boutique, croupe, drifter, micro, arrondissements, sabotage, groupe, intergalactique, singe en laiton, shambala, muzik, sure shot, shadrach, funky, body movin', chemise de batteur de femme, toilettes de flûte, animateurs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bête ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mulet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon l'Oxford English Dictionary, on attribue aux Beastie Boys l'invention du terme <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "399659_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

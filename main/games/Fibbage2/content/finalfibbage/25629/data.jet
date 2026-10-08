@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poupées vaudou, singes, logiciel de reconnaissance faciale, sièges éjectables, ail, pointes, lames de scie, cages à requins, verre pare-balles, sous-vêtements usagés, fausses sirènes de police, photos de Robocop, DVD de l'Académie de police, crânes de chiens, pattes de lapin, eaux usées brutes, miroirs, oiseaux d'attaque ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "chance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "photos d'Al Pacino ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "C'est une chose très étrange que les automobilistes thaïlandais placent sur leur véhicule en guise de porte-bonheur, pour repousser les sales flics. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Al Pacino,Pacino,des photos d'Al Pacino,des photos d'Al Pacino,des photos d'Al Pacino,une photo d'Al Pacino,une photo d'Al Pacino ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "430558_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

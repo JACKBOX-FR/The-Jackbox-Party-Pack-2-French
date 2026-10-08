@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "rien ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, rien ne se passe. Écoute, je vais te montrer. (sfx : déchirure) (sfx : explosion) ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Que se passe-t-il réellement si vous arrachez l'étiquette du matelas ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "378372_0f",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "378370_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

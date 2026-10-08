@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler, vous donner de l'énergie, changer de couleur, être résistant aux crayons, piéger les insectes, agrandir les pièces, chanter, changer selon votre humeur, créer de l'électricité, enregistrer votre voix, être un miroir, jouer des films, produire de la chaleur, augmenter votre espérance de vie, vous endormir, isoler une pièce, tuer les termites, attirer les papillons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "peindre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bloquer les signaux Wi-Fi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'Université de Tokyo a développé en 2009 un type spécial de peinture qui a la capacité de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bloquer les signaux sans fil, bloquer l'Internet sans fil, bloquer les signaux Internet sans fil, bloquer les signaux Wi-Fi, bloquer le Wi-Fi, bloquer le Wi-Fi, bloquer Internet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386501_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le président de la France, un tueur en série, un jumeau maléfique, un Martien, un zombie, le fantôme d'Abraham Lincoln, Dieu, lui-même, Babe Ruth, un basketteur, un sans-abri, le Père Noël, un malade mental, un proxénète, Winston Churchill, Charles Manson, un clown de cirque, un croque-mort ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "feuilleton ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un chirurgien du cerveau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Croyez-le ou non, le grand joueur de baseball Yogi Berra a déjà joué dans le feuilleton <i>General Hospital</i> dans le rôle de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chirurgien du cerveau, un chirurgien du cerveau, un chirurgien brian, un chirurgien du cerveau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "397766_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "397763_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

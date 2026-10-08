@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "plumes, lames, pommes de terre, fantômes, rêves, papier, insectes, boue, chou, nuages, métal, serpents, mauvaises herbes, tapis, glace, démons, latrines, rochers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "rare ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "verre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Maux étranges ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous souffrez du même trouble mental rare que le roi Charles VI, alors vous penserez que vous êtes fait de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "426899_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "407896_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

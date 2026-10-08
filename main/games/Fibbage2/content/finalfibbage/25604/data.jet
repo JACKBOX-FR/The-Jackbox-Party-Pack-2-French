@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dans leur cellule de prison, lors d'un rassemblement contre la drogue, Bong Street, sous un panneau publicitaire Willie Nelson, Doobie Drive, dans un magasin de casseroles et poêles, Weed Way, à l'intérieur d'une statue d'Elvis, Blunt Blvd., Reefer Reef, Ganja Circle, un théâtre où \"Hair\" jouait, dans une tombe ouverte, dans une montgolfière, au restaurant The Hash House, dans une ferme de mouffettes, sur une scène de crime, chez le chef de la police ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pot ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mary Jane Lane ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'endroit humoristique où la police de Park Ridge, dans l'Illinois, a cité des adolescents fumeurs de marijuana le 8 février 2015. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chemin Mary Jane, rue Mary Jane, avenue Mary Jane, sur Mary Jane Lane ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "429836_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "429833_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

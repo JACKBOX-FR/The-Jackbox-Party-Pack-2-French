@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis Batman | Je suis Batman ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Exactement. Dites à un juge que vous êtes Batman et il répondra : \"Gotham a besoin de vous. Sortez d'ici.\" ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Que dire pour sortir du devoir de juré ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "375951_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "375949_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

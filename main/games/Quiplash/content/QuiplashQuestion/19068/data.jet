@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "suce ma tour ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ouais, et s’ils vous disent de sucer leur tour, contrez-vous toujours avec un classique « lèche mon fou ». Vérifier. Et. Copain. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Discours trash que vous entendriez lors d'une rencontre d'échecs ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "381702_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "381700_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

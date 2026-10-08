@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un canard, un mormon, un abat-jour, un personnage de dessin animé, un homme mort, une planète, un grille-pain, une vache, une vieille grange, un bébé, une chèvre, un chimpanzé, un sans-abri, un panneau de signalisation, un tracteur, un sandwich, un grain de poussière, un arbre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "glissement de terrain ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un rhinocéros ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les habitants de Sao Paulo, au Brésil, ont été plus que surpris lorsque <BLANK> a remporté une élection au conseil municipal en 1959 par une écrasante majorité. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rhino, rhinocéros, rhinocéros ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "378461_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "378458_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

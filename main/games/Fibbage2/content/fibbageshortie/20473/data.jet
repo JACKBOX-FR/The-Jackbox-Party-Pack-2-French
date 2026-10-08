@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "télécharger leur application, être pape pour Halloween, écouter leur podcast, boire de l'eau fluorée, conduire un hybride, avoir une maison intelligente, regarder leur websérie, se débarrasser de son roomba, commander des bougies religieuses en ligne, laver sa voiture, appeler sa mère une fois par semaine, manger plus de chou frisé, donner 20 dollars par an, éviter les cigarettes électroniques, utiliser les transports en commun, manger moins de glucides, s'inscrire à une salle de sport, acheter un journal ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "purgatoire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "suivre le Pape sur Twitter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, le Vatican a fait une annonce inhabituelle selon laquelle les catholiques dévoués peuvent désormais réduire leur temps passé au purgatoire simplement par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "suivre le pape François sur Twitter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398363_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

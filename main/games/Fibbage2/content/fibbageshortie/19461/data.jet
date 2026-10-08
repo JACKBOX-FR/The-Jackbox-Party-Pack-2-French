@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "panthères noires, jeunes, tes parents, bavardages, faire la vaisselle, une relation significative, l'âge adulte, tomber enceinte, hippies, ouvriers d'usine, oryctéropes, bal de promo, contact visuel, trouver un travail, guêpes, crème glacée, pièges à ours, voter ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "éviter ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "herbe à puce ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1969, l'éditeur de jeux de société Ideal publie un jeu bizarre dans lequel l'objectif est d'éviter <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "386477_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

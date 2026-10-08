@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ange destructeur, Piquant de douleur, Douleur dans les fesses, Le fardeau de Benedict Arnold, Trompette de la mort, Coussin de Satan, Tabouret épineux, Rêve du proctologue, Plante Boink Boink, Canapé en colère, Chaise de l'enfer, Travailleur grincheux, Fesses hérissées, Ticklemerear, Pouf du diable, La rétribution du garçon paresseux, Bum Hurter, Grand truc de plante autocollante ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cactus ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Chaise de belle-mère ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom commun de la plante de cactus Echinocactus grusonii est, avec humour, <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Oreiller de belle-mère, oreiller de belle-mère, chaise de belle-mère, coussin de belle-mère, coussin de belle-mère ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417945_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "milliardaires, Beatles, présidents, géologues, prêtres, auteurs, membres de Mensa, jongleurs, hermaphrodites, mimes, athées, végétariens, athlètes professionnels, vierges, artistes du disque, créateurs de mode, mannequins de sous-vêtements, chrétiens ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "sperme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Lauréats du prix Nobel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans les années 1990, un optométriste nommé Robert Klark Graham a fondé une banque de sperme très spécifique où tous les donneurs étaient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "les gens qui ont gagné des prix Nobel,les gens qui ont gagné des prix Nobel,les lauréats de prix Nobles,les gens qui ont gagné des prix Nobles,les gens qui ont gagné des prix Nobles,les lauréats de Nobel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "417187_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

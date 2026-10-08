@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gros, gros, faux, stupide, petit, non, sage, politique, leader, idiot, feu, déformé, fesses, air, bancal, rouge, démon, sorcière ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gaélique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "moche ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En gaélique, le nom de famille Kennedy signifie malheureusement « tête <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "379763_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379760_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

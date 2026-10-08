@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fais-le, pense différemment, tu es viré, la guerre est bonne pour les affaires, à bas la famille royale, la vie de voyou, la démocratie est roi, c'est fou pour toi, j'adore ça, pas un roi, le cueilleur le plus rapide, à bas la maladie, souviens-toi de Sammy Jenkins, ton nom ici, pas de Suède, à bas les tatouages, Hé, Macarena, je suis un poisson suédois ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "roi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mort aux rois ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le roi Charles XIV de Suède avait en fait un tatouage sur son bras qui disait, étonnamment, « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jetons de la mort, mort aux rois, jetons de la mort ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "416262_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

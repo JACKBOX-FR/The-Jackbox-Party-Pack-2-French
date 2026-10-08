@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tortues, rock'n'roll, Fluffernutter, Hello Kitty, Zumba, romans de vampires, New York, un défilé, Lucy, One Direction, saison des sweat-shirts, culture de haricots, quilting, bonbons, une belle manucure-pédicure, badminton, économe, dormir dans mon Hummer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwarzenegger ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "selfies ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "9h56 - 11 octobre 2014 @Schwarzenegger a tweeté : \"C'est vrai. J'adore <BLANK>.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "412685_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "388145_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388142_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

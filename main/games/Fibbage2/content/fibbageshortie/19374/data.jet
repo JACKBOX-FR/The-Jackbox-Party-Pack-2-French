@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sexe oral, bosse sèche, polygamie, yodeling, kick boxing, guerre des gangs, infanticide, contraception, sports nautiques, sculpture sur glace, suicide rituel, toilettage des plumes, homosexualité, cognement de la poitrine, danse, football, prière, démocratie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "pingouins ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "prostitution ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La zoologiste britannique Fiona Hunter a fait la découverte étrange que les manchots Adélie de l'Antarctique pratiquent parfois <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "commerce du sexe, commerce du sexe, échange de sexe contre des pierres, échange de pierres contre du sexe, échange de sexe contre des pierres de nidification, être des prostituées, être des prostituées, le métier le plus ancien ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "384026_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

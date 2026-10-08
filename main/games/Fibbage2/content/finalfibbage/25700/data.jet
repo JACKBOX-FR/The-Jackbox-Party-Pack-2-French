@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Huggers, Vêtements, Buttbumpers, Shorts pour bébé, Poopers, Pumpers, Accident Holders, Couches, Hollies, Shummers, Caca, Jetables, Howards, Grabbies, Clampers, PeePants, Pilkers, Hoosiers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "couches ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les plaisanciers ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de marque donné aux premières couches jetables. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "431298_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

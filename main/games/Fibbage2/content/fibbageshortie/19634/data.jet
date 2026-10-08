@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mort, Iggy Azalea, un loup-garou, un prince nigérian, un pilote, un acteur de SNL, un joueur de football professionnel, le fils du gouverneur, un extraterrestre, dans le coma, en prison, un avocat, un Kennedy, Bigfoot, une personne âgée, un instructeur de surf, un agent du FBI, un météorologue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "faire semblant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un obstétricien/gynécologue ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En janvier 2015, un adolescent a été arrêté à West Palm Beach, en Floride, pour avoir fait semblant d'être <BLANK> pendant plus d'un mois. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un médecin, un médecin, un gynécologue, un obstétricien, un OBGYN, un OB-GYN, un OB GYN, un OBGYN, un OB/GYN, un OB-GYN, un OB GYN ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "390602_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390599_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

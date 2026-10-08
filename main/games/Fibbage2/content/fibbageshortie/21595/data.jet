@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vladimir Poutine, Rocky IV, Seinfeld, cannibalisme, flatulences, poils sur la poitrine, troisièmes tétons, circoncisions, The Legend of Zelda, blanchiment anal, Le Monde de Nemo, strip poker, l'abominable bonhomme de neige, Larry King, arthrite, lutte dans la boue, viande pour le déjeuner, crystal meth ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Dépenses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lavements ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La ville de Jeleznovodsk, en Russie, a dépensé 42 000 $ pour ériger une statue en bronze de 800 livres qui, étrangement, célèbre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nettoie,le lavement ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "408976_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

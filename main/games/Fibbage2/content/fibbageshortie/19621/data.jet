@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poulets, patates douces, fedoras, tables de cuisine, nouveau-nés, bonhommes de neige fondants, ex-amants, leurs ennemis, lits, leurs démons intérieurs, seulement de la musique de Josh Groban, amis malades, vêtements préférés, fantômes, robots, leurs animaux de compagnie, tiges de maïs, yaks ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Madagascar ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "parents décédés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le peuple malgache de Madagascar a une tradition tous les sept ans, dans laquelle il danse avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ancêtres morts, membres de la famille décédés, morts, les morts, les personnes décédées, leurs parents décédés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "390290_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "390287_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

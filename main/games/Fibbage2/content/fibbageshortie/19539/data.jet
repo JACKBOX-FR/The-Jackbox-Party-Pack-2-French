@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boeuf séché, huile de voiture, lombaire, peau de cerf, gant de baseball, poudre à canon, barbe sale, feu de camp, cuir, steak grillé, bourbon, vieux livres, canne à pêche, gel capillaire, tabac à pipe, football, vieille épice, hachette ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bougies ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un modèle de maillot de bain ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La société Mandle fabrique des bougies exclusivement pour les hommes, comme le code produit SSMO, qui prétend avoir l'odeur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "modèle de maillot de bain,modèles de maillot de bain ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "388334_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

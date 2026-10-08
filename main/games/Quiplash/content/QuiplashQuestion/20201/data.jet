@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "préketchup|pré-ketchup ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Pré-ketchup. Oui, il remplit une fonction très importante : lubrifier la plaque afin de la préparer au reste du ketchup. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Inventez un mot pour désigner les substances aqueuses qui sortent d'une bouteille de ketchup lorsque vous la pressez pour la première fois ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "395112_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "395110_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

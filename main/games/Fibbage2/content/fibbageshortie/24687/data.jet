@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les insectes, le soleil, les clowns, le lait, la mer ouverte, les personnes âgées, les extraterrestres, la pluie, le gouvernement, les lignes de sang impur, les poules, ne pas être cool, dire « je t'aime », les arbres, la foudre, les araignées, regarder sous les lits, les statues ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Grèce ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "des zombies ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, des chercheurs de l'Université de Pittsburgh ont conclu que, curieusement, les habitants de la Grèce antique avaient peur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "zombies, zombie, le zombie, les morts-vivants, les morts-vivants ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "424639_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

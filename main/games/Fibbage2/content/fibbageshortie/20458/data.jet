@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger un loup, parler aux baleines, apprendre l'elfique, identifier mes propres pets, voyager dans le temps, lutter contre un lion, se lancer dans le saut à la corde, manger un jambon entier, distancer un guépard, manger un bol d'ongles, comprendre les extraterrestres, vivre comme un homme des cavernes, vivre comme un cheval, parler à mon chat, tuer mon sosie, faire flotter les choses avec mon esprit, ne manger que des hot-dogs, être un Frankenstein ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "bizarre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire mon propre sang ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "\"Je pense que je pourrais <BLANK>. Est-ce que c'est bizarre ?\" - Jessica Biel dans une interview en 2004 ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "418787_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "398003_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}
