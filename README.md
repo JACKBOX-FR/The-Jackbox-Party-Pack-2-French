@@ -6,11 +6,11 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 
 | Jeu  | Jeu dans dossiers |Textes du jeu | Fichiers internes (images, polices, etc) |Doublage | Crédits |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Earwax | Earwax | ✅ | ✅ | ❌ | brendaverasoie ,[NIX3S](https://github.com/NIX3S)|
-| Fibbage 2  | Fibbage2 | ✅ | ✅ | ❌ |[NIX3S](https://github.com/NIX3S) | 
-| Bidiots  | Auction | ✅ | ✅| ❌ | the_sign_painter, [Alexis](https://github.com/AlexisL61) & [Lamisedaxeh](https://github.com/Lamisedaxeh) |
-| Quiplash | Quiplash | ✅ | ✅ | ❌ | [NIX3S](https://github.com/NIX3S)|
-| Bomb corp | BombInterns | ✅ | ✅ | ❌ | [Alexis](https://github.com/AlexisL61) |
+| Earwax | Earwax | ✅ | ✅ | ✅ | brendaverasoie ,[NIX3S](https://github.com/NIX3S)|
+| Fibbage 2  | Fibbage2 | ✅ | ✅ | ✅ |[NIX3S](https://github.com/NIX3S) | 
+| Bidiots  | Auction | ✅ | ✅| ✅ | the_sign_painter, [Alexis](https://github.com/AlexisL61) & [Lamisedaxeh](https://github.com/Lamisedaxeh) |
+| Quiplash | Quiplash | ✅ | ✅ | ✅ | [NIX3S](https://github.com/NIX3S)|
+| Bomb corp | BombInterns | ✅ | ✅ | ✅ | [Alexis](https://github.com/AlexisL61) |
 | Jeu | PartyPack + Picker | ✅ | ✅ |   |  |
 
 ✅ Terminé</br>
